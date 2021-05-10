@@ -1,12 +1,15 @@
 ## Hello, I'm Josh!
 
+I'm a software developer by trade, but am currently working in esports as a tournament referee and statistician. 
+
+<br style="border-bottom: grey solid 2px" />
+
 <p align='center'>
   <a href="https://github.com/JasherIO"><img height="30" src="https://github.com/JasherIO/JasherIO/blob/main/static/github.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/JasherIO/"><img height="30" src="https://github.com/JasherIO/JasherIO/blob/main/static/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://smash.gg/user/3cba5634"><img height="30" src="https://github.com/JasherIO/JasherIO/blob/main/static/smashgg.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/JasherIO"><img height="30" src="https://github.com/JasherIO/JasherIO/blob/main/static/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://twitch.tv/JasherIO"><img height="30" src="https://github.com/JasherIO/JasherIO/blob/main/static/twitch.png?raw=true"></a>
-  
 </p>
 
 <!--
