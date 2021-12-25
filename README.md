@@ -1,16 +1,97 @@
 ## Hello, I'm Josh!
 
-I'm a software developer by trade, but am currently working in esports as a tournament referee and statistician. 
+- 🔭 I’m currently working on the [RLCS](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series) as a tournament referee and statistican
+- 🌱 I’m currently learning [Remix](https://remix.run/)
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/JasherIO/) or [Twitter](https://twitter.com/JasherIO)
+- 😄 Pronouns: He/Him
 
-<br style="border-bottom: grey solid 2px" />
+<!-- SourcE: https://github.com/suhailkakar/suhailkakar/blob/main/README.md -->
+<h2 align="left" id="jasher-tech">Favorite Tech</h2>
 
-<p align='center'>
-  <a href="https://github.com/JasherIO"><img height="30" src="https://github.com/JasherIO/JasherIO/blob/main/static/github.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/JasherIO/"><img height="30" src="https://github.com/JasherIO/JasherIO/blob/main/static/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://smash.gg/user/3cba5634"><img height="30" src="https://github.com/JasherIO/JasherIO/blob/main/static/smashgg.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/JasherIO"><img height="30" src="https://github.com/JasherIO/JasherIO/blob/main/static/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://twitch.tv/JasherIO"><img height="30" src="https://github.com/JasherIO/JasherIO/blob/main/static/twitch.png?raw=true"></a>
-</p>
+> Tools, languages, and other things that I like to work with.
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#jasher-tech">
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#jasher-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#jasher-tech">
+        <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#jasher-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#jasher-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <a href="#jasher-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
+      <a href="#jasher-tech">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+    <td align="center" width="96">
+      <a href="#jasher-tech">
+        <!-- Source: https://drive.google.com/drive/u/0/folders/1pbHnJqg8Y1ATs0Oi8gARH7wccJGv4I2c / https://imgur.com/5u9iyzx -->
+        <img src="https://i.imgur.com/5u9iyzx.png" width="48" height="48" alt="Remix" />
+      </a>
+      <br>Remix
+    </td>
+     <td align="center" width="96">
+      <a href="#jasher-tech">
+        <!-- Source: https://about.google/brand-resource-center/logos-list/ -->
+        <img src="https://lh3.googleusercontent.com/yCF7mTvXRF_EhDf7Kun5_-LMYTbD2IL-stx_D97EzpACfhpGjY_Frx8NZw63rSn2dME0v8-Im49Mh16htvPAGmEOMhiTxDZzo6rB7MY" width="48" height="48" alt="Sheets" />
+      </a>
+      <br>Sheets
+    </td>
+    <td align="center" width="96">
+      <a href="#jasher-tech">
+        <img src="https://svelte.dev/svelte-logo.svg" width="48" height="48" alt="Svelte" />
+      </a>
+      <br>Svelte
+    </td>
+    <td align="center" width="96">
+      <a href="#jasher-tech">
+        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48" height="48" alt="TailWind" />
+      </a>
+      <br>TailWind
+    </td>
+    <td align="center" width="96">
+      <a href="#jasher-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+  </tr>
+    
+</table>
 
 <!--
 **JasherIO/JasherIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
