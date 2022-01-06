@@ -1,5 +1,5 @@
 ---
-title: Day 8\: Perspective
+title: "Day 8: Perspective"
 description:
 date: 2021-12-28 
 category: Daily Design
