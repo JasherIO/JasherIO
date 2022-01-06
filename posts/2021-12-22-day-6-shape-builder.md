@@ -1,5 +1,5 @@
 ---
-title: Day 6: Shape Builder (Jasher)
+title: "Day 6: Shape Builder (Jasher)"
 description:
 date: 2021-12-22 
 category: Daily Design
