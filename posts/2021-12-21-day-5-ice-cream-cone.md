@@ -1,5 +1,5 @@
 ---
-title: Day 5: Ice Cream Cone
+title: "Day 5: Ice Cream Cone"
 description:
 date: 2021-12-21 
 category: Daily Design
