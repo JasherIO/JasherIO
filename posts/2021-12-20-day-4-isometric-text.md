@@ -1,5 +1,5 @@
 ---
-title: Day 4: Isometric Text
+title: "Day 4: Isometric Text"
 description:
 date: 2021-12-20 
 category: Daily Design
