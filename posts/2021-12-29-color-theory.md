@@ -93,3 +93,30 @@ course_url: https://www.udemy.com/course/graphic-design-theory-for-beginners-cou
 - Color Pallete: an assortment of color swatches
 - Duotone: multi-tone prints with individual color channels
 - Gradient: a blend of different colors and/or patterns
+
+## Color Harmonies and Meanings
+
+- We associate colors with feelings
+  - red: energy, alertness, love
+  - orange: excitement, art, food
+  - yellow: happiness, stimulation, attention
+  - green: health, calmness, earth
+  - blue: trust, loyalty, security
+  - purple: wealth, pride, luxury
+  - brown: reliablity, honesty, natural
+  - gray: neutrality, communication, composure
+  - black: power, discipline, elegance
+  - white: purity, cleanliness, light
+- warm: red, orange, yellow
+- cool: green, blue, purple
+
+### Harmonies
+
+- Monochromatic: different tints and shades of a single color
+- Analagous: different hues close to the main color on the color wheel
+  - more variety than monochromatic
+  - common to warm and cool color palletes
+- Complementary: colors 180 degrees from the source color
+- Triad: three colors evenly spaced across the color wheel
+
+
