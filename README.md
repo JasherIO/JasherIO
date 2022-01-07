@@ -8,7 +8,7 @@
 <!-- SourcE: https://github.com/suhailkakar/suhailkakar/blob/main/README.md -->
 <h2 align="left" id="jasher-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools and languages I like to work with.
 
 <table align="center">
   <tr>
