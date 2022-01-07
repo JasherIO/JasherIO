@@ -86,4 +86,10 @@ course_url: https://www.udemy.com/course/graphic-design-theory-for-beginners-cou
   - 16 bits = 65,536 colors (print)
   - 32 bits = 16,777,215 colors (big prints; large file sizes)
 
+## Color Selections and Methods
 
+- Color Picker: extract color information from individual pixels
+- [Adobe Color](https://color.adobe.com)
+- Color Pallete: an assortment of color swatches
+- Duotone: multi-tone prints with individual color channels
+- Gradient: a blend of different colors and/or patterns
