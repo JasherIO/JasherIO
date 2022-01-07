@@ -57,4 +57,33 @@ course_url: https://www.udemy.com/course/graphic-design-theory-for-beginners-cou
 
 ## Color Mixing and Systems
 
+### RGB (red green blue) 
+
+- displays
+- Good for objects that use light
+- Additive color: colors combine to complete the full color spectrum
+
+### CYMK (cyan magenta yellow key)
+
+- printing
+- Subtractive color: colors are absorbed into the object or substrate
+- Key: black pigment
+
+## Color for Digital and Print Media
+
+### Pixel density
+
+- Pixels per inch (PPI); display
+- Pixels per cm (PPC); display
+- Dots (of pigment) per inch (DPI); print
+- Bit depth: the amount of colors that can be stored in a channel (ex. red, blue, green in RGB)
+  - 1 bit = 2 colors
+  - 2 bits = 4 colors
+  - 3 bits = 8 colors
+  - 4 bits = 16 colors
+  - ...
+  - 8 bits = 256 colors (web design)
+  - 16 bits = 65,536 colors (print)
+  - 32 bits = 16,777,215 colors (big prints; large file sizes)
+
 
