@@ -129,3 +129,14 @@ course_url: https://www.udemy.com/course/graphic-design-theory-for-beginners-cou
 
 [Source](https://www.instagram.com/p/CYafPq9F_XZ/)
 
+## Selecting Color for a New Design
+
+- think of the feel or emotion you're trying to emit to the viewer
+- think of the audience
+- use mood boards to test out different color choices
+
+![The Clawery](https://user-images.githubusercontent.com/3475947/148655294-53e8ee83-8c50-40a4-a196-a2fe1d22838b.png)
+
+![https___unsplash com_photos_V9ounv39B7k](https://user-images.githubusercontent.com/3475947/148655299-002b40b3-a231-4d9b-bb51-436f64c9b4a5.png)
+
+
