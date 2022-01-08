@@ -66,3 +66,4 @@ course_url: https://www.udemy.com/course/graphic-design-theory-for-beginners-cou
 
 ![TheAnatomyofTypography-Poster-01](https://user-images.githubusercontent.com/3475947/148657171-002739a8-7c1b-465e-9b13-eff59e97a86e.jpg)
 
+## Serif Fonts
