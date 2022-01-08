@@ -119,4 +119,13 @@ course_url: https://www.udemy.com/course/graphic-design-theory-for-beginners-cou
 - Complementary: colors 180 degrees from the source color
 - Triad: three colors evenly spaced across the color wheel
 
+## Create a Mood Board with Canva
+
+- [Canva: Color Palette Generator](https://www.canva.com/colors/color-palette-generator/)
+- Take color inspiration from related scenes/objects (ex. if designing something for a grocery store, take inspiration from the colors of greens and other foods)
+- [Canva: Design Size Guide](https://www.canva.com/sizes/)
+
+![Bear Mood Board](https://user-images.githubusercontent.com/3475947/148654253-7ce58947-e3a2-4d6b-8f9c-b0a17a203d93.png)
+
+[Source](https://www.instagram.com/p/CYafPq9F_XZ/)
 
