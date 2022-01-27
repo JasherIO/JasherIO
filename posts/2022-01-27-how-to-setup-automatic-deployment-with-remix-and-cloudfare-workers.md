@@ -3,7 +3,7 @@ title: How to Setup Automatic Deployments with Remix and Cloudfare Workers
 description:
 date: 2021-1-27 
 category: JasherIO
-publish: draft
+status: draft
 ---
 
 # How to Create a GitHub Action
