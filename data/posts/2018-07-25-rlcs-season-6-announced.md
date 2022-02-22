@@ -1,6 +1,6 @@
 ---
 title: Rocket League Joins Million Dollar Club
-descripton: Rocket League Esports has officially joined the million dollar club - a mark that is commonly used to show the success and status of an esport.
+description: Rocket League Esports has officially joined the million dollar club - a mark that is commonly used to show the success and status of an esport.
 date: 2018-07-25
 category: This Week in Rocket League
 keywords:
