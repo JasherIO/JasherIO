@@ -1,6 +1,6 @@
 ---
 title: Rival Series Holds Play-Ins This Weekend
-descripton: Teams from Europe and North America have battled over the past month for 128 spots for this weekend's play-ins. 4 teams in Europe and 6 teams in North America have a chance at qualifying for Rival Series.
+description: Teams from Europe and North America have battled over the past month for 128 spots for this weekend's play-ins. 4 teams in Europe and 6 teams in North America have a chance at qualifying for Rival Series.
 date: 2018-08-29
 category: This Week in Rocket League
 keywords:
