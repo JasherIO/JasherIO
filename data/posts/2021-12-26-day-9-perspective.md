@@ -1,9 +1,11 @@
 ---
 title: "Day 9: Perspective"
-description: 
+description: "Day 9: Perspective"
 date: 2021-12-28 
 category: Daily Design
 keywords: 
+  - design
+  - graphic design
 ---
 
 ![2021-28-Dec-Perspective](https://user-images.githubusercontent.com/3475947/147596595-acd0ec4e-47c2-45e2-b464-7ca4904b7739.png)

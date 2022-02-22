@@ -1,9 +1,11 @@
 ---
 title: Redesigning JasherIO
-description: 
+description: Redesigning JasherIO
 date: 2021-12-19 
 category: Jasher.io
 keywords: 
+  - remix
+  - portfolio
 status: draft
 ---
 
