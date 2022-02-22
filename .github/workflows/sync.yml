@@ -14,4 +14,4 @@ jobs:
         uses: BetaHuhn/repo-file-sync-action@v1
         with:
           GH_PAT: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-          PR_LABELS: automerge
+          PR_LABELS: auto-merge
