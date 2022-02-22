@@ -1,12 +1,13 @@
 ---
 title: Dignitas Repeats
-date: 2018-06-13 13:00:00
+description: Renault Vitality and G2 fell early, Tainted Minds held their own, Chiefs took out a European team, and NRG looked like the team to beat. They marched through Envy, Dignitas, and Complexity on their way to the Grand Finals. But, Dignitas had their own story to write.
+date: 2018-06-13
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - World Championship
     - Northern Arena
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Renault Vitality and G2 fell early, Tainted Minds held their own, Chiefs took out a European team, and NRG looked like the team to beat. They marched through Envy, Dignitas, and Complexity on their way to the Grand Finals. But, Dignitas had their own story to write. Despite their loss to NRG, they persevered in the lower bracket, and continued to the Championship Match. They trounced NRG in the first set (4-1) and looked to do the same in the bracket reset match. However, NRG pulled back two games and forced a conclusive Game 7. The final game started with a Turbopolsa own goal and as the game progressed into the final minute, [mayhem ensued](https://twitter.com/TeamDignitas/status/1005920458200383489). At the end of it all, [Diginitas claimed their second consecutive World Championship](http://rocketeers.gg/rlcs-season-5-world-champions/).

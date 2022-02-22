@@ -1,16 +1,17 @@
 ---
 title: Rocket League Celebrates 3 Years
+description: Rocket League reaches its 3 year anniversary on July 7th. To celebrate, Psyonix is hosting a birthday party on July 19th at Petco Park and releasing the Anniversary Event on July 9th.
 date: 2018-07-04 13:00:00
 category: This Week in Rocket League
-tags:
+keywords:
     - Anniversary
     - Birthday
     - RIVAL Esports
     - College Carball Association
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
-Rocket League reaches its 3 year anniversary on July 7th. To celebrate, Psyonix is hosting a [birthday party](https://www.rocketleague.com/news/rocket-league-third-birthday-party/) on July 19th at Petco Park and releasing the the [Anniversary Event](https://www.rocketleague.com/news/rocket-league-anniversary-event-july-9/) on July 9th. The next event includes a casual playlist with the new Stadium arena (a remaster arena from SARPBC), keyless 'Golden Egg' crates, and event cosmetics.
+Rocket League reaches its 3 year anniversary on July 7th. To celebrate, Psyonix is hosting a [birthday party](https://www.rocketleague.com/news/rocket-league-third-birthday-party/) on July 19th at Petco Park and releasing the [Anniversary Event](https://www.rocketleague.com/news/rocket-league-anniversary-event-july-9/) on July 9th. The next event includes a casual playlist with the new Stadium arena (a remaster arena from SARPBC), keyless 'Golden Egg' crates, and event cosmetics.
 
 # RIVAL Unveil The Climb
 

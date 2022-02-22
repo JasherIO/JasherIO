@@ -1,8 +1,9 @@
 ---
 title: Friends List Releases February 19th
-date: 2019-02-15 13:00:00
+description: The Friends List Update releases on February 19th. The new feature allows players to party up across PC, PS4, Xbox, and Nintendo Switch.
+date: 2019-02-15
 category: This Week in Rocket League
-tags:
+keywords:
     - Friends List
     - Cross-Platform Parties
     - Feature Update
@@ -11,7 +12,7 @@ tags:
     - Renegade Cup
     - Collegiate Rocket League
     - CStarLeague
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 The **Friends List Update** [releases on February 19th](https://www.rocketleague.com/news/friends-update-coming-february-19/). The new feature allows players to party up across PC, PS4, Xbox, and Nintendo Switch. The update also includes a the end of Competitive Season 9 and beginning of Competitive Season 10. Lastly, the extra mode playlists are being added to free play. [Learn more...](https://www.rocketleague.com/news/friends-update-coming-february-19/)

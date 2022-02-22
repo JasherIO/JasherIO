@@ -1,8 +1,9 @@
 ---
 title: Tournaments Hotfix Releases Today
-date: 2018-04-11 13:00:00
+description: Psyonix is releasing a hotfix update today at 2PM PT to address bugs introduced with last week's Tournaments Update.
+date: 2018-04-11
 category: This Week in Rocket League
-tags:
+keywords:
     - Tournaments
     - Feature Update
     - Championship Series
@@ -10,14 +11,10 @@ tags:
     - Throwdown
     - Gfinity
     - Mythical
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
-Psyonix is releasing a hotfix update today at 2PM PT to address bugs introduced with last week's _Tournaments Update_.
-
-Their highest priority is "investigating reports of new server issues." and additional tools that help players identify troublesome servers.
-
-As consolation, players who have signed in since the last update will receive 3 decryptors. In addition, all players will be able to participate in a double drop-rate weekend on a to-be-determined date.
+Psyonix is releasing a hotfix update today at 2PM PT to address bugs introduced with last week's _Tournaments Update_. Their highest priority is "investigating reports of new server issues." and additional tools that help players identify troublesome servers. As consolation, players who have signed in since the last update will receive 3 decryptors. In addition, all players will be able to participate in a double drop-rate weekend on a to-be-determined date.
 
 For more information, read the [official post](https://www.reddit.com/r/RocketLeague/comments/8bajm9/tournaments_update_followup/).
 

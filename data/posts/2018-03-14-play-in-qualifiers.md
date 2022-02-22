@@ -1,13 +1,14 @@
 ---
 title: Play-In Qualifiers
-date: 2018-03-14 13:00:00
+description: Over the weekend, Rival Series and ThrowdownTV hosted qualifiers for their last league spots. In Europe and North America, 4 teams qualified for league play. They join the 4 teams returning to Rival Series on Friday with Week 1 fixtures. In Oceania, 6 teams joined the OCE Championship.
+date: 2018-03-14
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - Fantasy League
     - Minor League Doubles
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Over the weekend, Rival Series and ThrowdownTV hosted qualifiers for their last league spots. In Europe and North America, 4 teams qualified for league play. They join the 4 teams returning to Rival Series on Friday with Week 1 [fixtures](https://www.rocketleagueesports.com/schedule/). In Oceania, 6 teams joined the OCE Championship.

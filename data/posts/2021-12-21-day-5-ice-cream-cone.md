@@ -3,6 +3,7 @@ title: "Day 5: Ice Cream Cone"
 description:
 date: 2021-12-21 
 category: Daily Design
+keywords: 
 ---
 
 ![2021-21-Dec-Ice-Cream-Cone-Indigo](https://user-images.githubusercontent.com/3475947/147011111-c560dd7c-397e-472b-9d29-97592a2d6708.png)

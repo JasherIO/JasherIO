@@ -1,15 +1,16 @@
 ---
 title: Hot Wheels RC Set Announced
-date: 2018-02-13 13:00:00
+description: Today, Psyonix announced that Hot Wheels will be producing a [Rocket League themed RC set](https://www.rocketleague.com/news/hot-wheels-rocket-league-rc-cars-holiday-2018/), which includes RC cars, a game ball, and a stadium.
+date: 2018-02-13
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - Gfinity
     - Gold Rush
     - League of Rockets
     - Hot Wheels
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Last year Psyonix began a partnership with Hot Wheels by [introducing the 'Twin Mill III' and 'Bone Shaker'](https://www.rocketleague.com/news/hot-wheels-coming-to-rocket-league/) battle cars to Rocket League. Today, they announced that Hot Wheels will be producing a [Rocket League themed RC set](https://www.rocketleague.com/news/hot-wheels-rocket-league-rc-cars-holiday-2018/), which includes RC cars, a game ball, and a stadium.

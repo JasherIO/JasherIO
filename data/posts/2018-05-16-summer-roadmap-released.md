@@ -1,14 +1,15 @@
 ---
 title: Summer Roadmap Released
-date: 2018-05-16 13:00:00
+description: Last Thursday Psyonix released summer roadmap, a preview of new features we can expect over the next three months.
+date: 2018-05-16
 category: This Week in Rocket League
-tags:
+keywords:
     - Content Update
     - RocketID
     - Rocket Pass
     - Ballistix
     - Northern Arena
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Last Thursday _Psyonix_ released [summer roadmap](https://www.reddit.com/r/RocketLeague/comments/8ii3kk/rocket_league_roadmap_summer_2018/), a preview of new features we can expect over the next three months. We can look forward to a late May update that includes a new arena, [new competitive season](https://www.reddit.com/r/RocketLeague/comments/8jnng0/competitive_season_7_rewards_preview_and_season_8/), and an additional _Monstercat_ playlist. June and July features 2 in-game events and the release of a new licensed car(s). The roadmap concludes with the _Summer Feature Update_: cross-platform parties, Progression 2.0, and _Rocket Pass_.

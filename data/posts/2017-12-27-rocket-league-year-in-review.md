@@ -1,12 +1,13 @@
 ---
 title: Rocket League Year in Review
-date: 2017-12-27 13:00:00
+description: Reviewing Rocket League news from 2017
+date: 2017-12-27
 category: This Week in Rocket League
-tags:
+keywords:
     - 6Mans
     - DreamHack
     - Gold Rush
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 [Source](https://www.rocketleague.com/news/2017-year-in-review/)

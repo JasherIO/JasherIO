@@ -1,14 +1,15 @@
 ---
 title: Tournaments Debut in Next Feature Update
-date: 2018-02-20 13:00:00
+description: Rocket League's new tournaments feature will debut in the next feature update (March-April).
+date: 2018-02-20
 category: This Week in Rocket League
-tags:
+keywords:
     - Tournaments
     - DC Comics
     - League of Rockets
     - OctaneGG
     - Throwdown
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Rocket League's new tournaments feature will debut in the next [feature update](https://www.rocketleague.com/news/rocket-league-roadmap-spring-2018/) (March-April). Organizers will be able to [create single-elimination tournaments](http://www.ign.com/articles/2017/09/13/rocket-leagues-new-tournament-system-aims-to-get-players-into-esports) with up to 128 teams. They will also be able to configure the game mode (1v1, 2v2, 3v3, 4v4), game type (soccar, hoops, rumble, etc.), and minumum and maximum ranks.

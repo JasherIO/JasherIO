@@ -1,22 +1,19 @@
 ---
 title: ELEAGUE Partnership Detailed
-description:
-date: 2019-03-10 13:00:00
+description: On Feburary 11th ELEAGUE and Psyonix announced a business and event partnership. The deals include a show about the next two seasons of RLCS, Turner Sports handling advertising and sponsorships for the next two seasons of RLCS, and ELEAGUE hosting the Spring Invitational at the NCAA Final Four Fan Fest.
+date: 2019-03-10
 category: This Week in Rocket League
-tags:
-    [
-        "RLCS",
-        "RLRS",
-        "RLOM",
-        "Gfinity AU",
-        "Grand Series",
-        "Rocket Street",
-        "Collegiate Rocket League",
-        "CStarLeague",
-        "League of Rockets",
-    ]
-cover: ../img/TWiRL.png
-fullscreen: true
+keywords:
+    - "RLCS"
+    - "RLRS"
+    - "RLOM"
+    - "Gfinity AU"
+    - "Grand Series"
+    - "Rocket Street"
+    - "Collegiate Rocket League"
+    - "CStarLeague"
+    - "League of Rockets"
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 On Feburary 11th [ELEAGUE](https://www.eleague.com/rocketleague-2019/news/partnership) and [Psyonix](https://www.rocketleagueesports.com/news/collegiate-rocket-league-heads-to-ncaa-final-four-fan-fest/) announced a business and event partnership. The deals include a show about the next two seasons of RLCS, Turner Sports handling advertising and sponsorships for the next two seasons of RLCS, and ELEAGUE hosting the _Spring Invitational_ at the NCAA Final Four Fan Fest. Over the past week, [Andrew Hayward](https://twitter.com/ahaywa) has released two follow up articles on the partnership. The [first](https://esportsobserver.com/eleague-rocket-league-ncaa/) announces that TBS is broadcasting a highlight show on April 12th for the _Spring Invitational_ and that AXE is sponsoring the event. The [second](https://esportsobserver.com/psyonix-eleague-interview/) discusses the move of league operations from Twitch to Psyonix, why Turner Sports is taking over advertising and sponsorship, and future plans for Rocket League esports.

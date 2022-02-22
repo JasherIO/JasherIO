@@ -1,8 +1,9 @@
 ---
 title: Tournaments Update Releases
-date: 2018-04-04 13:00:00
+description: Yesterday, the long awaited Tournaments mode released across all platforms with the newest update, the Tournaments Update. Alongside the Tournaments mode, the update also included numerous quality-of-life features and an expanded Rocket League Radio playlist.
+date: 2018-04-04
 category: This Week in Rocket League
-tags:
+keywords:
     - Tournaments
     - Feature Update
     - Championship Series
@@ -12,7 +13,7 @@ tags:
     - JINX
     - PAX
     - RIVAL Esports
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 # Tournaments Update Releases

@@ -1,11 +1,12 @@
 ---
 title: Roadmap Updates and New Toys
-date: 2018-02-06 13:00:00
+description: Today, Psyonix expanded on the future of alternate game modes and the status of updates to previously released features.
+date: 2018-02-06
 category: This Week in Rocket League
-tags:
+keywords:
     - Gold Rush
     - League of Rockets
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 In the [Spring Roadmap](https://www.rocketleague.com/news/rocket-league-roadmap-spring-2018/), Psyonix detailed the new update schedule and the release dates of new features (tournament, QoL elements, connection quality information, and more). Today, they expanded on the future of alternate game modes and the status of updates to previously released features.

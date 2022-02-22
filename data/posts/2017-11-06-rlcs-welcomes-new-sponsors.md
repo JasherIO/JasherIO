@@ -1,15 +1,16 @@
 ---
 title: RLCS Welcomes New Sponsors
-date: 2017-11-06 13:00:00
+description: HyperX and MGM Resorts have joined Mobil1, Old Spice, Brisk, and Nissin Cup Noodles in sponsoring RLCS, just in time for the Season 4 World Championship this weekend.
+date: 2017-11-06
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - HyperX
     - MGM Resorts
     - Nintendo Switch
     - World Championship
     - Collegiate Rocket League
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 [HyperX](https://twitter.com/RLCS/status/927581351431118848) and [MGM Resorts](https://twitter.com/RLCS/status/927597141865967616) have joined Mobil1, Old Spice, Brisk, and Nissin Cup Noodles in sponsoring RLCS, just in time for the Season 4 World Championship this weekend.

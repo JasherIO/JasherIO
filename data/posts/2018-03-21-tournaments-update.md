@@ -1,8 +1,9 @@
 ---
 title: Tournaments Update
-date: 2018-03-21 13:00:00
+description: Today, Psyonix announced that the Tournaments Update releases April 3rd. In addition to the new tournaments mode, the update includes Rocket League Radio and several quality-of-life features.
+date: 2018-03-21
 category: This Week in Rocket League
-tags:
+keywords:
     - Tournaments
     - Feature Update
     - Championship Series
@@ -11,7 +12,7 @@ tags:
     - Gfinity
     - EventVODs
     - Spring Fever
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Today, _Psyonix_ announced that the [_Tournaments Update_](https://www.rocketleague.com/news/tournaments-update-coming-april-3/) releases April 3rd. In addition to the new tournaments mode, the update includes _Rocket League Radio_ and several quality-of-life features. [Read more...](https://www.rocketleague.com/news/tournaments-update-coming-april-3/)

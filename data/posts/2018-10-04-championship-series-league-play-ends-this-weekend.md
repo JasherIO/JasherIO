@@ -1,15 +1,16 @@
 ---
 title: Championship Series League Play Ends This Weekend
-date: 2018-10-04 13:00:00
+description: Championship Series league play draws to a close this weekend as teams seek World Championship and Season 7 qualification. Top 2 teams clinch World Championship qualification, while top 6 teams claim spots for next season and move onto the Regional Championship.
+date: 2018-10-04
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - Renegade Cup
     - Rocket Baguette
     - RIVAL Esports
     - Collegiate Rocket League
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Championship Series league play draws to a close this weekend as teams seek World Championship and Season 7 qualification. Top 2 teams clinch World Championship qualification, while top 6 teams claim spots for next season and move onto the Regional Championship. 7th and 8th place teams play the 1st and 2nd Rival Series teams for the final Championship Series spots in the Promotion Tournament. Meanwhile, in Oceania, the top 4 teams move onto the Throwdown Finals to compete for the region's 2 World Championship spots.

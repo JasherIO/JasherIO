@@ -1,11 +1,12 @@
 ---
 title: Rival Series Kicks Off Saturday
-date: 2018-08-08 13:00:00
+description: Rival Series Kicks Off Saturday
+date: 2018-08-08
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Season 6 of RLCS begins Saturday with the first of four Rival Series qualifiers. 32 teams advance from each qualifier to a 128 team play-in bracket. From there, 4 teams from Europe and 6 teams from North America advance to the Rival Series. CloudFuel has compiled a list of [notable teams](https://www.reddit.com/r/RocketLeagueEsports/comments/95jwt8/rlcsrlrs_season_6_notable_teams_list/) to keep an eye during the qualifiers and play-in.

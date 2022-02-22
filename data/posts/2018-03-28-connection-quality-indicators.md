@@ -1,14 +1,15 @@
 ---
 title: Connection Quality Indicators
-date: 2018-03-28 13:00:00
+description: Psyonix is including new connection quality indicators with the Tournaments Update to help identify network issues, including notfifications for server health, packet loss, latency variance, and high latency.
+date: 2018-03-28
 category: This Week in Rocket League
-tags:
+keywords:
     - Feature Update
     - Championship Series
     - Rival Series
     - Throwdown
     - Gfinity
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Psyonix is including new [connection quality indicators](https://www.rocketleague.com/news/tournaments-update-connection-quality-indicators/) with the [_Tournaments Update_](https://www.rocketleague.com/news/tournaments-update-coming-april-3/) to help identify network issues, including notfifications for _server health_, _packet loss_, _latency variance_, and _high latency_. For a more in-depth look at the new indicators, checkout the [official post](https://www.rocketleague.com/news/tournaments-update-connection-quality-indicators/).

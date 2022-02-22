@@ -1,14 +1,15 @@
 ---
 title: Salty Shores Releases Late May
-date: 2018-05-23 13:00:00
+description: Psyonix teased their next content update in the Summer Roadmap. Yesterday, they announced that the Salty Shores Update releases May 29th.
+date: 2018-05-23
 category: This Week in Rocket League
-tags:
+keywords:
     - Content Update
     - Beach Blast
     - Salty Shores
     - Championship Series
     - World Championship
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Psyonix teased their next content update in the [Summer Roadmap](https://www.rocketleague.com/news/rocket-league-roadmap-summer-2018/). Yesterday, they announced that the _Salty Shores Update_ releases May 29th. The update brings:

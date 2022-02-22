@@ -1,11 +1,12 @@
 ---
 title: World Championship Begins Friday
-date: 2018-06-06 13:00:00
+description: "It has been over a month since the regional championships. Since then, we have seen the European and North American teams compete in several preview events, including: Ballistix Brawl, Beyond Astronauts, and the NARLI Qualifiers."
+date: 2018-06-06
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - World Championship
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 It has been over a month since the regional championships. Since then, we have seen the European and North American teams compete in several preview events, including: [Ballistix Brawl](https://liquipedia.net/rocketleague/Ballistix/Brawl), [Beyond Astronauts](https://liquipedia.net/rocketleague/Beyond_Entertainment/ASTRONAUTS/14), and the [NARLI Qualifiers](https://liquipedia.net/rocketleague/Northern_Arena/Invitational/2). Meanwhile, Chiefs opened their [Gfinity Australia](https://liquipedia.net/rocketleague/Gfinity/Australia/Elite_Series/Season_1) season with a win.

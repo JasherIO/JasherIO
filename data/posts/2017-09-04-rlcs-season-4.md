@@ -1,15 +1,14 @@
 ---
 title: RLCS Season 4
 description: After 4 community-driven qualifiers, 128 teams from Europe and 128 teams from North America competed in play-in. By the end of this weekend, 6 teams from each region qualified for RLCS League Play and 8 more made RLRS League Play.
-date: 2017-09-04 13:00:00
+date: 2017-09-04
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - Minor League Doubles
     - PAX
-cover: ../img/TWiRL.png
-fullscreen: false
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 After 4 community-driven qualifiers, 128 teams from Europe and 128 teams from North America competed in play-in. By the end of this weekend, 6 teams from each region qualified for RLCS League Play and 8 more made RLRS League Play.

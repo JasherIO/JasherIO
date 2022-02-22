@@ -1,13 +1,14 @@
 ---
 title: Velocity Crate
-date: 2017-12-05 13:00:00
+description: Yesterday, Psyonix added the Velocity Crate to Rocket League. The Velocity Crate features 1980s pop culture themed items, including the new battle-car, the Imperator DT5.
+date: 2017-12-05
 category: This Week in Rocket League
-tags:
+keywords:
     - ELEAGUE
     - Collegiate Rocket League
     - League of Rockets
     - 6Mans
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Yesterday, Psyonix added the Velocity Crate to Rocket League. The Velocity Crate features 1980s pop culture themed items, including the new battle-car, the Imperator DT5. For more information on the new crate, visit the [official blog post](https://www.rocketleague.com/news/velocity-crate-december-4/) and the [detailed item post by /u/masterpie102](https://nm.reddit.com/r/RocketLeague/comments/7hlo0c/every_painted_velocity_crate_item/).

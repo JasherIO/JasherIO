@@ -1,15 +1,16 @@
 ---
 title: Autumn Update Releases
-date: 2017-10-02 13:00:00
+description: "Last Thursday, Psyonix released the Autumn Update, which included: new arena variations, player banners, new common items, a new crate, transparent goalposts, Director mode, stick sensitivity, competitive Season 5, and more."
+date: 2017-10-02
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - Autumn Update
     - Feature Update
     - Collegiate Rocket League
     - Minor League Doubles
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Last Thursday, Psyonix released the Autumn Update, which included: new arena variations, player banners, new common items, a new crate, transparent goalposts, Director mode, stick sensitivity, competitive Season 5, and more. For a more detailed look at the new features, check the [patch notes](https://www.reddit.com/r/RocketLeague/comments/7334us/major_rocket_league_update_for_pc_playstation_4/)!

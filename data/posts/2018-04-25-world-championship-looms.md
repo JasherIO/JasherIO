@@ -1,11 +1,12 @@
 ---
 title: World Championship Looms
-date: 2018-04-25 13:00:00
+description: The European and North American Regional Championships took place this past weekend, securing 8 of the 10 teams for the World Championship. The last 2 slots will be decided in the Throwdown Finals on Sunday.
+date: 2018-04-25
 category: This Week in Rocket League
-tags:
+keywords:
     - World Championship
     - Championship Series
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 The European and North American Regional Championships took place this past weekend, securing 8 of the 10 teams for the World Championship. The last 2 slots will be decided in the [Throwdown Finals](http://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_5/Oceania) on Sunday. While a majority of the teams have qualified, the date and location of the World Championship is unannounced.

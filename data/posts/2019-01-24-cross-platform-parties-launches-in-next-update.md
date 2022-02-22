@@ -1,8 +1,9 @@
 ---
 title: Cross-Platform Parties Launches in Next Update
-date: 2019-01-24 13:00:00
+description: Coming off the announcement of cross-platform play, detailed below, Psyonix revealed that the long-waited cross-platform party system, Friends List (previously Rocket ID), releases in the next update.
+date: 2019-01-24
 category: This Week in Rocket League
-tags:
+keywords:
     - Renegade Cup
     - Mythical Esports
     - Copenhagen Flames
@@ -16,7 +17,7 @@ tags:
     - College Carball Association
     - World Showdown of Esports
     - WSOE
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Coming off the announcement of cross-platform play, detailed below, Psyonix revealed that the long-waited cross-platform party system, **Friends List** (previously Rocket ID), releases in the [next update](https://www.rocketleague.com/news/rocket-league-roadmap--spring-2019--plus-season-9-rewards/). The next update also includes Competitive Season 10; players receive wheels and titles based on their Competitive Season 9 ranks.

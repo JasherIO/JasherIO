@@ -1,11 +1,12 @@
 ---
 title: Universal Open Continues
-date: 2018-06-27 13:00:00
+description: The Universal Open progressed through the open qualifier stages over the past several weeks. Now, teams are playing through the online closed qualifier stages.
+date: 2018-06-27
 category: This Week in Rocket League
-tags:
+keywords:
     - Universal Open
     - TexasRL
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 The Universal Open progressed through the open qualifier stages over the past several weeks. Now, teams are playing through the online [closed qualifier stages](https://universalopen.gg/phases/east-closed-qualifier/). Advancing teams in North America move onto offline regional qualifiers in July. The top regional teams advance to the finals in Connecticut in August.

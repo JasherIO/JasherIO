@@ -1,14 +1,15 @@
 ---
 title: Rival Series Qualifiers Return
-date: 2019-03-01 13:00:00
+description: The first of four Rival Series qualifiers begins Saturday with North America and Sunday with Europe.
+date: 2019-03-01
 category: This Week in Rocket League
-tags:
+keywords:
     - Rocket League Oceanic Masters
     - Gfinity AU
     - Gfinity
     - Collegiate Rocket League
     - CStarLeague
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 fullscreen: true
 ---
 

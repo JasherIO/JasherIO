@@ -1,12 +1,13 @@
 ---
 title: Achievements
-date: 2018-01-09 13:00:00
+description: Rocket League hits 40 million total unique players and wins the "Suspension of Disbelief" Steam Award.
+date: 2018-01-09
 category: This Week in Rocket League
-tags:
+keywords:
     - Ting
     - Mad City
     - RLCD
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 -   [Rocket League hits 40 million total unique players](https://twitter.com/RocketLeague/status/948312773565362176)

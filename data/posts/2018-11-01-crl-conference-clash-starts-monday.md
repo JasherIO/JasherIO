@@ -1,18 +1,19 @@
 ---
 title: CRL Conference Clash Starts Monday
-date: 2018-10-31 13:00:00
+description: The past two weeks collegiate teams have faced off in the gauntlet-style conference playoffs.
+date: 2018-10-31
 category: This Week in Rocket League
-tags:
+keywords:
     - Collegiate Rocket League
     - Renegade Cup
     - Nexus Gaming
     - Rocketeers
     - World Championship
     - Championship Series
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
-The past two weeks collegiate teams have faced off in the gauntlet-style [conference playoffs](https://compete.tespa.org/tournament/117).
+The past two weeks collegiate teams have faced off in the gauntlet-style [conference playoffs](https://liquipedia.net/rocketleague/Collegiate_Rocket_League/2018/Fall/Conference_Clash).
 
 | Conference |     1st     |      2nd      |
 | :--------: | :---------: | :-----------: |

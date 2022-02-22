@@ -3,6 +3,7 @@ title: "Day 3: Scoreboard"
 description:
 date: 2021-12-19 
 category: Daily Design
+keywords: 
 ---
 
 Created earlier this year. White [SOS](https://gitlab.com/bakkesplugins/sos/sos-plugin) scoreboard.

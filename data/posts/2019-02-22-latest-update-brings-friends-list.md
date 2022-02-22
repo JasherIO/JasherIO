@@ -1,14 +1,15 @@
 ---
 title: "Latest Update Brings Friends List, Season 10, and More"
-date: 2019-02-22 13:00:00
+description: The Friends List Update dropped on Tuesday, bringing cross-platform parties and Competitive Season 10. Unannounced before, it also included a new curveball mutator and input buffer option.
+date: 2019-02-22
 category: This Week in Rocket League
-tags:
+keywords:
     - Asia Pro League
     - Collegiate Rocket League
     - Feature Update
     - Friends List
     - Renegade Cup
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 The Friends List Update dropped on Tuesday, bringing cross-platform parties and Competitive Season 10. Unannounced before, it also included a new curveball mutator and input buffer option. The input buffer setting controls how the client sends input information the server, helping players who have frequent connectivity issues. [Learn more...](https://www.reddit.com/r/RocketLeague/comments/ascl98/rocket_league_patch_notes_v158_friends_update/)

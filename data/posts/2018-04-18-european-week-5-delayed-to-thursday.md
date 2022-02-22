@@ -1,11 +1,12 @@
 ---
 title: European Week 5 Delayed to Thursday
-date: 2018-04-18 13:00:00
+description: The power to the RLCS studio went down after the first game of Envy and Fnatic's match. 2 hours later, Psyonix announced that Fnatic will keep their 1-0 series lead and all matches would be postponed to Thursday.
+date: 2018-04-18
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Throwdown
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 The power to the RLCS studio went down after the first game of Envy and Fnatic's match. 2 hours later, Psyonix announced that Fnatic will keep their 1-0 series lead and all matches would be postponed to Thursday.

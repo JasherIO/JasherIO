@@ -1,11 +1,12 @@
 ---
 title: Anniversary Celebrations Wrap Up
-date: 2018-07-18 13:00:00
+descripton: The official Rocket League birthday party takes place tomorrow, July 19th, at Petco Park in San Diego.
+date: 2018-07-18
 category: This Week in Rocket League
-tags:
+keywords:
     - Anniversary
     - Birthday
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 # Anniversary Celebrations Wrap Up

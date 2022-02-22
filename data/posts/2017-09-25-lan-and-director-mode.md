@@ -1,14 +1,15 @@
 ---
 title: LAN and Director Mode
-date: 2017-09-25 13:00:00
+description: After last week’s huge information dump on the Autumn Update, Psyonix was more low-key with their news this week, as they detailed the new LAN and Director Mode features.
+date: 2017-09-25
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - Collegiate Rocket League
     - Minor League Doubles
     - Director Mode
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 After last week’s huge information dump on the Autumn Update, Psyonix was more low-key with their news this week, as they detailed the new [LAN and Director Mode features](https://www.rocketleague.com/news/autumn-update-local-matches-director-mode/). In the new LAN mode, PCs on a local network will be able to browse and play matches on a server running locally. This will eliminate the need for organized LANs to connect to the Internet to play matches. Director Mode is a new spectating option powered by artificial intelligence to provide the best camera angles and entertainment when watching a match of Rocket League.

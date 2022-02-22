@@ -1,14 +1,15 @@
 ---
 title: Spring 2018 Roadmap
-date: 2018-02-01 13:00:00
+description: Yesterday Psyonix announced the 1st of a series of quarterly roadmaps, the Spring 2018 Roadmap.
+date: 2018-02-01
 category: This Week in Rocket League
-tags:
+keywords:
     - Roadmap
     - DreamHack
     - Ting
     - OctaneGG
     - Rockteers
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Yesterday Psyonix announced the 1st of a series of quarterly roadmaps, the [Spring 2018 Roadmap](https://www.reddit.com/r/RocketLeague/comments/7ubcxg/rocket_league_roadmap_spring_2018/).

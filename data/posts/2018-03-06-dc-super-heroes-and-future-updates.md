@@ -1,15 +1,16 @@
 ---
 title: DC Super Heroes and Future Updates
-date: 2018-03-06 13:00:00
+description: The DC Super Heroes DLC Pack dropped yesterday in the latest patch (v1.42).
+date: 2018-03-06
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - Gfinity
     - Throwdown
     - DC Comics
     - Content Update
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 The [_DC Super Heroes DLC Pack_](https://www.rocketleague.com/news/dc-super-heroes-dlc-coming-in-march/) dropped yesterday in the latest [patch (v1.42)](https://www.reddit.com/r/RocketLeague/comments/827qi6/patch_notes_v142_march_mini_update/). For \$3.99 USD, players receive _The Dark Knight Rises Tumbler_, the _'89 Batmobile_, and numerous _DC Comics_ themed items.

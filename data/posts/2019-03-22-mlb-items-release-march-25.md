@@ -1,21 +1,19 @@
 ---
 title: MLB Items Release March 25th
-description:
-date: 2019-03-22 13:00:00
+description: Major League Baseball and Psyonix have partnered to bring baseball attire to the carball arena.
+date: 2019-03-22
 category: This Week in Rocket League
-tags:
-    [
-        "RLCS",
-        "RLRS",
-        "RLOM",
-        "Gfinity AU",
-        "Grand Series",
-        "Rocket Street",
-        "Collegiate Rocket League",
-        "CStarLeague",
-        "League of Rockets",
-    ]
-cover: ../img/TWiRL.png
+keywords:
+    - "RLCS"
+    - "RLRS"
+    - "RLOM"
+    - "Gfinity AU"
+    - "Grand Series"
+    - "Rocket Street"
+    - "Collegiate Rocket League"
+    - "CStarLeague"
+    - "League of Rockets"
+image: https://i.imgur.com/WKvjydB.png
 fullscreen: true
 ---
 

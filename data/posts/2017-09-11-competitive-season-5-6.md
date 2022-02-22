@@ -1,8 +1,9 @@
 ---
 title: Competitive Season 5 / 6
-date: 2017-09-11 13:00:00
+description: This week, Psyonix announced that Season 5 of ranked matchmaking would conclude, ranks would be soft reset, and Season 6 of ranked would begin when the Autumn Update is released. Players will receive banners, a new item to the Autumn Update, for their Season 5 rank rewards. The release date for the new update has not been announced yet.
+date: 2017-09-11
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - Collegiate Rocket League
@@ -10,7 +11,7 @@ tags:
     - Fantasy League
     - Esports Industry Awards
     - PAX
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 This week, Psyonix announced that Season 5 of ranked matchmaking would conclude, ranks would be soft reset, and Season 6 of ranked would begin when the Autumn Update is released. Players will receive banners, a new item to the Autumn Update, for their Season 5 rank rewards. The release date for the new update has not been announced yet.

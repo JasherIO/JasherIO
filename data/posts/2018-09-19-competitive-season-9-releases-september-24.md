@@ -1,11 +1,12 @@
 ---
 title: Competitive Season 9 Releases September 24th
-date: 2018-09-19 13:00:00
+description: Players receive Season 8 rocket boosts and start Competitive Season 9 on September 24th.
+date: 2018-09-19
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Players receive [Season 8 rocket boosts](https://www.rocketleague.com/news/season-8-rewards-season-9-details/) and start [Competitive Season 9](https://www.rocketleague.com/news/season-9-update-september-24/) on September 24th. The new season also includes [ranked sports modes](https://www.rocketleague.com/news/season-8-rewards-season-9-details/): 3v3 Rumble, 3v3 Dropshot, 2v2 Hoops, and 3v3 Snow Day.

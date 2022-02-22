@@ -1,14 +1,15 @@
 ---
 title: ELEAGUE This Week
-date: 2017-11-28 13:00:00
+description: "The ELEAGUE Cup: Rocket League starts this Friday with group stages and ends on Sunday with an elimination playoff bracket."
+date: 2017-11-28
 category: This Week in Rocket League
-tags:
+keywords:
     - ELEAGUE
     - SmashGG
     - Nexus Gaming
     - Beyond Esports
     - Minor League Doubles
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 The [ELEAGUE Cup: Rocket League](http://www.eleague.com/rocketleague/news/the-eleague-cup-rocket-league-live-tournament-action#VXSBOK_XJqqc) starts this Friday with group stages and ends on Sunday with an elimination playoff bracket. Over \$150,000 is on the line, so expect the top 8 from the World Championship to be on their best form.

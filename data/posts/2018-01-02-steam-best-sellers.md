@@ -1,15 +1,16 @@
 ---
 title: Steam Best Sellers
-date: 2018-01-02 13:00:00
+description: For the 3rd year in a row, Rocket League has made the top 12 of Steam's yearly list of top selling games.
+date: 2018-01-02
 category: This Week in Rocket League
-tags:
+keywords:
     - Steam
     - 6Mans
     - CyberGamer
     - Rocket Baguette
     - HyperX
     - Gfinity
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 For the 3rd year in a row, Rocket League has made the top 12 of Steam's yearly list of top selling games. Here is the list from every since Rocket League's release in 2015: [2017](http://store.steampowered.com/sale/2017_best_sellers/), [2016](http://store.steampowered.com/sale/2016_top_sellers/), [2015](https://www.gamespot.com/articles/steams-20-best-selling-pc-games-of-2015-made-650m-/1100-6433510/).

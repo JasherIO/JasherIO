@@ -1,8 +1,9 @@
 ---
 title: Arlington Hosts CRL National Championship Saturday
-date: 2018-12-06 13:00:00
+description: The second season of CRL, which began in August, finishes with the National Championship on Saturday. Akron, Arizona, North Texas, and Penn State compete for $25,000 in scholarship prizing.
+date: 2018-12-06
 category: This Week in Rocket League
-tags:
+keywords:
     - ELEAGUE
     - Collegiate Rocket League
     - Renegade Cup
@@ -11,7 +12,7 @@ tags:
     - Gfinity
     - Rocket Pass
     - McLaren
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 The second season of CRL, which began in August, finishes with the National Championship on Saturday. [Akron, Arizona](https://www.rocketleagueesports.com/news/crl-top-four-preview-university-of-akron-and-university-of-arizona/), [North Texas, and Penn State](https://www.rocketleagueesports.com/news/crl-top-four-preview-university-of-north-texas-and-pennsylvania-state-university/) compete for \$25,000 in scholarship prizing. Results from the season are on [Tespa](https://compete.tespa.org/tournament/120).

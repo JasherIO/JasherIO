@@ -1,13 +1,14 @@
 ---
 title: Frosty Fest Begins Monday
-date: 2018-12-15 13:00:00
+description: Frosty Fest, the winter seasonal event, goes from December 17th to January 7th. With the event going during Rocket Pass, players will be able to unlock a plethora of new items over the holidays.
+date: 2018-12-15
 category: This Week in Rocket League
-tags:
+keywords:
     - Collegiate Rocket League
     - Ballisitix
     - Rocket Pass
     - Frosty Fest
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 **Frosty Fest**, the [winter seasonal event](https://www.rocketleague.com/news/frosty-fest-2018-begins-december-17/), goes from December 17th to January 7th. With the event going during [**Rocket Pass**](https://www.rocketleague.com/game-info/rocketpass/rocket-pass-2/), players will be able to unlock a plethora of new items over the holidays.

@@ -1,8 +1,9 @@
 ---
 title: European Renegade Cup Final Rises Up Today
-date: 2019-02-08 13:00:00
+description: After 4 Renegade Cup monthlies, the finals have arrived. Europe begins today and runs through Sunday. North America takes place the weekend after DreamHack Leipzig, February 22nd-24th.
+date: 2019-02-08
 category: This Week in Rocket League
-tags:
+keywords:
     - RLCS
     - Rocket League Championship Series
     - Renegade Cup
@@ -10,7 +11,7 @@ tags:
     - CStarLeague
     - epicLAN
     - RL Bot
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 After 4 Renegade Cup monthlies, the finals have arrived. Europe begins today and runs through Sunday. North America takes place the weekend after DreamHack Leipzig, February 22nd-24th. [Liefx, Vodible, Squidd, and Lethamyr](https://www.rocketleagueesports.com/news/renegade-cup-finals-coming-soon/) are casting the finals.

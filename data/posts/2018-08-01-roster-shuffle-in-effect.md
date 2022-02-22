@@ -1,13 +1,14 @@
 ---
 title: Roster Shuffle in Full Effect
-date: 2018-08-01 13:00:00
+description: Roster Shuffle in Full Effect
+date: 2018-08-01
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - Content Update
     - Rocket Street
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Teams and organizations announced their official squads for the upcoming season as rosters for RLCS locked Monday night. As is tradition before a season of RLCS, a majority of the squads saw changes to their roster.

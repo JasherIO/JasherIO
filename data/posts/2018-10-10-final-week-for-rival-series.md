@@ -1,8 +1,9 @@
 ---
 title: "Final Week for Rival Series, Regionals for Championship Series"
-date: 2018-10-10 13:00:00
+description: "Final Week for Rival Series, Regionals for Championship Series"
+date: 2018-10-10
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - Collegiate Rocket League
@@ -10,7 +11,7 @@ tags:
     - Renegade Cup
     - Rocket Baguette
     - RIVAL Esports
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 **Europe**

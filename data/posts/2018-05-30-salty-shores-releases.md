@@ -1,14 +1,15 @@
 ---
 title: Salty Shores Releases
-date: 2018-05-30 13:00:00
+description: The Salty Shores Update released yesterday
+date: 2018-05-30
 category: This Week in Rocket League
-tags:
+keywords:
     - Content Update
     - Salty Shores
     - Beach Blast
     - Championship Series
     - World Championship
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 The [Salty Shores Update](https://www.rocketleague.com/news/patch-notes-v1-45/) released yesterday, introducing:

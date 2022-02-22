@@ -1,8 +1,9 @@
 ---
 title: Hot Wheels Octane Released
-date: 2018-12-21 13:00:00
+description: An Octane toy is now available at retailers around the world. Hot Wheels and Psyonix have previously partnered for the Hot Wheels DLC, Hot Wheels Triple Threat DLC, and the Hot Wheels Rocket League RC Rivals Set.
+date: 2018-12-21
 category: This Week in Rocket League
-tags:
+keywords:
     - Renegade Cup
     - Rewind Gaming
     - Boost Legacy
@@ -14,7 +15,7 @@ tags:
     - RLOceania
     - FlyQuest
     - Gfinity
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 An [Octane toy](https://www.rocketleague.com/news/rocket-league-hot-wheels-toy/) is now available at retailers around the world. Hot Wheels and Psyonix have previously partnered for the [Hot Wheels DLC](https://www.rocketleague.com/news/hot-wheels-coming-to-rocket-league/), [Hot Wheels Triple Threat DLC](https://www.rocketleague.com/news/new-hot-wheels-triple-threat-dlc-pack-september-24/), and the [Hot Wheels Rocket League RC Rivals Set](https://www.rocketleague.com/news/hot-wheels-rocket-league-rc-rivals-set-november-1/).

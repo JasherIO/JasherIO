@@ -1,13 +1,14 @@
 ---
 title: Player's Choice Crate Refresh
-date: 2017-11-21 13:00:00
+description: The Player’s Choice Crate’s contents were decided in February after a week of community voting.
+date: 2017-11-21
 category: This Week in Rocket League
-tags:
+keywords:
     - ELEAGUE
     - CyberPower
     - Collegiate Rocket League
     - League of Rockets
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 The Player’s Choice Crate’s contents were [decided](https://www.rocketleague.com/news/players-choice-crate-voting-results/) in February after a week of community voting. Given the length of time since then and the addition of new items to the game, Psyonix has decided to adjust the contents of the crate based on “community sentiment and player trading data.” For more information, see the official [post](https://www.reddit.com/r/RocketLeague/comments/7d8rg4/happening_now_players_choice_crate_refresh/).

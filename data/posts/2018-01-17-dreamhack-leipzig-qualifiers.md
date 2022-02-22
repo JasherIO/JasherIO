@@ -1,8 +1,9 @@
 ---
 title: DreamHack Leipzig Qualifiers
-date: 2018-01-17 13:00:00
+description: DreamHack Leipzig Qualifiers
+date: 2018-01-17
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - DreamHack
@@ -10,11 +11,7 @@ tags:
     - Rocket Baguette
     - HyperX
     - OctaneGG
-cover: ../img/TWiRL.png
----
-
-[Source](https://jasher.io/this-week-in-rocket-league-01-10-18-01-17-18/)
-
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 **Dates:** January 26-28

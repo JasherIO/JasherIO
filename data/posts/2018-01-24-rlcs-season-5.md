@@ -1,13 +1,14 @@
 ---
 title: RLCS Season 5 Announced
-date: 2018-01-24 13:00:00
+description: RLCS Season 5 Announced
+date: 2018-01-24
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - DreamHack
     - Ting
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 -   [Season 5](http://www.rocketleagueesports.com/news/introducing-rlcs-season-5/) begins with Open Qualifiers in February.

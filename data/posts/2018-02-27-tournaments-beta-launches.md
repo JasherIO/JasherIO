@@ -1,8 +1,9 @@
 ---
 title: Tournaments Beta Launches
-date: 2018-02-27 13:00:00
+description: The PC-only Tournaments beta began last Wednesday and was extended through yesterday morning.
+date: 2018-02-27
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Throwdown
     - WWE
@@ -10,7 +11,7 @@ tags:
     - Quality-of-Life
     - Radio
     - Feature Update
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 The PC-only [_Tournaments_ beta](https://www.rocketleague.com/news/tournaments-beta-on-steam--what-you-need-to-know/) began last Wednesday and was [extended](https://twitter.com/RocketLeague/status/967129845158223872) through yesterday morning.

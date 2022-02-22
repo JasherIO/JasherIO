@@ -1,8 +1,9 @@
 ---
 title: Rival Series Teams Promote
-date: 2018-11-21 13:00:00
+description: For the first time since the promotion system debuted in Season 4, all four of the Rival Series teams (Bread, Splyce, Red Reserve, Savage) promoted.
+date: 2018-11-21
 category: This Week in Rocket League
-tags:
+keywords:
     - Rival Series
     - Rocketeers
     - Nexus Gaming
@@ -10,7 +11,7 @@ tags:
     - PlayVS
     - Guilded
     - Minor League Doubles
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 For the first time since the promotion system debuted in Season 4, all four of the Rival Series teams (Bread, Splyce, Red Reserve, Savage) promoted. Nine of the twelve promoted players make their Championship Series debut next season: Ronaky, Tadpole, Speed, and Alpha54 in Europe and DudeWithTheNose, JWismont, Satthew, AxB, and Sypical in North America.

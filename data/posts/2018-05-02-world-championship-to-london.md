@@ -1,8 +1,9 @@
 ---
 title: World Championship to London
-date: 2018-05-02 13:00:00
+description: London hosts the World Championship in early June at The Copper Box, a venue constructed for the 2012 London Olympics. Tickets go on sale soon.
+date: 2018-05-02
 category: This Week in Rocket League
-tags:
+keywords:
     - World Championship
     - Championship Series
     - Promotion Tournament

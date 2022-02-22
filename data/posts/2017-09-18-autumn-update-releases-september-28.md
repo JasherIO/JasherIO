@@ -1,9 +1,9 @@
 ---
-image: /img/TWiRL.png
 title: Autumn Update Releases September 28
-date: 2017-09-18 13:00:00
+description: To start, they detailed player banners, a new in-game item added in the next update. In addition to the Season 5 rewards, players will be able to collect other customizable player banners. Player banners will be seen in the main menu and when goals are scored.
+date: 2017-09-18
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - Collegiate Rocket League
@@ -11,7 +11,7 @@ tags:
     - TexasRL
     - Autumn Update
     - Feature Update
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 To start, they detailed [player banners](https://www.rocketleague.com/news/player-banners-explained/), a new in-game item added in the next update. In addition to the Season 5 rewards, players will be able to collect other customizable player banners. Player banners will be seen in the main menu and when goals are scored.

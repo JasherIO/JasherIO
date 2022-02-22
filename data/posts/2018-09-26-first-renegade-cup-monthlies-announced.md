@@ -1,8 +1,9 @@
 ---
 title: October Renegade Cup Monthlies Announced
-date: 2018-09-26 13:00:00
+description: The Renegade Cup starts in October with the Grand Prix by Rocket Baguette in Europe and Project Phoenix by Rival Esports in North America.
+date: 2018-09-26
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - Renegade Cup
@@ -12,7 +13,7 @@ tags:
     - Nexus Gaming
     - BallChasing
     - CalculatedGG
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 The [Renegade Cup](https://www.rocketleagueesports.com/news/introducing----the-rocket-league-renegade-cup/) starts in October with the [Grand Prix by Rocket Baguette](https://www.rocketbaguette.com/rbgp/) in Europe and [Project Phoenix by Rival Esports](https://www.reddit.com/r/RocketLeague/comments/9hrsn4/project_phoenix_presented_by_rival_esports_na/) in North America.

@@ -1,8 +1,9 @@
 ---
 title: Frosty Fest
-date: 2017-12-12 13:00:00
+description: With the September Autumn Update, Psyonix announced that limited-time events would release unique event items.
+date: 2017-12-12
 category: This Week in Rocket League
-tags:
+keywords:
     - Frosty Fest
     - DreamHack
     - Collegiate Rocket League
@@ -12,7 +13,7 @@ tags:
     - Minor League Doubles
     - RIVAL Esports
     - Beyond Esports
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 With the September [Autumn Update](https://www.rocketleague.com/game-info/autumn-update/), Psyonix announced that limited-time events would release unique event items. The event system premiered with October’s Halloween-themed _Haunted Hallows_ event. Yesterday, the Christmas-themed [_Frosty Fest_](https://www.rocketleague.com/news/frosty-fest-begins-on-december-11/) event began. For a full list of painted _Secret Santa_ items, see /u/masterpie102’s [post](https://nm.reddit.com/r/RocketLeague/comments/7jadau/all_painted_secret_santa_items/).

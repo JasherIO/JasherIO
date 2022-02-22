@@ -1,12 +1,13 @@
 ---
 title: Psyonix Reviews Year 3
+description: Last Friday Psyonix released their review of the past year of Rocket League.
 date: 2018-07-11 13:00:00
 category: This Week in Rocket League
-tags:
+keywords:
     - Anniversary
     - Birthday
     - Northern Arena
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Last Friday Psyonix released their [review](https://www.rocketleague.com/news/rocket-league-third-birthday/) of the past year of Rocket League. Highlights include:

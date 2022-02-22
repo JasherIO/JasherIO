@@ -1,8 +1,9 @@
 ---
 title: ELEAGUE Begins Friday ft. WC Top 8
-date: 2018-11-29 13:00:00
+description: "The 2nd ELEAGUE Cup begins tomorrow in Atlanta, Georgia. The top eight #LANVegas teams were invited to the three day $150,000 event."
+date: 2018-11-29
 category: This Week in Rocket League
-tags:
+keywords:
     - ELEAGUE
     - DreamHack
     - Collegiate Rocket League
@@ -10,7 +11,7 @@ tags:
     - Gfinity
     - Rewind Gaming
     - Boost Legacy
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 The 2nd ELEAGUE Cup begins tomorrow in Atlanta, Georgia. The top eight [#LANVegas](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series/Season_6) teams were invited to the three day \$150,000 event.

@@ -1,14 +1,15 @@
 ---
 title: Three Teams Promoted to RLCS
-date: 2018-05-09 13:00:00
+description: Allegiance, FlyQuest, and Servette promoted to the RLCS over the weekend. They join Fnatic, who defended their position.
+date: 2018-05-09
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Northern Arena
     - RIVAL Esports
     - Asia Pro League
     - Universal Open
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Allegiance, FlyQuest, and Servette promoted to the RLCS over the weekend. They join Fnatic, who defended their position.

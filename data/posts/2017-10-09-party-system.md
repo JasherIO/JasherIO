@@ -1,8 +1,9 @@
 ---
 title: Party System
-date: 2017-10-09 13:00:00
+description: When details on the Autumn Update were released, Psyonix released information for future features, including an in-game party system.
+date: 2017-10-09
 category: This Week in Rocket League
-tags:
+keywords:
     - RocketID
     - Fast and Furious
     - RIVAL Esports
@@ -10,7 +11,7 @@ tags:
     - Rival Series
     - Throwdown
     - Minor League Doubles
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 When details on the Autumn Update were released, Psyonix released information for [future features](https://nm.reddit.com/r/RocketLeague/comments/6zvik7/whats_coming_after_the_autumn_update/), including an in-game party system. Last Tuesday, they [announced](https://www.rocketleague.com/news/psynet-party-system-test-steam/) that the in-game party system would be going live on PC.

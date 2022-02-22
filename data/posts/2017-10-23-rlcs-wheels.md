@@ -1,8 +1,9 @@
 ---
 title: RLCS Wheels
-date: 2017-10-23 13:00:00
+description: If you are attending the World Championship in Washington D.C., you will receive a free set of in-game wheels.
+date: 2017-10-23
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - World Championship
     - Northern Arena
@@ -12,7 +13,7 @@ tags:
     - Promotional Tournament
     - Mad City
     - Elevate League
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 If you are attending the World Championship in Washington D.C., you will receive a free set of in-game [wheels](https://www.rocketleague.com/news/exclusive-item-for-rlcs-season-4-attendees-/).

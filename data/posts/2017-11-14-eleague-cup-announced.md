@@ -1,12 +1,13 @@
 ---
 title: ELEAGUE Cup Announced
-date: 2017-11-14 13:00:00
+description: ELEAGUE, a global esports tournament organizer, announced their plans for a Rocket League invitational, in partnership with Psyonix, for the beginning of December.
+date: 2017-11-14
 category: This Week in Rocket League
-tags:
+keywords:
     - ELEAGUE
     - World Championship
     - Collegiate Rocket League
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 ELEAGUE, a global esports tournament organizer, announced their plans for a Rocket League invitational, in partnership with Psyonix, for the beginning of December. The [ELEAGUE Cup: Rocket League](http://www.eleague.com/rocketleague#ZLz4DneLJEqF) will be streamed live on Twitch and YouTube and presented as a feature series on TBS later.

@@ -1,9 +1,9 @@
 ---
 title: South America Joins the RLCS
 description: Psyonix announced the inclusion of South America in RLCS Season 7.
-date: 2019-02-01 13:00:00
+date: 2019-02-01
 category: This Week in Rocket League
-tags:
+keywords:
     - RLCS
     - Rocket League Championship Series
     - Renegade Cup
@@ -17,7 +17,7 @@ tags:
     - College Carball Association
     - World Showdown of Esports
     - WSOE
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Psyonix [teased](https://www.rocketleagueesports.com/news/let-s-talk----south-america/) the inclusion of South America in the RLCS last August. Now, South America has officially joined the RLCS with the announcement of [Season 7](https://www.rocketleagueesports.com/news/introducing-rlcs-season-7/). The new season features the same, massive prize pool as Season 6, one million dollars. The four qualifier Rival Series system and single round-robin league play is sticking around for now. Registration for Rival Series qualifiers is open until March 1st. [View registration...](http://smash.gg/RLCS7)

@@ -1,8 +1,9 @@
 ---
 title: Rocket League on Switch November 14
-date: 2017-10-30 13:00:00
+description: Today, Psyonix announced that Rocket League would be available on Nintendo Switch November 14th for \$19.99.
+date: 2017-10-30
 category: This Week in Rocket League
-tags:
+keywords:
     - Nintendo Switch
     - Warner Bros
     - Olympics
@@ -11,7 +12,7 @@ tags:
     - Collegiate Rocket League
     - Shift Pro League
     - Beyond Esports
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 Today, Psyonix announced that Rocket League would be available on [Nintendo Switch November 14th](https://twitter.com/RocketLeague/status/925044836033445888) for \$19.99.

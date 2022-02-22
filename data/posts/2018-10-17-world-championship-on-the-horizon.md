@@ -1,15 +1,16 @@
 ---
 title: World Championship on the Horizon
-date: 2018-10-17 13:00:00
+description: 10 teams - 4 European, 4 North American, 2 Oceanic - finalized their spots and seeds Saturday and Sunday for LAN Vegas. The World Championship begins Friday, November 9th.
+date: 2018-10-17
 category: This Week in Rocket League
-tags:
+keywords:
     - Championship Series
     - Rival Series
     - Throwdown
     - Collegiate Rocket League
     - Renegade Cup
     - Rocket Street
-cover: ../img/TWiRL.png
+image: https://i.imgur.com/WKvjydB.png
 ---
 
 10 teams - 4 European, 4 North American, 2 Oceanic - finalized their spots and seeds Saturday and Sunday for LAN Vegas. The World Championship begins Friday, November 9th.
