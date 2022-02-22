@@ -15,15 +15,15 @@ image: https://i.imgur.com/WKvjydB.png
 
 For the 3rd year in a row, Rocket League has made the top 12 of Steam's yearly list of top selling games. Here is the list from every since Rocket League's release in 2015: [2017](http://store.steampowered.com/sale/2017_best_sellers/), [2016](http://store.steampowered.com/sale/2016_top_sellers/), [2015](https://www.gamespot.com/articles/steams-20-best-selling-pc-games-of-2015-made-650m-/1100-6433510/).
 
-# 6Mans Showdown
+## 6Mans Showdown
 
 Over the past year 6Mans has grown in popularity with Rocket League professionals in Europe, North America, and Oceania. Similar to CSGO’s ESEA system, 6Mans pools players together into random 3v3 teams for a set of matches. Results are tracked on a player level and are organized into a [leaderboard](https://docs.google.com/spreadsheets/d/13uT0TBMs99CJ-VaSDoxvZBQYukJX3My0WU_5rjfLWXQ/edit#gid=1964528333). Given its popularity, Twitch organized the [6Mans Showdown](https://nm.reddit.com/r/RocketLeague/comments/7k4bl6/twitch_esports_presents_6mans_streamer_showdown/) for Rank S (professional) players in Europe and North America over the 2nd half of December. With a \$5,000 prize pool on the line in each region, Mognus (EU) and GarrettG (NA) claimed the #1 spots. For the full results, see the [Reddit thread](https://nm.reddit.com/r/RocketLeague/comments/7nhkuf/results_twitch_esports_6mans_streamer_showdown/) or the [Octane article](http://octane.gg/news/6-mans-streamer-showdown-final-results/).
 
-# CyberGamer 2018 Roadmap
+## CyberGamer 2018 Roadmap
 
 CyberGamer will be investing \$36,000 AUD into Oceanic Rocket Leauge across multiple events in 2018. From Octane's Paz, [read more...](http://octane.gg/news/cybergamer-2018-roadmap/)
 
-# HyperCup
+## HyperCup
 
 -   1000€ prize-pool
 -   2 PM CET January 21st
@@ -47,7 +47,7 @@ Now, dexzy has released the successor to his PER system, Rating 1.0. Check out h
 
 ---
 
-### Roster News
+#### Roster News
 
 -   [Pluto leaves Splyce](https://twitter.com/PlutoRL/status/946821886171910145)
 -   [Tigree and Speed leave Reason Gaming](http://octane.gg/news/tigreee-and-speed-leave-reason-gaming)
@@ -63,7 +63,7 @@ Now, dexzy has released the successor to his PER system, Rating 1.0. Check out h
 
 ---
 
-### Recent Articles
+#### Recent Articles
 
 -   [eSport - Rocket League : pour Kaydop, «remporter les RLCS a été un soulagement»](https://www.lequipe.fr/Esport/Actualites/Esport-rocket-league-pour-kaydop-remporter-les-rlcs-a-ete-un-soulagement/862914)
 -   [Rocket League Pros Share Their Favorite Moments of 2017](https://www.redbull.com/us-en/rocket-league-pros-favorite-moments-2017)

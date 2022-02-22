@@ -28,7 +28,7 @@ image: https://i.imgur.com/WKvjydB.png
 -   Unlock items through the leveling (progression) system
 -   Release cross-platform partying
 
-# 6Mans Showdown
+## 6Mans Showdown
 
 Over the past year 6Mans has grown in popularity with Rocket League professionals in Europe, North America, and Oceania. Similar to CSGO’s ESEA system, 6Mans pools players together into random 3v3 teams for a set of matches. Results are tracked on a player level and are organized into a [leaderboard](https://docs.google.com/spreadsheets/d/13uT0TBMs99CJ-VaSDoxvZBQYukJX3My0WU_5rjfLWXQ/edit#gid=1964528333). Given its popularity, Twitch has organized the [6Mans Showdown](https://nm.reddit.com/r/RocketLeague/comments/7k4bl6/twitch_esports_presents_6mans_streamer_showdown/) for Rank S (professional) players.
 
@@ -40,7 +40,7 @@ Over the past year 6Mans has grown in popularity with Rocket League professional
 -   In Europe, only 4 players have completed 40 matches: Ferra (43), EyeIgnite (41), ViolentPanda (42), Snaski (40).
     -   The next closest to claiming prizes are Yukeo (32), FreaKii (31), remkoe (38), Metsanauris (35), and Bluey (35).
 
-# DreamHack Leipzig Online Qualifiers
+## DreamHack Leipzig Online Qualifiers
 
 **[Main Event](https://open.dreamhack.com/2017/dreamhack-open-2018-kicks-off-at-dreamhack-leipzig-featuring-rocket-league/)**
 
@@ -110,13 +110,13 @@ Last Wednesday /u/usedwolf's clip of a double dash soared in popularity on the s
 
 ---
 
-### Roster News
+#### Roster News
 
 -   [Ambition is closing its doors. The Rocket League team is being signed by an unnamed organization.](https://twitter.com/Ambition_GG/status/945461818344067072)
 
 ---
 
-### Recent Articles
+#### Recent Articles
 
 -   [6Mans Streamer Showdown Week 1 Recap](http://octane.gg/news/6-mans-streamer-showdown-week-1-recap/)
 -   [ELEAGUE Brings Rocket League Esports to the Masses](https://www.redbull.com/us-en/eleague-rocket-league-tv-interview)

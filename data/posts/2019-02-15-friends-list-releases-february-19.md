@@ -21,7 +21,7 @@ Rocket League went [full cross-platform](https://www.rocketleague.com/news/full-
 
 ---
 
-# Around the Community
+## Around the Community
 
 **DreamHack Leipzig**, the first stop on the DreamHack Pro Circuit, began yesterday. Day 1 saw TSM, Triple Trouble, Mousesports, Rogue, Splyce, and more head home. [Learn more...](https://liquipedia.net/rocketleague/DreamHack/Pro_Circuit/2019/Leipzig)
 
@@ -39,7 +39,7 @@ The collegiate **CStarLeague** Spring Season is in Week 6 of group play. [Learn 
 
 ---
 
-### Articles
+#### Articles
 
 -   [Brody ‘Liefx’ Moore: From Deltora Quest to the RLCS](https://thegamehaus.com/brody-liefx-moore-from-deltora-quest-to-the-rlcs/2019/02/08/)
 -   [Pro-File: JKnaps](https://www.rocketleagueesports.com/news/rle-pro-file-vol-4-jknaps/)
@@ -48,14 +48,14 @@ The collegiate **CStarLeague** Spring Season is in Week 6 of group play. [Learn 
 -   [The Story of kuxir97](https://octane.gg/news/the-story-of-kuxir97)
 -   [They're Not an 'Afterthought' Anymore (ft. Interview with Mist)](https://www.reddit.com/r/RocketLeagueEsports/comments/aqkgoy/theyre_not_an_afterthought_anymore_ft_interview/)
 
-### News
+#### News
 
 -   [Jorolelin retires](http://www.twitlonger.com/show/n_1sqq971)
 -   [Retals joins The Peeps](https://twitter.com/ExplosiveGyro/status/1095780650714652672)
 -   [TyNotTyler, Hato, and Roll Dizz form team](https://twitter.com/TyNotTyler_/status/1095774271182389250)
 -   [Veloce Esports signs Melon Squad](https://twitter.com/VeloceEsports/status/1096073281319456769)
 
-### Shows
+#### Shows
 
 -   [Aftershock: Ep. 20](https://www.youtube.com/watch?v=cEEd1DZ5r0o&feature=youtu.be)
 -   [ASAP: Ep. 6](https://www.podbean.com/media/share/pb-dg4xe-a7cee8)

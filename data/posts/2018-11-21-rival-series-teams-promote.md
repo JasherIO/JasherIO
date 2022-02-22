@@ -24,7 +24,7 @@ Liquipedia: [EU](https://liquipedia.net/rocketleague/Rocket_League_Championship_
 -   [ELEAGUE Cup 2 Begins Next Friday, November 30th](https://twitter.com/ELEAGUETV/status/1064937194731827200)
 -   The [CRL National Championship](https://www.rocketleagueesports.com/news/crl-national-championship-tickets-on-sale-now-/) takes place December 8th in Arlington, Texas
 
-# New Merch Announced, Rocket Pass Ends Nov 26th
+## New Merch Announced, Rocket Pass Ends Nov 26th
 
 JINX released new Rocket League merchandise on their store last Friday, including several new t-shirts and a hoodie. [More information...](https://twitter.com/RocketLeague/status/1063496874638827520)
 
@@ -34,7 +34,7 @@ The [December Update](https://www.rocketleague.com/news/enhanced-xbox-one-x-supp
 
 ---
 
-# Around the Community
+## Around the Community
 
 **PlayVS** organizes state high school esports competitions in the United States. On Tuesday, they announced _Rocket League_ as part of their next season. [Read more...](https://twitter.com/playvs/status/1064912255169359872)
 
@@ -44,18 +44,18 @@ The seventh season of **Minor League Doubles** wrapped up over the weekend. The 
 
 ---
 
-### Articles
+#### Articles
 
 -   [Bumps and Demolitions - An Interview with Rocket Sledge](http://dignitas.gg/articles/blogs/rocket-league/13123/bumps-and-demolitions-an-interview-with-rocket-sledge)
 -   [Moplo Storo about eliminating Nordavind from the Thunderdome: “We had nothing to lose”](https://rocketeers.gg/interview-moplo-storo-nordavind-rocketeers-thunderdome/)
 -   [Post-RLCS6 World Championship Weekend Interview with Dig RL Player - Turbopolsa](http://dignitas.gg/articles/news/rocket-league/13159/post-rlcs6-world-championship-weekend-interview-with-dig-rl-player-turbopolsa)
 
-### News
+#### News
 
 -   [Guilded launches Rocket League Scrim Finder](https://www.reddit.com/r/RocketLeagueEsports/comments/9xyzto/we_just_launched_our_rocket_league_scrim_finder/)
 -   [Karma to appear on the next Discussions with Dazerin](https://twitter.com/idazerin/status/1064960762349789185)
 
-### Shows
+#### Shows
 
 -   [Aftershock: Ep. 9](https://www.youtube.com/watch?v=SXwSqcJ1yvQ)
 -   [Shitty Watercolour about his in-game Rocket League banner](https://www.youtube.com/watch?v=Xl3njskXoaw)

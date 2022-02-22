@@ -27,7 +27,7 @@ _Tournaments_ introduces an easy-to-use single-elimination bracket format to _Ro
 
 _Tournaments_ will be released in March or April with the [Spring feature update](https://www.rocketleague.com/news/rocket-league-roadmap-spring-2018/).
 
-# Quality-of-Life Features
+## Quality-of-Life Features
 
 In addition to the new _Tournaments_ feature, the beta also included multiple new Quality-of-Life features:
 
@@ -40,19 +40,19 @@ In addition to the new _Tournaments_ feature, the beta also included multiple ne
 
 _Notice: The above is a list of prominent features and should not be considered comprehensive._
 
-# Rocket League Radio
+## Rocket League Radio
 
 Announced last June, [_Rocket League Radio_](https://www.rocketleague.com/news/monstercat-playlist-rocket-league-radio/) will release with the [Spring Update](https://www.rocketleague.com/news/rocket-league-x-monstercat-vol--2-coming-in-spring-update/).
 
 Sharp-eyed players might have noticed the radio in the _Tournaments_ beta. Players will be able to listen to the _Monstercat_ playlists throughtout the in-game modes.
 
-# WWE
+## WWE
 
 Starting [last May](https://www.rocketleague.com/news/rocket-league-wwe-partnership-backlash/), _Psyonix_ began a promotional partnership for _Rocket League_ on the _WWE_ network. Yesterday, they [renewed](https://www.rocketleague.com/news/wwe-items-coming-to-rocket-league-this-spring/) their promotional partnership for 2018.
 
 Fans will also be able to acquire [_WWE_ themed items](https://www.rocketleague.com/news/wwe-items-coming-to-rocket-league-this-spring/) in _Rocket League_ later this year.
 
-# RLCS
+## RLCS
 
 RLCS Qualifiers continue today and tomorrow with Qualifier #3 and with the last qual of the season, #4, on Saturday and Sunday. RLRS play-ins are March 10th for North America and March 11th for Europe.
 
@@ -71,7 +71,7 @@ Over the past month the top teams in Oceania competed in the [_Throwdown Open Se
 
 ---
 
-### Articles
+#### Articles
 
 -   [FlipSid3 Tactics’ Miztik: “Being captain is going to be a big test”](http://rocketeers.gg/flipsid3-tactics-miztik-being-captain-is-going-to-be-a-big-test/)
 -   [Interview with Doomsee: “I’m playing Rocket League more than ever before”](http://rocketeers.gg/interview-with-doomsee-im-playing-rocket-league-more-than-ever/)
@@ -82,7 +82,7 @@ Over the past month the top teams in Oceania competed in the [_Throwdown Open Se
 
 ---
 
-### News
+#### News
 
 -   [1v1 Car Soccer Community Cup for Oceania](https://twitter.com/ByzaRL/status/967958142393860098)
 -   [Athena hosts the 12 Toxics](https://www.twitch.tv/videos/233135727)
@@ -96,7 +96,7 @@ Over the past month the top teams in Oceania competed in the [_Throwdown Open Se
 
 ---
 
-### Shows
+#### Shows
 
 -   [Full Throttle Ep. 2](https://www.twitch.tv/videos/233222668)
 -   [Live From Mannfield: Ep.100 “2 Year Anniversary” No News, Special Guest, RLCS Qualifiers and Nox Talks](http://www.lfmannfield.com/episodes/2018/2/25/ep100-2-year-anniversary-no-news-special-guest-rlcs-qualifiers-and-nox-talks)

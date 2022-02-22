@@ -15,7 +15,7 @@ Both Rocket Pass and the renovated level system release sometime in the next 2 m
 
 ---
 
-### Articles
+#### Articles
 
 -   [CJCJ talks about his toddler car entrance at the World Championship](http://rocketeers.gg/interview-cjcj-tainted-minds-little-car/)
 -   [Inside Team Dignitas' RLCS World Championship Win](https://www.redbull.com/us-en/team-dignitas-rlcs-champions-interview)
@@ -24,7 +24,7 @@ Both Rocket Pass and the renovated level system release sometime in the next 2 m
 -   [The Evolution of the Rocket League Meta: What Will Be the Next?](http://team-dignitas.net/articles/blogs/rocket-league/12558/the-evolution-of-the-rocket-league-meta-what-will-be-the-next)
 -   [We asked the Pros what they think about the roaring T-Rex goal explosion](http://rocketeers.gg/jurassic-world-dlc-rocket-league-pro-players-goal-explosion/)
 
-### News
+#### News
 
 -   [Beyond announces their June Astronauts tourneys](https://twitter.com/TeamBeyondnet/status/1008805729183191042)
 -   [Insolences is out of Rogue](http://rocketeers.gg/insolences-rogue-split-jacob/)
@@ -36,7 +36,7 @@ Both Rocket Pass and the renovated level system release sometime in the next 2 m
 -   [World Championship Replays Released](https://www.reddit.com/r/RocketLeagueEsports/comments/8r3d9a/rlcs_s5_world_championship_replays/)
 -   [Zeebo releases his World Championship photo album](https://twitter.com/ZeeboDesigns/status/1008062370286067712)
 
-### Shows
+#### Shows
 
 -   [Boost! - Problem with Authority](https://www.youtube.com/watch?v=EcA_kQt0-NM)
 

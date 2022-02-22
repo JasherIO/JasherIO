@@ -15,7 +15,7 @@ image: https://i.imgur.com/WKvjydB.png
 
 Last year Psyonix began a partnership with Hot Wheels by [introducing the 'Twin Mill III' and 'Bone Shaker'](https://www.rocketleague.com/news/hot-wheels-coming-to-rocket-league/) battle cars to Rocket League. Today, they announced that Hot Wheels will be producing a [Rocket League themed RC set](https://www.rocketleague.com/news/hot-wheels-rocket-league-rc-cars-holiday-2018/), which includes RC cars, a game ball, and a stadium.
 
-# RLCS Season 5: Rosters
+## RLCS Season 5: Rosters
 
 RLCS teams had until last Friday to notify RLCS administrators of their rosters for the upcoming season. With the deadline came a slew of official roster announcements for the season:
 
@@ -54,7 +54,7 @@ RLRS teams must confirm their rosters by tomorrow night at 11:59 PM PT, so expec
 
 To stay up-to-date on the latest roster changes, bookmark [Octane's RLCS Roster Tracker](http://octane.gg/news/rlcs-roster-tracker) and [Liquipedia's Transfer page](http://liquipedia.net/rocketleague/Transfers).
 
-# RLCS Season 5: Qualifiers
+## RLCS Season 5: Qualifiers
 
 Over the next 4 weekends, teams will battle for spots in the European and North American Top 128 brackets. From there, 4 teams each in Europe and North America will qualify for RLRS League Play.
 
@@ -121,7 +121,7 @@ League of Rocket's 3rd event, _Twelve Titans: Year Two_, takes place [Saturday a
 
 ---
 
-### Articles
+#### Articles
 
 -   [From Sub To Starter (An RLCS/RLRS Case Study)](https://www.reddit.com/r/RocketLeagueEsports/comments/7x32cg/from_sub_to_starter_an_rlcsrlrs_case_study/)
 -   [G2's JKnaps on His Surging Rocket League Success](https://www.redbull.com/us-en/jknaps-g2-rocket-league-interview-2018-07-02)
@@ -133,7 +133,7 @@ League of Rocket's 3rd event, _Twelve Titans: Year Two_, takes place [Saturday a
 
 ---
 
-### News
+#### News
 
 -   [Mad City announce a \$5,000 3v3 LAN for March](https://www.reddit.com/r/RocketLeague/comments/7vxche/lan5000_mad_city_chi_rl_open_byoc_3v3_march_9_11/)
 -   [Patch Notes v1.41](https://www.reddit.com/r/RocketLeague/comments/7vzdov/patch_notes_v141/)
@@ -143,7 +143,7 @@ League of Rocket's 3rd event, _Twelve Titans: Year Two_, takes place [Saturday a
 
 ---
 
-### Shows
+#### Shows
 
 -   [Buggy/broken bounces? - Rocket Science #12](https://www.youtube.com/watch?v=5V2iXyitj8c)
 -   [Discussions with Dazerin Ep. 2](https://www.youtube.com/watch?v=pZ-sUQJl9d4)

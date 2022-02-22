@@ -14,7 +14,7 @@ image: https://i.imgur.com/WKvjydB.png
 
 The first Rocket Pass event begins today and runs through November 26th. For a more in-depth description of the first Rocket Pass event, read the [dedicated page](https://www.rocketleague.com/game-info/rocketpass/rocket-pass-1/) or the [community "Explain Like I'm 5" post](https://www.reddit.com/r/RocketLeague/comments/9bx5vv/rocket_pass_explain_like_im_5_edition/).
 
-# League Play Begins Friday
+## League Play Begins Friday
 
 European and North American teams claimed spots in Rival Series over the weekend in play-ins.
 
@@ -50,18 +50,18 @@ Now, their journey takes them to league play, which begins next Friday, Septembe
 
 ---
 
-### Articles
+#### Articles
 
 -   [A Defining Moment - Turbopolsa](https://www.theplayerslobby.com/2473/a-defining-moment-turbopolsa-team-dignitas-rocket-league-worlds/#.3pn1xHrDPv)
 -   [Bouncing Back from Heartbreak - Tylacto](https://www.theplayerslobby.com/2315/bouncing-back-from-heartbreak-by-tylacto-secret/#.o73yQEuzhM)
 -   [EyeIgnite: "I never said I was gonna quit"](https://rocketeers.gg/eyeignite-interview-fortnite-rocket-league-meta/)
 -   [Splyce talk about their experience as pro Rocket League players](http://www.dailymail.co.uk/sport/esports/article-6115297/Splyce-talk-experiences-pro-Rocket-League-players.html)
 
-### News
+#### News
 
 -   [Fantasy League for Season 6 is Live](https://www.reddit.com/r/RocketLeagueEsports/comments/9czp4o/rlg_fantasy_league_is_now_live/)
 
-### Shows
+#### Shows
 
 -   [Boost!: Mind Over Matter](https://www.youtube.com/watch?v=BLIizG4SWuU)
 -   [Live from Mannfield: "Ep. 122 "Back to School" 3 New Updates?!, Rocket Pass, Rlrs Play-ins and Fan Rewards"](http://www.lfmannfield.com/episodes/2018/9/4/ep-122-back-to-school-3-new-updates-rocket-pass-rlrs-play-ins-and-fan-rewards)

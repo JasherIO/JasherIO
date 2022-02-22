@@ -18,9 +18,9 @@ image: https://i.imgur.com/WKvjydB.png
 
 If you are attending the World Championship in Washington D.C., you will receive a free set of in-game [wheels](https://www.rocketleague.com/news/exclusive-item-for-rlcs-season-4-attendees-/).
 
-# Esports News
+## Esports News
 
-#### Northern Arena Rocket League Invitational (NARLI)
+### Northern Arena Rocket League Invitational (NARLI)
 
 In what is likely to be the best preview of the RLCS Season 4 World Championship, 7 of the 8 EU & NA World Championship qualified teams participated in Northern Arena’s \$30,000 invitational this weekend.
 
@@ -31,7 +31,7 @@ In what is likely to be the best preview of the RLCS Season 4 World Championship
 
 [Results](https://www.reddit.com/r/RocketLeague/comments/77ytek/northern_arena_2017_invitational_30000_day_2/)
 
-#### Collegiate Rocket League League Play
+### Collegiate Rocket League League Play
 
 In September, students from universities across North America qualified for League Play in the [Collegiate Rocket League (CRL)](https://www.rocketleague.com/news/league-play-begins-for-collegiate-rocket-league/). Over the next 2 Monday and Tuesdays, 8 teams each from the 4 regional conferences (North, South, East, and West) will compete in CRL League Play. Tune in to the new channel [twitch.tv/RLEsports](https://twitch.tv/RLEsports).
 
@@ -40,7 +40,7 @@ In September, students from universities across North America qualified for Leag
 **Prize**: \$50K in Scholarships  
 **Twitch**: [RLEsports](https://twitch.tv/RLEsports)
 
-#### Throwdown S2 Championship: PAX Australia
+### Throwdown S2 Championship: PAX Australia
 
 After 5 weeks of league play, 4 teams advanced to the Throwdown Championship at PAX Australia: JAM Gaming, Chiefs Esports Club, Pale Horse eSports, and Scylla Esports. 2 of those teams will advance to the RLCS Season 4 World Championships in D.C. Tune in this Sunday to see who will claim the final 2 World Championship spots!
 
@@ -53,7 +53,7 @@ After 5 weeks of league play, 4 teams advanced to the Throwdown Championship at 
 
 [The OCE Power Rankings - 10/10 - 16/10](https://www.rocketleagueoce.com/single-post/2017/10/19/The-OCE-Power-Rankings---1010---1610)
 
-#### RLCS Promotional Playoff
+### RLCS Promotional Playoff
 
 On October 29th, EnVyUs (1), Team Secret (2), Fnatic (3), and The Juicy Kids (4) will play for the final 2 RLCS spots in Europe.
 
@@ -65,9 +65,9 @@ Times are TBA, so keep an eye on the RLCS [Twitter](https://twitter.com/RLCS) fo
 
 N/A
 
-# Around the Community
+## Around the Community
 
-#### Local Events (LANs) in October
+### Local Events (LANs) in October
 
 Mad City is holding their 4th Rocket League LAN event this weekend, featuring several of the most recognizable casters in the community: [Dazerin](https://twitter.com/iDazerin), [Stax](https://twitter.com/StaxRL), [Curtis](https://twitter.com/RL_Curtis), and [Sphyrnidae](https://twitter.com/SphyrnidaeRL). Watch it live on [Twitch](https://twitch.tv/MadCityGG)!
 
@@ -82,7 +82,7 @@ Mad City is holding their 4th Rocket League LAN event this weekend, featuring se
 
 Check the [Reddit post](https://www.reddit.com/r/RocketLeague/comments/73ffop/local_events_lans_october_2017/) for a full list of LANs ocurring in October!
 
-#### Elevate League Tier 2 Open Qualifier
+### Elevate League Tier 2 Open Qualifier
 
 Elevate League organizes 8-week seasons for 3 tiers of players:
 
@@ -92,7 +92,7 @@ Elevate League organizes 8-week seasons for 3 tiers of players:
 
 They are currently looking for more players that fit the Tier 2 criteria. For more information, check out their [Reddit post](https://www.reddit.com/r/RocketLeagueClashes/comments/782x6k/elevate_league_tier_2_open_qualifier_napcps43v3/).
 
-# Recent Articles
+## Recent Articles
 
 [Cloud9: The RLCS NA Champions Look Ahead to Worlds](https://www.redbull.com/us-en/cloud9-rocket-league-regional-champions-interview)
 

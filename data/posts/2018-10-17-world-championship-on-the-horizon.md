@@ -41,7 +41,7 @@ Collegiate Rocket League wrapped up round robin play on Wednesday. Teams now pro
 -   [Pirates leaves The Peeps](https://twitter.com/unwise_pirates/status/1051943345109553152)
 -   [Tickets on Sale for LAN Vegas](https://www.reddit.com/r/RocketLeagueEsports/comments/9op14x/rlcs_world_championship_tickets_megathread/)
 
-# Fall Roadmap
+## Fall Roadmap
 
 -   RocketID (cross-platform parties) pushed to 2019
     -   The party system was first announced in [September 2017](https://www.rocketleague.com/news/roadmap-after-autumn-update/)
@@ -53,7 +53,7 @@ For more information, read the [full post](https://www.rocketleague.com/news/roc
 
 ---
 
-### Articles
+#### Articles
 
 -   [Calculated: Flipsid3 Tactics](https://www.rocketleagueesports.com/news/calculated--13--flipsid3-tactics/)
 -   [CCA Power Rankings - Collegiate Rocket League Week 4](https://www.reddit.com/r/RocketLeagueEsports/comments/9ohkeo/collegiate_rocket_league_week_4_cca_power_rankings/)
@@ -61,12 +61,12 @@ For more information, read the [full post](https://www.rocketleague.com/news/roc
 -   [On the Road to Victory - FairyPeak](https://www.theplayerslobby.com/2812/on-the-road-to-victory-fairy-peak-team-vitality-rocket-league/#.IIXVkQG3ZL)
 -   [Savage! is on the Road to RLCS Redemption](https://ginx.tv/rocket-league/savage-road-to-rlcs-redemption/)
 
-### News
+#### News
 
 -   [Haunted Hallows: Oct 15 - Nov 5](https://www.rocketleague.com/news/haunted-hallows-returns-october-15/)
 -   [Hot Wheels RC Set Announced](https://www.rocketleague.com/news/hot-wheels-rocket-league-rc-rivals-set-november-1/)
 
-### Shows
+#### Shows
 
 -   [Aftershock Ep. 5](https://www.youtube.com/watch?v=sp8U-lsEvM4)
 -   [Live from Mannfield: Ep. 127 “600 Million?” Haunted Hallows, Rlcs Tickets on Sale, Hot Wheels Rival Release Date and Fall Roadmap!](http://www.lfmannfield.com/episodes/2018/10/17/ep-127-600-million-haunted-hallows-rlcs-tickets-on-sale-hot-wheels-rival-release-date-and-fall-roadmap)

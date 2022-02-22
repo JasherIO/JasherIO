@@ -18,7 +18,7 @@ Psyonix is releasing a hotfix update today at 2PM PT to address bugs introduced 
 
 For more information, read the [official post](https://www.reddit.com/r/RocketLeague/comments/8bajm9/tournaments_update_followup/).
 
-# Esports Leagues
+## Esports Leagues
 
 |        Event        | Region |                                                         Results                                                         |                                              Schedule                                               |                                                           Liquipedia                                                           |                               Octane                               |
 | :-----------------: | :----: | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
@@ -47,7 +47,7 @@ _DC Area Esports Club_ is hosting a [watch party](https://www.meetup.com/dc-area
 
 ---
 
-### Articles
+#### Articles
 
 -   [Calculated #3: Evil Geniuses](https://www.rocketleagueesports.com/news/calculated--3--evil-geniuses/)
 -   [Gale Force's Turbopolsa: The Two-Time RLCS Champion Speaks](https://www.redbull.com/us-en/turbopolsa-rocket-league-interview)
@@ -60,7 +60,7 @@ _DC Area Esports Club_ is hosting a [watch party](https://www.meetup.com/dc-area
 -   [The OCE Power Rankings - 05/03 - 01/04](https://www.rocketleagueoce.com/single-post/2018/04/07/The-OCE-Power-Rankings---0503---0104)
 -   [Why Rocket League is the perfect esports game](http://rocketeers.gg/rocket-league-esports-game/)
 
-### News
+#### News
 
 -   [Calgary LAN by _LANified!_: April 21-22](https://www.lanified.com/events/details/28)
 -   [CloudFuel releases his Advanced Stats for RLCS Season 5](https://docs.google.com/spreadsheets/d/1FSFqc5CI56vft85SZr0TkumE9IHgWzyixc9FZ7nPCas/edit#gid=742307806)
@@ -72,7 +72,7 @@ _DC Area Esports Club_ is hosting a [watch party](https://www.meetup.com/dc-area
 -   [RS Champions: South America's largest _Rocket League_ tournament](https://www.rocketstreet.gg/rs-champions)
 -   [_WWE_ Items Released](https://www.rocketleague.com/news/wwe-items-arrive-during-wrestlemania-34/)
 
-### Shows
+#### Shows
 
 -   [Discussions with Dazerin: Unthink](https://www.youtube.com/watch?v=fGLyS9YEvok)
 -   [Envy’s Waffle is the defensive anchor for his Gfinity squad](http://rocketeers.gg/interview-envyus-waffle-gfinity-elite-series/)

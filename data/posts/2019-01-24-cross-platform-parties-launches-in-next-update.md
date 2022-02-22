@@ -28,7 +28,7 @@ Psyonix partnered with Jazwares for the release of customizable battle-car toys.
 
 ---
 
-# Around the Community
+## Around the Community
 
 The fourth and final Renegade Cup monthly ([EU](https://liquipedia.net/rocketleague/Renegade_Cup/Europe/Copenhagen_Flames/Ember_Series), [NA](https://liquipedia.net/rocketleague/Renegade_Cup/North_America/Mythical_Esports/Battle_for_Valhalla)) concludes today. Tune in to Europe at [.tv/FlamesTV](https://twitch.tv/FlamesTV) and North America at [.tv/MythicalEsports](https://twitch.tv/MythicalEsports).
 
@@ -40,7 +40,7 @@ In collegiate esports, the **CStarLeague** Spring Season is in the midst of [Wee
 
 ---
 
-### Articles
+#### Articles
 
 -   [Dignitas Ceo on Yukeo: “There’s a Renewed Energy” to Rocket League Team](https://ginx.tv/rocket-league/dignitas-ceo-yukeo-renewed-energy-rocket-league-team/)
 -   [Doing My Part - Jamesbot](https://www.theplayerslobby.com/3415/doing-my-part-james-jamesbot-villar-rocket-league-rlcs-twitch-gold-rush/#.RWusQvcz62)
@@ -55,7 +55,7 @@ In collegiate esports, the **CStarLeague** Spring Season is in the midst of [Wee
 -   [Top 10 Players of 2018](https://www.reddit.com/r/RocketLeagueEsports/comments/agbgla/the_top_10_players_of_2018/)
 -   [WSOE 4 Preview](https://thegamehaus.com/wsoe-4-preview/2019/01/22/)
 
-### News
+#### News
 
 -   [6Mans Refreshes Site Design](https://twitter.com/RL6mans/status/1084598744337723393)
 -   [APL Esports Founded with leaders from Asian orgs](https://twitter.com/apl_esports/status/1086948754693836801)
@@ -73,7 +73,7 @@ In collegiate esports, the **CStarLeague** Spring Season is in the midst of [Wee
     -   [TSM Signs We Dem Girlz](https://twitter.com/TSM/status/1081249047585976323)
     -   [Yukeo Joins Dignitas](https://twitter.com/dignitas/status/1085952420612620293)
 
-### Shows
+#### Shows
 
 -   Aftershock: [Ep. 14](https://youtu.be/JuWmBFs9u-k), [Ep. 15](https://youtu.be/WvuOyPOwD0I), [Ep. 16](https://youtu.be/Yl0wzKrTXS4), [Ep. 17](https://youtu.be/F4bYNHjKQh4)
 -   [Discussions with Dazerin: Fireworks](https://youtu.be/BM8jf8wkwjk)

@@ -19,7 +19,7 @@ Similar to the Autumn and Winter seasonal events, the next item on Psyonix's [ro
 
 Following the seasonal event, the Spring feature update will release in March or April, which includes [Tournaments](https://www.rocketleague.com/news/roadmap-after-autumn-update/), [Rocket League Radio](https://www.rocketleague.com/news/rocket-league-x-monstercat-vol--2-coming-in-spring-update/), and [more...](https://www.rocketleague.com/news/rocket-league-roadmap-spring-2018/)
 
-# RLCS Season 5 Talent
+## RLCS Season 5 Talent
 
 Featuring many familiar faces from previous seasons, RLEsports announced the official [talent lineup](https://www.rocketleagueesports.com/news/season-5-rlcs-talent-lineup/) for RLCS Season 5.
 
@@ -32,7 +32,7 @@ Featuring many familiar faces from previous seasons, RLEsports announced the off
 -   Analyst: Adam “Lawler” Thornton
 -   Analyst: James “Jamesbot” Villar
 
-# Rival Series Play-In
+## Rival Series Play-In
 
 The past month teams have competed in open qualifiers for 1 of 128 spots in the Rival Series Play-In. This weekend those 128 teams will battle it out for 4 Rival Series spots.
 
@@ -62,7 +62,7 @@ Play starts Sunday at 11AM AET on [.tv/ThrowdownTV](https://twitch.tv/ThrowdownT
 
 ---
 
-### Articles
+#### Articles
 
 -   [5 Rocket League teams to watch in 2018](https://www.redbull.com/int-en/rocket-league-teams-to-watch-rlcs-2018)
 -   [European RLCS offseason recap](https://octane.gg/news/european-rlcs-offseason-recap/)
@@ -72,7 +72,7 @@ Play starts Sunday at 11AM AET on [.tv/ThrowdownTV](https://twitch.tv/ThrowdownT
 -   [The Tadpole Unilad Upset: “Within 30 seconds everything had changed”](http://rocketeers.gg/interview-tadpole-gfinity-unilad-reason-triple-trouble/)
 -   [Why Reason Gaming are out of Gfinity Elite Series](http://rocketeers.gg/reason-gaming-gfinity-elite-series-interview/)
 
-### News
+#### News
 
 -   [Complexity signs the ex-Method roster](https://twitter.com/compLexity/status/969289702304919552)
 -   [Calgary, Alberta 3v3 RL Tournament @LAN, Apr 2018, \$1000](https://www.lanified.com/events/details/28)
@@ -82,7 +82,7 @@ Play starts Sunday at 11AM AET on [.tv/ThrowdownTV](https://twitch.tv/ThrowdownT
 -   [Rocket Hocket League Championship - March 11th, 18th](https://twitter.com/RHLHockeyLeague/status/969429068478164993)
 -   [Splyce officially announces their 2018 Rocket League roster](https://twitter.com/splyce/status/971098086759006208)
 
-### Shows
+#### Shows
 
 -   [Discussions with Dazerin ft. Shogun: Rocket League Casting](https://www.youtube.com/watch?v=TelcYMsg9sE)
 -   [Full Throttle Ep. 3: RLRS Qualifiers, Throwdown Qualifiers, Gfinity Elite Series](https://www.twitch.tv/videos/235862916)

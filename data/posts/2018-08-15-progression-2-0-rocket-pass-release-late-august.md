@@ -18,7 +18,7 @@ The latest [feature update](https://www.rocketleague.com/news/cross-platform-par
 
 [Rocket Pass](https://www.rocketleague.com/news/rocket-pass-a-closer-look/) is a new reward system similar to Fortnite's [Battle Pass](https://www.epicgames.com/fortnite/en-US/battle-pass/season-5) and PUBG's [Event Pass](https://www.eurogamer.net/articles/2018-06-22-pubg-season-event-pass-cost-rewards-5414). Players earn Pass Tiers by leveling up. Pass Tiers then unlock new cosmetic items in two tracks, free and premium. For \$9.99, players can unlock the premium track, which rewards additional and different items from the free track.
 
-# Rival Series Qualifiers Continue
+## Rival Series Qualifiers Continue
 
 Last weekend 32 teams, including Splyce, Bread, The D00ds, etc., advanced through the first qualifier ([EU](https://smash.gg/tournament/rlcs-season-6-eu/events), [NA](https://smash.gg/tournament/rlcs-season-6-na/events)) to the early September play-in. 96 more teams compete for play-in spots in qualifiers over the next 2 weeks.
 
@@ -28,20 +28,20 @@ Outside of Rival Series, teams were finalized for the [Universal Open Grand Fina
 
 ---
 
-### Articles
+#### Articles
 
 -   [4 Teams you should watch closely during the RLRS Qualifiers](https://rocketeers.gg/rlrs-qualifier-open-qualifier-teams-bricks-doods-splyce-method/)
 -   [Ranking up in Rocket League: Fast Launch Aerials](https://ginx.tv/rocket-league/ranking-rocket-league-fast-launch-aerials/)
 -   [Rising Star: The Story of Kassio](https://octane.gg/news/rising-star-the-story-of-kassio/)
 -   [Start Playing Tournaments, End Up a Grand Champ](http://team-dignitas.net/articles/blogs/rocket-league/12799/start-playing-tournaments-end-up-a-grand-champ)
 
-### News
+#### News
 
 -   [Gif Your Game, League of Rockets announce Goal Competition](https://www.gifyourgame.com/dreamgoal)
 -   [Registration for Throwdown open until August 17th](https://www.reddit.com/r/RocketLeagueEsports/comments/975jhc/rlcs_oce_sign_up_now_for_throwdown_rocket_league/)
 -   [Rocket League Now Has An Official Discord Server](https://www.forbes.com/sites/maxthielmeyer/2018/08/08/rocket-league-now-has-an-official-discord-server/#bab7c2853bff)
 
-### Shows
+#### Shows
 
 -   [Casual Talk: Cole](https://www.youtube.com/watch?v=9USovKDSEuY)
 -   [Live from Mannfield: Ep. 119 "We Should Fly a Plane!" More Chance Stats, Cross Platform Party's Info, Ban System Stats and New Mechanic?](http://www.lfmannfield.com/episodes/2018/8/14/ep-119-we-should-fly-a-plane-more-chance-stats-cross-platform-partys-info-ban-system-stats-and-new-mechanic)

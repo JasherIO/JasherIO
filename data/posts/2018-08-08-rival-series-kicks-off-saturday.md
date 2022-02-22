@@ -21,7 +21,7 @@ Players have several opportunities to prepare for the play-in bracket over the n
 
 ---
 
-### Articles
+#### Articles
 
 -   [MLD Week 4 Review](https://www.mldoubles.com/single-post/2018/08/07/Season-7-Week-4-Review)
 -   [New Kid on the Block: Chicago](https://www.theplayerslobby.com/2165/new-kid-block-chicago-evil-geniuses/#.XaiYnn1a0q)
@@ -30,7 +30,7 @@ Players have several opportunities to prepare for the play-in bracket over the n
 -   [Remkoe about being released from Envy: “They asked us if we could move to Dallas”](https://rocketeers.gg/interview-remkoe-envy-new-team-deevo/)
 -   [Wgn Brain Trust: Rocket League Canadian Challenge Caster – Stax](https://inside.worldgaming.com/wgn-brain-trust-rocket-league-canadian-challenge-caster-stax/)
 
-### News
+#### News
 
 -   [6Mans adds Asia](https://twitter.com/RL6mans/status/1024920089613594625?s=19)
 -   [Beyond announces August Astronauts events](https://twitter.com/TeamBeyondnet/status/1026931338593660928)
@@ -44,7 +44,7 @@ Players have several opportunities to prepare for the play-in bracket over the n
 -   [Veritas Entertainment announces German collegiate series](https://veritas-entertainment.gg/veritas-college-cup-series/)
 -   [World Gaming talent list includes Corelli, Liefx, and Stax](https://twitter.com/WorldGaming/status/1026952991130234882)
 
-### Shows
+#### Shows
 
 -   [Casual Talk: Shogun](https://www.youtube.com/watch?v=ITtE_IRrJwo)
 -   [Dignitas Reacts: Worlds](https://www.youtube.com/watch?v=92kxaGxm7XM)

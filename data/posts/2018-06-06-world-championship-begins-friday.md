@@ -40,7 +40,7 @@ Glory Stone lead the charge with a 7-1 record in the [Asia Pro League](https://l
 
 ---
 
-### Articles
+#### Articles
 
 -   [Best Rocket League Plays of May 2018](https://www.redbull.com/us-en/rocket-league-best-plays-may-2018)
 -   [Canada’s regional Rocket League tournament is a great example of how to keep a scene healthy](http://rocketeers.gg/world-gaming-rocket-league-tournament/)
@@ -50,7 +50,7 @@ Glory Stone lead the charge with a 7-1 record in the [Asia Pro League](https://l
 -   [We checked if the team’s substitute players are also coming to the World Championship](http://rocketeers.gg/rlcs-world-championship-season5-london-substitute-players/)
 -   [Win Probability for Professional Matches](https://octane.gg/news/win-probability-for-professional-matches/)
 
-### News
+#### News
 
 -   [Competitive Season 7 Rank Distribution Released](https://www.reddit.com/r/RocketLeague/comments/8omfoq/holy_dominus_its_the_season_7_rank_distribution/)
 -   [FC Nantes enters Rocket League](https://www.fcnantes.com/articles/article2809.php?num=24121)
@@ -61,7 +61,7 @@ Glory Stone lead the charge with a 7-1 record in the [Asia Pro League](https://l
 -   [Mythical Announces Akquire, Clinch Sponsorships for Primal League](https://twitter.com/Mythical_Es/status/1002717149671186432)
 -   [Rocket League 3 Year Anniversary Party at Petco Park on July 19th](https://twitter.com/RocketLeague/status/1002248354011721731)
 
-### Shows
+#### Shows
 
 -   [Ramblings: Non-Standard Maps](https://www.youtube.com/watch?v=mKdsncN-6_8)
 -   [RLCS - Road to Season 5 Worlds](https://www.youtube.com/watch?v=xFJ6_Lscws4)

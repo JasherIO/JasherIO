@@ -19,7 +19,7 @@ The second season of CRL, which began in August, finishes with the National Cham
 
 Tickets can be found on [squadup](https://crl18tickets.squadup.com).
 
-# Rocket Pass 2 Launches December 10th
+## Rocket Pass 2 Launches December 10th
 
 Rocket Pass 2 begins next Monday and runs through the beginning of March. Item tiers have been refreshed with new items and black market decals have been added. [Read more...](https://www.rocketleague.com/game-info/rocketpass/rocket-pass-2/)
 
@@ -27,7 +27,7 @@ The McLaren 570S was announced last night at The Game Awards and simultaneously 
 
 The December Update dropped on Monday and included enhanced Xbox One X support, changes to the Progression System, and [more...](https://www.rocketleague.com/news/patch-notes-v1-56-december-update/)
 
-# Around the Community
+## Around the Community
 
 Epsilon eSports, Fnatic, Method, Nordavind, Reason Gaming, and Team Envy battle for the **Gfinity Elite Series (UK)** crown on Sunday. The reigning champions, Vitality, were unable to qualify for the playoffs. [Learn more...](https://liquipedia.net/rocketleague/Gfinity/UK/Elite_Series/Season_4)
 
@@ -41,18 +41,18 @@ Last Tuesday **Minor League Doubles** released an announcement detailing their p
 
 ---
 
-### Articles
+#### Articles
 
 -   [Get to know next season's brand new RLCS teams](https://www.redbull.com/int-en/rlcs-new-season-7-teams)
 -   [The Biggest Things We Learned](https://www.eleague.com/rocketleague-2018/news/the-biggest-things-we-learned?sf203767810=1)
 -   [Why you should watch the Mannfield Night 5K 1v1 league](https://www.dailyesports.gg/mannfield-night-5k-rocket-league/)
 
-### News
+#### News
 
 -   [Gillyweed joins Psyonix as an esports broadcast specialist](https://twitter.com/GillyweedTV/status/1070532465503088640)
 -   [Timi retires](https://twitter.com/timifalodun/status/1070157331491483648)
 
-### Shows
+#### Shows
 
 -   [Aftershock: Ep. 11](https://www.youtube.com/watch?v=7gOLscHULaM)
 -   [Heads Up Daily: Lawler Recaps the ELEAGUE Cup](https://www.youtube.com/watch?v=LxCV6pZmdpc)

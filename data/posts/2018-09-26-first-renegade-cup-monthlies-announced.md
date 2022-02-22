@@ -47,18 +47,18 @@ Rocket League Replays, an invaluable replay hoster and analysis tool, [closed in
 
 ---
 
-### Articles
+#### Articles
 
 -   [1v1 with Team Secret's Stephen 'Tylacto' Griffin](https://www.rocketleagueesports.com/news/1v1-with-team-secret-s-stephen--tylacto--griffin/)
 -   [Calculated: FlyQuest](https://www.rocketleagueesports.com/news/calculated--10--flyquest/)
 -   [Paschy: “This team is just too good to not make it to LAN”](https://rocketeers.gg/interview-paschy-renault-vitality-rlcs/)
 -   [The Perfect Job: Fireworks](https://www.theplayerslobby.com/2684/perfect-job-stephen-swims-fuleihan-fireworks-evil-geniuses-rocket-league/#.0sHRbGNrdj)
 
-### News
+#### News
 
 -   [Competitive Season 9 Begins, Hot Wheels DLC Drops](https://www.rocketleague.com/news/patch-notes-v1-53-season-9-update/)
 
-### Shows
+#### Shows
 
 -   [Aftershock Ep. 2](https://www.youtube.com/watch?v=Z6ImesYXjoY)
 -   [Casual Talk: Sizz](https://www.youtube.com/watch?v=x4-X2R_gPWw)

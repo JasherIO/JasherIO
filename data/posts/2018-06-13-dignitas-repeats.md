@@ -31,7 +31,7 @@ The Ontario Science Center hosts the [2nd Northern Arena](https://twitter.com/No
 
 ---
 
-### Articles
+#### Articles
 
 -   [8 Biggest Moments of the Season 5 RLCS World Championship](https://www.redbull.com/us-en/rlcs-world-championship-s5-biggest-moments)
 -   [Applied Mechanics #1: Making the Most of Possessions](http://team-dignitas.net/articles/blogs/rocket-league/12561/rocket-league-applied-mechanics-1-making-the-most-of-possessions)
@@ -44,14 +44,14 @@ The Ontario Science Center hosts the [2nd Northern Arena](https://twitter.com/No
 -   [Renault Sport Team Vitality's Road to the RLCS World Championship](https://www.redbull.com/us-en/renault-sport-team-vitality-rocket-league-interview)
 -   [Rizzo on finding his role on G2—and being called “daddy”](http://rocketeers.gg/g2-rizzo-rlcs-world-championship-interview/)
 
-### News
+#### News
 
 -   [Beach Blast began Yesterday](https://twitter.com/RocketLeague/status/1006220662359318528)
 -   [Jurassic World DLC releases next Monday](https://www.rocketleague.com/news/jurassic-world-car-pack-dlc/)
 -   [Nexus Gaming returned last Saturday with a \$300 tournament](https://twitter.com/NexusGamingRL/status/1004493141594996736)
 -   [TexasRL hosting GigaLAN in Austin on June 30th](https://twitter.com/TexasRL/status/1006612235253362688)
 
-### Shows
+#### Shows
 
 -   [Dignitas discusses the World Championship](https://www.youtube.com/watch?v=4y4TDFAMh1Q)
 -   [Gold Rush 2 Aftermovie](https://www.youtube.com/watch?v=B41lcVkWCVo)

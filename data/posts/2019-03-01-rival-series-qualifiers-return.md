@@ -10,7 +10,6 @@ keywords:
     - Collegiate Rocket League
     - CStarLeague
 image: https://i.imgur.com/WKvjydB.png
-fullscreen: true
 ---
 
 The first of four **Rival Series** qualifiers begins Saturday with [North America](https://smash.gg/tournament/rlcs-season-7-na/events/na-open-qualifier-1/overview) and Sunday with [Europe](https://smash.gg/tournament/rlcs-season-7-eu/events/eu-open-qualifier-1/overview). A notable teams list for the qualifiers has been compiled [here.](https://www.reddit.com/r/RocketLeagueEsports/comments/auqwgu/rlcsrlrs_season_7_notable_teams_list/)
@@ -21,7 +20,7 @@ In game news, Psyonix has announced that **Rocket League Radio** songs will be a
 
 ---
 
-# Around the Community
+## Around the Community
 
 Gfinity hosts the **Rocket League Oceanic Masters** for RLCS this season, replacing Throwdown. [Learn more...](https://www.rocketleagueesports.com/introducing-the-rocket-league-oceanic-masters/)
 
@@ -31,7 +30,7 @@ The **League of Rockets** dropped a surprise stream earlier this week, with Scru
 
 ---
 
-### Articles
+#### Articles
 
 -   [DreamHack Interviews: Flakes](https://octane.gg/news/dreamhack-interviews-flakes/)
 -   [DreamHack Interviews: mCon esports](https://octane.gg/news/dreamhack-interviews-mcon-esports)
@@ -48,7 +47,7 @@ The **League of Rockets** dropped a surprise stream earlier this week, with Scru
 -   [Rocket League Season 7 Preview: Splyce](https://thegamehaus.com/rocket-league-season-7-team-previews-splyce/2019/02/22/)
 -   [Rocket League Season 7 Preview: Triple Trouble](https://thegamehaus.com/rocket-league-season-7-previews-triple-trouble/2019/02/26/)
 
-### News
+#### News
 
 -   [Competitive Season 9 Rank Distribution Released](https://www.reddit.com/comments/avhibf)
 -   [kuxir and miztik do not resign with Flipsid3 Tactics](https://flipsidetactics.com/news/f3-rocket-league-departs/)
@@ -59,7 +58,7 @@ The **League of Rockets** dropped a surprise stream earlier this week, with Scru
 -   [RLBot Wintertide takes place next Saturday, March 9th](https://twitter.com/RLBotOfficial/status/1100414386001203201)
 -   [United Rogue Week 2 Schedule Released](https://twitter.com/UnitedRogue/status/1101081292102397953)
 
-### Shows
+#### Shows
 
 -   [Aftershock: Ep. 22](https://www.youtube.com/watch?v=-6_dp7AtxxA&feature=youtu.be)
 -   [ASAP: Ep. 8](https://asapweekly.podbean.com/e/rocket-league-8-started-from-the-bottom-now-we-here/)

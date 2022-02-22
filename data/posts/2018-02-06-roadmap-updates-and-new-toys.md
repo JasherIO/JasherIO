@@ -19,7 +19,7 @@ Outside of roadmap updates, Psyonix also announced a new line of [light-up clip-
 
 ---
 
-### Gold Rush 2
+## Gold Rush 2
 
 After last year's very successful [Beyond the Summit](http://beyondthesummit.tv/) style Gold Rush event, the community run and funded venture will take place again this weekend with [Gold Rush 2](https://smash.gg/tournament/gold-rush-2/details). With sponsorship from [Twitch](https://twitter.com/GoldRushGG/status/958383612356734976) and [Red Bull](https://twitter.com/GoldRushGG/status/960628806334558208), expect Gold Rush 2 to be one of the biggest community events of the year!
 
@@ -61,20 +61,20 @@ Yesterday, they [delivered a trailer](https://twitter.com/LeagueOfRockets/status
 -   ClayX
 -   Sharrieff
 
-### Ranked Hoops
+## Ranked Hoops
 
 Ranked Hoops, the epicenter of competitive Rocket League Hoops events, is celebrating their 1 Year Anniversary with a [\$250 2v2 Hoops](https://smash.gg/tournament/2v2-hoops-tournament-pc-xbox-switch-02-11-18) tournament on February 11th. Join in on the festivities by registering on [Smash.gg](https://smash.gg/tournament/2v2-hoops-tournament-pc-xbox-switch-02-11-18)!
 
 ---
 
-### Articles
+## Articles
 
 -   [Inside The Rocket Dailies, Twitter’s best Rocket League account](http://rocketeers.gg/interview-rocket-dailies-best-rocket-league-twitter-account/)
 -   [The 3 biggest takeaways from the Ting Open finals](http://rocketeers.gg/gale-force-esports-win-ting-open-rocket-league/)
 
 ---
 
-### News
+#### News
 
 -   [Behind the Scenes at DreamHack Leipzig (Shogun)](https://www.youtube.com/watch?v=-BBKo2wNWz8)
 -   [DreamHack Open Leipzig 2018 Aftermovie (G2 Esports)](https://www.youtube.com/watch?v=EiF0sARiGuo)
@@ -87,7 +87,7 @@ Ranked Hoops, the epicenter of competitive Rocket League Hoops events, is celebr
 
 ---
 
-### Rosters
+#### Rosters
 
 As the [roster lock dates](https://www.reddit.com/r/RocketLeagueEsports/comments/7sgszl/rlcs_roster_lock_info/) for RLCS (02/09) and RLRS (02/14) near, teams are beginning to finalize and announce their rosters. For an up-to-date status on RLCS roster moves, bookmark [Octane's RLCS Roster Tracker](http://octane.gg/news/rlcs-roster-tracker) and [Liquipedia's Transfer page](http://liquipedia.net/rocketleague/Transfers).
 

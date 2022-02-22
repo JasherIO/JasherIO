@@ -15,19 +15,19 @@ image: https://i.imgur.com/WKvjydB.png
 
 [HyperX](https://twitter.com/RLCS/status/927581351431118848) and [MGM Resorts](https://twitter.com/RLCS/status/927597141865967616) have joined Mobil1, Old Spice, Brisk, and Nissin Cup Noodles in sponsoring RLCS, just in time for the Season 4 World Championship this weekend.
 
-# Nintendo Switch at World Championship
+## Nintendo Switch at World Championship
 
 Rocket League will be released on the Nintendo Switch a week from tomorrow, [November 14th](https://www.polygon.com/2017/10/30/16578398/rocket-league-nintendo-switch-launch-date). If you are on the fence about picking it up and would like to demo it, Psyonix will have playable units [available at the World Championship](https://twitter.com/RocketLeague/status/925467430003949568).
 
-# Season 5 Rank Distribution
+## Season 5 Rank Distribution
 
 After a little over a month since the [Autumn Update and Competitive Season 6](https://www.rocketleague.com/news/patch-notes-v1-37/) went live, Psyonix has released data on the [distribution of ranks](https://www.reddit.com/r/RocketLeague/comments/7a5bq7/season_5_rank_distribution_data/) in the season. In addition, /u/Nerdword generated a [cumulative](https://www.reddit.com/r/RocketLeague/comments/7a5bq7/season_5_rank_distribution_data/dp7850w/) look at the same data.
 
 ---
 
-# RLCS World Championship
+## RLCS World Championship
 
-##### Dates
+### Dates
 
 | **Day** |         **Date**         | **Time** |                        **Twitch**                        |
 | :-----: | :----------------------: | :------: | :------------------------------------------------------: |
@@ -37,7 +37,7 @@ After a little over a month since the [Autumn Update and Competitive Season 6](h
 
 For time conversions, try [https://www.worldtimebuddy.com/](https://www.worldtimebuddy.com/).
 
-##### Broadcast Talent
+### Broadcast Talent
 
 |                              **Talent**                              |     **Role**     |
 | :------------------------------------------------------------------: | :--------------: |
@@ -53,7 +53,7 @@ For time conversions, try [https://www.worldtimebuddy.com/](https://www.worldtim
 |  [David “yumi_cheeseman” Lane](https://twitter.com/yumi_cheeseman)   |     Analyst      |
 |        [Jamie “Karma” Bickford](https://twitter.com/KarmahTV)        |     Analyst      |
 
-##### [Bracket](https://smash.gg/tournament/rlcs-season-4/events/rlcs-s4-world-championship/brackets)
+### [Bracket](https://smash.gg/tournament/rlcs-season-4/events/rlcs-s4-world-championship/brackets)
 
 | **Seed** |      **Team**      |  **Region**   |
 | :------: | :----------------: | :-----------: |
@@ -68,7 +68,7 @@ For time conversions, try [https://www.worldtimebuddy.com/](https://www.worldtim
 |    1     |     Chiefs ESC     |    Oceania    |
 |    2     | Pale Horse Esports |    Oceania    |
 
-##### Recent Results
+### Recent Results
 
 |                                                              **Tournament**                                                              |  **Region**   |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :-----------: |
@@ -82,7 +82,7 @@ For time conversions, try [https://www.worldtimebuddy.com/](https://www.worldtim
 
 ---
 
-# Collegiate Rocket League
+## Collegiate Rocket League
 
 League play for CRL concluded with Week 4 last [Monday](https://www.reddit.com/r/RocketLeague/comments/79r3jv/collegiate_rocket_league_50000_in_scholarships/) and [Tuesday](https://www.reddit.com/r/RocketLeague/comments/79z9au/collegiate_rocket_league_50000_in_scholarships/).
 Tune in for college carball regional playoffs tonight at 8 PM ET on [twitch.tv/RLEsports](https://twitch.tv/RLEsports)!
@@ -107,7 +107,7 @@ As most are aware, the battle cars in Rocket League are differentiated by their 
 
 ---
 
-### Recent Articles
+#### Recent Articles
 
 [Q&A with Hollywood Hammer, Vince](http://hammersesports.com/en/blog/2017/10/31/q-hollywood-hammer-vince/)
 
@@ -119,7 +119,7 @@ As most are aware, the battle cars in Rocket League are differentiated by their 
 
 ---
 
-##### Resources
+#### Resources
 
 [/r/RLCSnews](https://www.reddit.com/r/RLCSnews/): News
 

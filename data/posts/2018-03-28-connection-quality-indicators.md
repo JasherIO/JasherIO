@@ -16,7 +16,7 @@ Psyonix is including new [connection quality indicators](https://www.rocketleagu
 
 The [_Tournaments Update_](https://www.rocketleague.com/news/tournaments-update-coming-april-3/) releases April 3rd.
 
-# Leagues
+## Leagues
 
 |        Event        | Region |                                                         Results                                                          |                                             Schedule                                              |                                                           Liquipedia                                                           |                               Octane                               |
 | :-----------------: | :----: | :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
@@ -29,7 +29,7 @@ The [_Tournaments Update_](https://www.rocketleague.com/news/tournaments-update-
 
 ---
 
-### Articles
+#### Articles
 
 -   [Calculated #1: Fnatic](https://www.rocketleagueesports.com/news/calculated--1--fnatic/)
 -   [Gibbs' Match of the Week: S5/W2 Europe](https://www.rocketleagueesports.com/news/gibbs--match-of-the-week-s5-w2-europe/)
@@ -40,7 +40,7 @@ The [_Tournaments Update_](https://www.rocketleague.com/news/tournaments-update-
 -   [Team Secret: Relegated to the Rival Series, but set on an RLCS comeback](http://rocketeers.gg/team-secret-rocket-league-interview/)
 -   [The 4 Biggest Surprises after Week 2 of the RLCS](http://rocketeers.gg/rlcs-season-5-league-surprises-freakii-ghost-chrome-jacob/)
 
-### News
+#### News
 
 -   [Asian Open begins Saturday](https://smash.gg/tournament/pc-ps4-rli-asian-open/details)
 -   [Conclusion of Sol League Season 2](https://www.reddit.com/r/RocketLeagueEsports/comments/8744t1/sol_league_s2_grand_finals_2500/)
@@ -52,7 +52,7 @@ The [_Tournaments Update_](https://www.rocketleague.com/news/tournaments-update-
 -   [RLCS and Rival Series Replays - Week 1](https://www.rocketleagueesports.com/news/rlcs-and-rival-series-replays-for-week-1-/)
 -   [Spectator Tool](https://www.reddit.com/r/RocketLeagueEsports/comments/86h9zb/tool_to_help_rocket_league_spectators/)
 
-### Shows
+#### Shows
 
 -   [Full Throttle #6](https://www.twitch.tv/videos/243596628)
 -   [LFM Ep. 103: “March on to Madness” Tournaments Announced, Spring Fever Update, Community Orgs Problem?](http://www.lfmannfield.com/episodes/2018/3/22/ep-103-lets-win-tournaments-tournaments-announced-spring-fever-update-community-orgs-problem)

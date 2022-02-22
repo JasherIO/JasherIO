@@ -20,21 +20,21 @@ With the September [Autumn Update](https://www.rocketleague.com/game-info/autumn
 
 ---
 
-# Dreamhack Leipzig
+## Dreamhack Leipzig
 
 After last year’s successful Dreamhack Summer and Atlanta events, Dreamhack is investing into Rocket League Esports again in January. The [Dreamhack Leipzig](https://open.dreamhack.com/2017/dreamhack-open-2018-kicks-off-at-dreamhack-leipzig-featuring-rocket-league/) will feature a \$50,000 prize pool, [4 invited teams](https://twitter.com/DreamHack/status/940642410287247363), 4 expenses paid qualifier spots, and 24 open spots. Expenses paid qualifier spots will be acquirable in European and North American online qualifiers. For more information, read Dreamhack’s [official announcement](https://open.dreamhack.com/2017/dreamhack-open-2018-kicks-off-at-dreamhack-leipzig-featuring-rocket-league/).
 
-# CRL National Championship
+## CRL National Championship
 
 Over Saturday and Sunday, the 8 best collegiate Rocket League teams in North America competed in the Collegiate Rocket League (CRL) National Championship. To catch up on the action, watch the [Day 1](https://www.twitch.tv/videos/208090079) and [Day 2](https://www.twitch.tv/videos/208408311) VODs. For information on results (spoilers ahead), see the [thread](https://www.reddit.com/r/RocketLeague/comments/7inth6/collegiate_rocket_league_national_championship/) and [bracket](https://compete.tespa.org/tournament/91/phase/1/bracket/main/0).
 
-# Gfinity Elite Series: Season 2
+## Gfinity Elite Series: Season 2
 
 Season 2 of the Gfinity Elite Series concluded on Saturday by crowning a champion from their playoff participants: Endpoint (Season 1 Champions), Reason, Method, and Prophecy. For more information (spoilers ahead), see Octane’s [article](http://octane.gg/news/reason-gaming-win-gfinity-elite-series-season-2/).
 
 VODs: [Semi-Finals](https://www.twitch.tv/videos/206042592), [Grand Final](https://www.twitch.tv/videos/208014833)
 
-# RLCS Overtime Cancelled
+## RLCS Overtime Cancelled
 
 In the week’s sad news, [RLCS Overtime has been cancelled](https://twitter.com/RLCS/status/940634868748132352). Tomorrow’s episode will be the last and will feature highlights from previous episodes.
 

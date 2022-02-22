@@ -13,7 +13,7 @@ Players receive [Season 8 rocket boosts](https://www.rocketleague.com/news/seaso
 
 A second Hot Wheels DLC, [Triple Threat](https://www.rocketleague.com/news/new-hot-wheels-triple-threat-dlc-pack-september-24/), releases the same day and includes 3 new battle-cars.
 
-# What's happening in RLEsports?
+## What's happening in RLEsports?
 
 |        Event        | Region | Progress |                                                           Liquipedia                                                            |                            Octane                             |                                                                  Other                                                                   |
 | :-----------------: | :----: | :------: | :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
@@ -26,7 +26,7 @@ A second Hot Wheels DLC, [Triple Threat](https://www.rocketleague.com/news/new-h
 
 ---
 
-### Articles
+#### Articles
 
 -   [1v1 with GarrettG](https://www.rocketleagueesports.com/news/1v1-with-garrettg/)
 -   [Bluey is back with a new team: “We’re not going down without a fight”](https://rocketeers.gg/interview-bluey-savage-psg-deevo-alpha-rlrs/)
@@ -35,7 +35,7 @@ A second Hot Wheels DLC, [Triple Threat](https://www.rocketleague.com/news/new-h
 -   [Interview with NRG Esports Rocket League Player - GarrettG](http://team-dignitas.net/articles/blogs/rocket-league/12947/interview-with-nrg-esports-rocket-league-player-garrettg)
 -   [Karma: "I never doubted us"](https://rocketeers.gg/interview-karma-splyce-rocket-league/)
 
-### Shows
+#### Shows
 
 -   [Aftershock](https://www.youtube.com/watch?v=3S9zYlaMsQU)
 -   [Discussions with Dazerin: Stax](https://www.youtube.com/watch?v=vTS_yjDTef0)

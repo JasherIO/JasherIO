@@ -16,17 +16,17 @@ image: https://i.imgur.com/WKvjydB.png
 
 When details on the Autumn Update were released, Psyonix released information for [future features](https://nm.reddit.com/r/RocketLeague/comments/6zvik7/whats_coming_after_the_autumn_update/), including an in-game party system. Last Tuesday, they [announced](https://www.rocketleague.com/news/psynet-party-system-test-steam/) that the in-game party system would be going live on PC.
 
-#### Fast & Furious DLC
+### Fast & Furious DLC
 
 Keeping with the trend of pop culture partnerships (DC/Batman, Rick and Morty, The Fate of the Furious), Psyonix [announced](https://www.rocketleague.com/news/fast-and-furious-dlc-charger-skyline/) that the Dodge Charger and Nissan Skyline from _The Fast and the Furious_ franchise would be entering Rocket League.
 
-#### Rival Week 2
+### Rival Week 2
 
 PRL is holding their [2nd Rival Week](https://www.reddit.com/r/RocketLeague/comments/74cabi/psyonixsponsored_community_event_prls_rival_week/), [sponsored by Psyonix](https://www.rocketleague.com/news/psyonix-sponsored-community-events/), over the next several days. Top teams from Europe and North America face off in a Bo3 - Bo7 format. Check it out live on [PRL’s Twitch](https://twitch.tv/ProRivalry)!
 
-# Esports News
+## Esports News
 
-#### RLCS Season 4 Europe: Week 5
+### RLCS Season 4 Europe: Week 5
 
 **Points of Interest**
 
@@ -40,7 +40,7 @@ Method (1), PSG (2), Gale Force Esports (3), MockIt Esports (4), exceL (5), and 
 
 Old Spice Player of the Week: [Paschy90](https://twitter.com/RLCS/status/917132984611831808)
 
-#### RLCS Season 4 North America: Week 5
+### RLCS Season 4 North America: Week 5
 
 **Points of Interest**
 
@@ -54,7 +54,7 @@ Cloud9 (1), G2 Esports (2), Ghost (3), NRG (4), Rogue (5), and FlyQuest (6) play
 
 Old Spice Player of the Week: [JKnaps](https://twitter.com/RLCS/status/916821697369595904)
 
-#### RLCS Season 4 Oceania: Week 4
+### RLCS Season 4 Oceania: Week 4
 
 [Results](https://www.reddit.com/r/RocketLeague/comments/74yble/rlcs_s4_throwdown_oce_league_play_week_4/)
 
@@ -62,7 +62,7 @@ Old Spice Player of the Week: [JKnaps](https://twitter.com/RLCS/status/916821697
 
 [The OCE Power Rankings - 25/09 - 01/10](https://www.rocketleagueoce.com/single-post/2017/10/04/The-OCE-Power-Rankings---2509---0110)
 
-#### RLRS Season 1: Week 5
+### RLRS Season 1: Week 5
 
 **Europe**
 
@@ -76,7 +76,7 @@ Old Spice Player of the Week: [JKnaps](https://twitter.com/RLCS/status/916821697
 
 [Results and Standings](https://www.reddit.com/r/RocketLeague/comments/74mk0o/rlcs_s4_rlrs_league_play_week_5/)
 
-#### Collegiate Rocket League
+### Collegiate Rocket League
 
 Last month, teams from universities around North America qualified for [CRL League Play](https://www.rocketleague.com/news/league-play-begins-for-collegiate-rocket-league/), which opens on October 23rd. Tune into the new [Rocket League Esports channel](https://twitch.tv/rlesports) to watch it live!
 
@@ -86,21 +86,21 @@ For the most up-to-date ranking of collegiate teams, check out [CCA’s Power Ra
 
 [Fnatic signs The Leftovers](https://twitter.com/FNATIC/status/916302070935949312)
 
-# Around the Community
+## Around the Community
 
-#### MLD Season 5
+### MLD Season 5
 
 Minor League Doubles’ Season 5 concluded with the Ducks, last season’s champions, and the Flames squaring off in the championship game. Coming into the championship game, the Ducks had a league best 40-10 record and +118 goal differential and the Flames had just won a close 7 game conference final against the Rhinos. The Flames were no match for the Ducks, who swept 4-0, claimed their 2nd league championship, and tied the Elite for the most championships in league history. For more information on MLD’s 5th Season, check out [TheGamingBear’s Recap](https://www.mldoubles.com/single-post/2017/10/09/Ducks-dynasty-stays-strong-as-season-5-comes-to-an-end).
 
-#### ORSA Dynasty Cup: Season 3
+### ORSA Dynasty Cup: Season 3
 
 ORSA is preparing for Season 3 of their league, the [Dynasty Cup](https://www.reddit.com/r/RocketLeague/comments/73ook2/orsa_leagues_are_back_better_and_bigger_than_ever/). Players of all skill levels are invited. Register [here](http://www.rocketsportsassociation.com/index.php/dynasty-cup-season-3-sign-up-sheet/)!
 
-#### Local Events (LANs) in October
+### Local Events (LANs) in October
 
 As RLCS Season 5 nears its hiatus period, organizers from around the community have begun announcing their LANs for October. Check the [Reddit post](https://www.reddit.com/r/RocketLeague/comments/73ffop/local_events_lans_october_2017/) for a list of LANs from around the world!
 
-# Recent Articles
+## Recent Articles
 
 [Top 'Rocket League' Teams on Unprecedented Winning Streak Face-Off](https://waypoint.vice.com/en_us/article/9k3gxe/top-rocket-league-teams-on-unprecedented-winning-streak-face-off)
 

@@ -46,13 +46,13 @@ The [ELEAGUE Cup: Rocket League](http://www.eleague.com/rocketleague/news/the-el
 
 ---
 
-### Roster News
+#### Roster News
 
 [Pale Horse Esports Contract Ends](https://twitter.com/palehorseesport/status/935473318756458496)
 
 ---
 
-# Smash.gg Boom
+## Smash.gg Boom
 
 Smash.gg is a tournament platform that facilitates the organization of tournaments. Rocket League tournament organizers (RLCS, Nexus, SPL, etc.) use Smash.gg to host their events. As well as being successful in our community, Smash.gg has a large following in Melee, Marvel vs Capcom, Street Fighter, and more. All of this success has led them to be spotlighted by [Business Insider](http://www.businessinsider.com/50-startups-to-boom-in-2018-according-to-vcs-2017-11) as startup about to “boom.”
 
@@ -83,7 +83,7 @@ Minor League Double's Season 6 begins this weekend with the Platinum and Champio
 
 ---
 
-### Recent Articles
+#### Recent Articles
 
 [Congratulations to our Rocket League OCE Champions](https://throwdowntv.gg/news/congratulations-to-our-rl-oce-champions/)
 

@@ -27,7 +27,7 @@ The Universal Open progressed through the open qualifier stages over the past se
 
 ---
 
-### Articles
+#### Articles
 
 -   [Here are the 5 RLCS veterans with the highest goal participation](https://rocketeers.gg/rlcs-statistics-goal-participation-player-stats-data/)
 -   [Pros Reflect on the RLCS World Championship's Rapid Evolution](https://www.redbull.com/us-en/rlcs-world-championship-evolution-interviews)
@@ -36,7 +36,7 @@ The Universal Open progressed through the open qualifier stages over the past se
 -   [Turbopolsa: Post-World Championship Interview](http://team-dignitas.net/articles/news/rocket-league/12655/turbopolsa-post-world-championship-interview)
 -   [Why we need players like Chrome](https://rocketeers.gg/chrome-evil-geniuses-rocket-league-roster-update/)
 
-### News
+#### News
 
 -   [\$1000 Astronauts 3v3 takes place Saturday](https://twitter.com/TeamBeyondnet/status/1011753475191894017)
 -   [Chicago joins Evil Geniuses](https://octane.gg/news/chicago-joins-evil-geniuses)
@@ -49,7 +49,7 @@ The Universal Open progressed through the open qualifier stages over the past se
 -   [Patch v1.48 released](https://www.reddit.com/r/RocketLeague/comments/8uaudl/rocket_league_v148_patch_notes_and_known_issues/)
 -   [Universal Open talent announced](https://twitter.com/NBCSportsPR/status/1009845888200663044)
 
-### Shows
+#### Shows
 
 -   [LFMannfield: The Rlcs Season V Experience Ft. Interviews with G2, Nrg, Dignitas and More!](http://www.lfmannfield.com/episodes/2018/6/20/the-rlcs-season-v-experience-ft-interviews-with-g2-nrg-dignitas-and-more)
 -   [RLCS Season 5 Aftermovie](https://youtu.be/Sk1acjEaMB4)

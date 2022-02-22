@@ -14,7 +14,6 @@ keywords:
     - "CStarLeague"
     - "League of Rockets"
 image: https://i.imgur.com/WKvjydB.png
-fullscreen: true
 ---
 
 _Major League Baseball_ and _Psyonix_ have partnered to [bring baseball attire to the carball arena](https://www.rocketleague.com/news/take-the-field-with-the-mlb-fan-pack/). The MLB is the 2nd major American sports league to partner with Psyonix for in-game items. The [NBA Flag Pack](https://www.rocketleague.com/news/nba-flag-pack-delisting-on-september-28/) released on September 28, 2017.
@@ -37,7 +36,7 @@ Conference play of the third season of **Collegiate Rocket League** wrapped up o
 
 ---
 
-### Articles
+#### Articles
 
 -   [In-depth Interview with Jorby: ‘I’ll continue to grind until I realize that dream’ of RLCS](https://www.dailyesports.gg/jorby-interview-rocket-league-rlcs-rlrs/)
 -   [Interview With Dig RL Player ViolentPanda On RLCS Season 7](http://dignitas.gg/articles/news/rocket-league/13504/interview-with-dig-rl-player-violentpanda-on-rlcs-season-7)
@@ -54,13 +53,13 @@ Conference play of the third season of **Collegiate Rocket League** wrapped up o
 -   [Rocket League Season 7 Preview: Team SoloMid](https://thegamehaus.com/rocket-league-season-7-previews-team-solomid/2019/03/16/)
 -   [Snaski about his new role as Dignitas’ coach: “I am ready to move onto a different career”](https://rocketeers.gg/interview-snaski-dignitas-rocket-league-coach/)
 
-### News
+#### News
 
 -   [\$2,000 ASTRONAUTS 3v3 Tournament Size DOUBLED](https://www.reddit.com/r/RocketLeagueEsports/comments/b46cvr/2000_astronauts_3v3_tournament_size_doubled/)
 -   [Introducing the Baltic Esports League (BESL) - a €2,000 region specific 3v3 tournament with LAN finals!](https://www.reddit.com/r/RocketLeagueEsports/comments/b3i520/introducing_the_baltic_esports_league_besl_a_2000/)
 -   [Richmond Raceway to Host Rocket League Tournament Prior to the TOYOTA OWNERS 400](http://www.richmondraceway.com/Articles/2019/03/Rocket-League.aspx)
 
-### Shows
+#### Shows
 
 -   [Aftershock: Ep. 24](https://www.youtube.com/watch?v=x67aR4vgYhA&feature=youtu.be)
 -   Asap Weekly: [Ep. 10](https://radiopublic.com/asap-artifact-and-rocket-league-p-WeymEZ/ep/s1!70a09), [Ep. 11](https://radiopublic.com/asap-artifact-and-rocket-league-p-WeymEZ/ep/s1!9f0c3)

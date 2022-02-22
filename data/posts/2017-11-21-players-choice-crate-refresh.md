@@ -15,7 +15,7 @@ The Player’s Choice Crate’s contents were [decided](https://www.rocketleague
 
 &nbsp;
 
-# Competitive Matchmaking Ban Adjustments
+## Competitive Matchmaking Ban Adjustments
 
 Up until now, players have been banned for 15 minutes from matchmaking whenever they left a game early. Now, Psyonix has introduced a tiered banning system that takes into account previous bans and offenses. For more information, see the official [post](https://www.reddit.com/r/RocketLeague/comments/7eazxt/incoming_adjustments_to_competitive_matchmaking/).
 
@@ -23,13 +23,13 @@ Up until now, players have been banned for 15 minutes from matchmaking whenever 
 
 ---
 
-# Cyberpower #ExtremeSeries Invitational
+## Cyberpower #ExtremeSeries Invitational
 
 Over the weekend, Cyberpower held their 2nd Rocket League invitational. 8 teams were invited to compete in a \$5K double-elimination bracket. For more info, see the [/r/RLCSnews post](https://www.reddit.com/r/RLCSnews/comments/7dnolz/cyberpowerpc_fall_invitational_5000_november_1819/).
 
 &nbsp;
 
-# Collegiate Rocket League
+## Collegiate Rocket League
 
 Over the last 2 weeks, universities from across North America competed in the their conferences playoffs. 2 teams from each conference and 8 teams in total advanced to the national championship. The date of the national championship has not been announced yet, but you can see a full list of the qualified teams below.
 
@@ -52,7 +52,7 @@ UPDATE: The National Championship will take place [December 9-10](https://twitte
 
 ---
 
-### Roster News
+#### Roster News
 
 [Hollywood Hammers announces Vince as a starter, Lemonpuppy to sub, Loomin to coach](http://hammersesports.com/en/blog/2017/11/16/rocket-league-roster-update/)
 
@@ -82,7 +82,7 @@ After a long hiatus, the RL Esports Wiki is back to provide a comprehensive coll
 
 ---
 
-### Recent Articles
+#### Recent Articles
 
 [Gale Force Esports - RLCS Season 4 World Champions](https://rlcs.gg/news/gale-force-esports-rlcs-s4-world-champions)
 

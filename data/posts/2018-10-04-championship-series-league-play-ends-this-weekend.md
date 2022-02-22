@@ -30,20 +30,20 @@ Championship Series league play draws to a close this weekend as teams seek Worl
 
 ---
 
-### Articles
+#### Articles
 
 -   [How to Defend Your Backboard in Rocket League](http://team-dignitas.net/articles/blogs/rocket-league/12987/how-to-defend-your-backboard-in-rocket-league)
 -   [Interview With We Dem Girlz Rocket League Captain - remkoe](http://team-dignitas.net/articles/blogs/rocket-league/13016/interview-with-we-dem-girlz-rocket-league-captain-remkoe)
 -   [The Best Rocket League Plays of September 2018](https://ginx.tv/rocket-league/best-rocket-league-plays-september-2018/)
 -   [The Return of Rocket League’s We Dem Girlz](https://ginx.tv/rocket-league/the-return-of-rocket-leagues-we-dem-girlz/)
 
-### News
+#### News
 
 -   [Competitive Season 8 rank distribution released](https://www.reddit.com/r/RocketLeague/comments/9kw21p/season_8_rank_distribution_extravaganza/)
 -   [Elevation crate and Nimbus, the newest battle-car, drop October 8th](https://www.rocketleague.com/news/elevation-crate-october-8/)
 -   [Psyonix hosts community meetup October 13th in Santa Ana, California](https://www.rocketleague.com/news/fall-community-meet-up-october-13/)
 
-### Shows
+#### Shows
 
 -   [Aftershock Ep. 3](https://youtu.be/02FJfjo8G_U)
 -   [Rush Hour Ep. 3](https://www.twitch.tv/videos/317803246)

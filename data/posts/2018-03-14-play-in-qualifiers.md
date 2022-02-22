@@ -34,7 +34,7 @@ For more information on the North American play-in, checkout Octane.gg's [recap]
 
 For more information on the Oceaniac qualifier, checkout Octane.gg's [recap](https://octane.gg/news/throwdown-season-5-qualifier-recap/).
 
-# Schedules
+## Schedules
 
 On Monday, Rocket League Esports announced the [schedules](https://www.reddit.com/r/RocketLeagueEsports/comments/83xefz/the_full_rlcs_season_5_league_play_schedule_is/) for RLCS and RLRS league play. Here are several matches to look forward to in Week 1:
 
@@ -74,7 +74,7 @@ The MLD Platinum League season concluded on Sunday with the last week of divisio
 
 ---
 
-### Articles
+#### Articles
 
 -   [9 NA Rocket League teams that have the best chance to get into RLRS](http://rocketeers.gg/rocket-league-rival-series-rlrs-na-teams/)
 -   [Elite Series Season 3: Week 1 Recap](https://www.gfinityesports.com/article/1619)
@@ -89,7 +89,7 @@ The MLD Platinum League season concluded on Sunday with the last week of divisio
 -   [Top 20 teams to watch out for in the EU RLRS Play-Ins](https://octane.gg/news/top-20-teams-to-watch-out-for-in-the-eu-rlrs-play-ins/)
 -   [Top 20 teams to watch out for in the NA RLRS Play-Ins](https://octane.gg/news/top-20-teams-to-watch-out-for-in-the-na-rlrs-play-ins/)
 
-### News
+#### News
 
 -   [Big East Conference and ESL to host an Invitational](http://www.bigeast.com/sports/2018/3/12/esports.aspx)
 -   Gfinity Elite Series: Week 1
@@ -103,7 +103,7 @@ The MLD Platinum League season concluded on Sunday with the last week of divisio
 -   [RLI announces the Asian Open](https://www.reddit.com/r/RocketLeagueEsports/comments/83fplb/about_the_rli_asian_open_500_asian_tournament/)
 -   [SpaceStation Gaming sign Radiance](https://twitter.com/SpacestationGG/status/973616862859739137)
 
-### Shows
+#### Shows
 
 -   [Full Throttle Ep. 4: RLRS/OCE Playins, RLRS/RLCS Predictions, Gfinity Elite Series, and more...](https://www.twitch.tv/videos/238352986)
 -   [Ep.101 “Live on Twitch???” Patch Notes, DC DLC is out, WWE DLC coming soon?](http://www.lfmannfield.com/episodes/2018/3/6/ep101-live-on-twitch-patch-notes-dc-dlc-is-out-wwe-dlc-coming-soon)

@@ -42,7 +42,7 @@ Cloud9 stifled Dignitas on Sunday to secure the second World Championship win fo
 -   [Solo plays and style led to Cloud9's first Rocket League championship - Destructoid](https://www.destructoid.com/solo-plays-and-style-led-to-cloud9-s-first-rocket-league-championship-530908.phtml?utm_source=dlvr.it&utm_medium=twitter)
 -   [The 31 best moments from the Season 6 RLCS World Championship - Rocketeers](https://rocketeers.gg/best-moments-from-season-6-rlcs-world-championship/)
 
-# The Rest of 2018
+## The Rest of 2018
 
 -   The Season 6 Promotion Tournament takes place Saturday and Sunday.
 -   The November Renegade Cups continue: [Fall Frenzy (NA)](https://smash.gg/tournament/fall-frenzy/events) | [Thunderdome (EU)](https://smash.gg/tournament/rocketeers-thunderdome/events)
@@ -54,12 +54,12 @@ Cloud9 stifled Dignitas on Sunday to secure the second World Championship win fo
 
 ---
 
-### Articles
+#### Articles
 
 -   [Interview with Captain of Ghost, Lethamyr, "We feel like we can easily be a top 3 team in North America."](http://team-dignitas.net/articles/blogs/rocket-league/13094/interview-with-lethamyr)
 -   [The Rise of Rocket League's Keyboard and Mouse Wizards](https://www.redbull.com/int-en/rocket-league-behind-the-keyboard-mouse-players)
 
-### News
+#### News
 
 -   [Beyond monthlies return for November](https://twitter.com/TeamBeyondnet/status/1062060556117516290)
 -   [Ballistix Brawl Season 2 progresses](https://smash.gg/tournament/ballistix-brawl-rocket-league-season-2/details)
@@ -68,7 +68,7 @@ Cloud9 stifled Dignitas on Sunday to secure the second World Championship win fo
 -   [Rival announces Autumn Open 2018](https://twitter.com/RivalEsportsGG/status/1062454114246934528)
 -   [Team Liquid CEO on Rocket League: "orgs don't own the spots - its really hard to get involved"](https://twitter.com/LiQuiD112/status/1061045393440464896)
 
-### Shows
+#### Shows
 
 -   [Aftershock: Ep. 8](https://www.youtube.com/watch?v=A4BOgn1FNN8)
 -   [In Loving Memory of DarkFire](https://www.youtube.com/watch?v=UA8ihqHyclg)

@@ -35,7 +35,7 @@ Here is a full list of additions coming in the Autumn Update:
 
 Watch the [trailer](https://www.youtube.com/watch?v=0B9PVx153Zo)!
 
-#### After the Autumn Update
+### After the Autumn Update
 
 Not only did Psyonix detail the Autumn Update, they released information on community requested features that will be [coming soon](https://nm.reddit.com/r/RocketLeague/comments/6zvik7/whats_coming_after_the_autumn_update/).
 
@@ -48,13 +48,13 @@ Here is a full list of additions coming after the Autumn Update:
 -   In-game tournament system
 -   Cross-platform parties
 
-#### Olympics
+### Olympics
 
 A month ago in an article in the [Washington Post](https://www.washingtonpost.com/news/early-lead/wp/2017/08/08/paris-mulling-inclusion-of-esports-in-2024-olympic-program/?utm_term=.4a91ac5950e9), the International Olympic Committee hinted at bringing esports to the 2024 Olympics. In very preliminary move, Devin Connors, from the Psyonix marketing team, [reached out](https://twitter.com/DunhamSmash/status/908042087672668160) to the Olympics.
 
-# Esports News
+## Esports News
 
-#### RLCS Season 4 Europe: Week 2
+### RLCS Season 4 Europe: Week 2
 
 After taking out EnVyUs, the reigning World Champions, last week, Method defeated Season 2 World Champions Flipsid3 Tactics and the #1 ranked team in Europe, Gale Force Esports, this week, putting them at 4-0 and comfortably at the top of the table in the league. After having a week 1 bye, Flipsid3 took their loss to Method and defeated EnVyUs (3-1) this weekend, leaving them in the middle of the pack in the standings. EnVyUs has had a slow start to league play. After dropping their match to Method last week, they were defeated by Flipsid3 this week, leaving them at 1-2 and the middle of the table. Time will tell if their fortunes will turn around.
 
@@ -62,7 +62,7 @@ For a look at the European standings and results, check the [Reddit thread](http
 
 Watch the [Top 5 Plays](https://twitter.com/RLCS/status/908601294176186368) from Europe in Week 1!
 
-#### RLCS Season 4 North America: Week 2
+### RLCS Season 4 North America: Week 2
 
 In the surprise of the week, Ghost came out strong against NRG, defeating them 3-1 with a [Player of the Week](https://twitter.com/RLCS/status/909194987379736577) performance from Klassux. After their defeat to Ghost, NRG took out their frustrations on Rogue (3-1). After this weekend’s results, they sit at #2 in the league. Similar to last week, Cloud9 comfortably took their wins against Allegiance (3-1) and FlyQuest (3-0), leaving them with a 3-0 record and placing them at the top of the league play standings.
 
@@ -70,7 +70,7 @@ For a look at the North American standings and results, check the [Reddit thread
 
 Watch the [Top 5 Plays](https://twitter.com/RLCS/status/908428102102945793) from North America in Week 1!
 
-#### RLRS Season 4: Week 2
+### RLRS Season 4: Week 2
 
 Tied at #1 in Europe heading into this week, The Leftovers and The Juicy Kids competed for the spot in the last match of the day. After a 3-1 win and a 3-0 record, The Leftovers have claimed the #1 place in Europe. In North America, Fibeon continued their strong form by taking out Premature Superhero Cops in a sweep. They sit alone at 3-0 atop the North American standings. Kinematics continued their down turn of form, taking a loss to Premature Superhero Cops (1-3) this week. After looking like a strong contender coming into league play, they have struggled to assert themselves.
 
@@ -86,17 +86,17 @@ For a look at the RLRS standings and results, check the [Reddit thread](https://
 
 For more in depth coverage of RLCS / RLRS, check out [/r/RLCSnews](https://www.reddit.com/r/RLCSnews/) and [TheHalfFlip](http://thehalfflip.com/).
 
-# Around the Community
+## Around the Community
 
-#### TexasRL Dallas Open
+### TexasRL Dallas Open
 
 This week, TexasRL announced that their next LAN will be in Dallas on October 8th. They will be one of the first tournament organizers to use the LAN setting being added in the Autumn Update. [Register](https://smash.gg/tournament/texasrl-dallas-open-2017/details) to have a chance at a \$1000 prize pool! Also, make sure to check out their [online store](https://smash.gg/tournament/texasrl-dallas-open-2017/shop/dallas-open-trading-post), as all proceeds will go towards funding the event.
 
-#### MLD Champions League
+### MLD Champions League
 
 Up to now, Minor League Doubles has organized a league for players that are lower than Diamond. On Tuesday, they [announced](https://twitter.com/MLDoubles/status/907590780591767552) that they will be introducing a Champions League for players between Diamond and Champion 2 in Season 6. If you are interested in participating, make sure to [register](https://docs.google.com/forms/d/e/1FAIpQLSfQpdiiAl_UdlPgpL3mcLlaAm4zVn44RBpnztc0kcTgfYbiXw/viewform)! In the meantime, MLD’s Season 5 Playoffs are airing the next several weeks, so make sure to tune in to their channel on [Twitch](https://twitch.tv/mldoubles)!
 
-#### Collegiate Rocket League
+### Collegiate Rocket League
 
 The 1st qualifier for the Collegiate Rocket League occurred this weekend. The 2nd qualifier will be this weekend.
 
@@ -107,11 +107,11 @@ Check the following links to see where your favorite school placed in the 1st qu
 [CRL Southern Conference](https://compete.tespa.org/tournament/79)  
 [CRL Western Conference](https://compete.tespa.org/tournament/81)
 
-#### RLCS Player Camera Settings
+### RLCS Player Camera Settings
 
 So that you would not have to, [Lefticle](https://twitter.com/LefticleRL) collected the camera settings for all of the players competing in RLCS League Play from Europe, North America, and Oceania. Check out the [Reddit post](https://nm.reddit.com/r/RocketLeague/comments/6zrnla/all_rlcs_player_camera_setting_spreadsheet_na_eu/)!
 
-# Recent Articles
+## Recent Articles
 
 -   [Collegiate Rocket League Revs Up Its Debut Season](https://www.redbull.com/us-en/collegiate-rocket-league-debut-season)
 -   [The History of Competitive Rocket League: What it was like in SARPBC](https://rocket-league.com/news/comp-rl-a-history)

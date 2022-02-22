@@ -46,7 +46,7 @@ Sunday showcased the depth of competitive teams in [Europe](https://www.reddit.c
 
 ---
 
-### Articles
+#### Articles
 
 -   [APL 2.0 League Play | Week 1 Recap}](http://1neesports.com/articles/news/rocket-league/17/apl-2.0-league-play-week-1-recap)
 -   [Chiefs’ Torsos more confident than ever for RLCS](https://armchairallamericans.com/chiefs-torsos-more-confident-than-ever-for-rlcs/)
@@ -58,7 +58,7 @@ Sunday showcased the depth of competitive teams in [Europe](https://www.reddit.c
 -   [Will The D00ds ever make a comeback?](http://rocketeers.gg/interview-with-joro-the-d00ds-comeback-rlrs-rlrs/)
 -   [Winning it all, then almost losing it all: Team EnVyUs returns to the RLCS World Championship](http://rocketeers.gg/team-envyus-rocket-league-interview/)
 
-### News
+#### News
 
 -   [Astronauts Competitions Return for May](https://twitter.com/TeamBeyondnet/status/997211207823224834)
 -   [Dignitas acquires Gale Force roster](https://twitter.com/TeamDignitas/status/998945908225081345)
@@ -71,7 +71,7 @@ Sunday showcased the depth of competitive teams in [Europe](https://www.reddit.c
 -   [Talent Announced for AVGL Collegiate Series at DreamHack Austin](https://twitter.com/AVGLofficial/status/997641753753767937)
 -   [World Gaming announces Canadian-only 20K LAN](https://worldgaming.com/events/RocketLeagueCC/)
 
-### Shows
+#### Shows
 
 -   [20 Questions: Timi](https://www.youtube.com/watch?v=cSdlg36Gyew)
 -   [Behind the Role: Kronovi](https://www.youtube.com/watch?v=_cGvjsbdrjA)

@@ -28,7 +28,7 @@ The distribution of players in Diamond 1 or higher in Solo Duel, Solo Standard, 
 
 ---
 
-# Around the Community
+## Around the Community
 
 FlipSid3 Tactics took home the inaugural **WSOE** Rocket League event, defeating NRG in the finals. WSOE was the first event for FlipSide's new roster. Yukeo replaced Kaydop on Dignitas, so Speed stepped in for the event. [Learn more...](https://liquipedia.net/rocketleague/World_Showdown_of_Esports/4)
 
@@ -42,7 +42,7 @@ The collegiate **CStarLeague** Spring Season is in Week 4 of group play. [Learn 
 
 ---
 
-### Articles
+#### Articles
 
 -   [4 things Rocket League Championship Series Season 7 needs to get right](https://www.dailyesports.gg/5-things-rocket-league-championship-series-season-7-needs-to-get-right/)
 -   [Adam "Lawler" Thornton: The Unlikely Esports Caster](https://thegamehaus.com/adam-lawler-thornton-the-unlikely-esports-caster/2019/01/25/)
@@ -51,14 +51,14 @@ The collegiate **CStarLeague** Spring Season is in Week 4 of group play. [Learn 
 -   [Kaydop on joining Vitality: "The expectation is to lift that trophy"](https://rocketeers.gg/interview-kaydop-renault-vitality-dignitas-transfer/)
 -   [The Bubble Teams that are Bursting the Bubble (ft. interview with AlphaKep)](https://www.reddit.com/r/RocketLeagueEsports/comments/aldfje/the_bubble_teams_that_are_bursting_the_bubble_ft/)
 
-### News
+#### News
 
 -   [Beyond announces \$5,000 in prizes for February events](https://twitter.com/TeamBeyondnet/status/1090355492222832641)
 -   [Red Reserve drop roster](https://twitter.com/TripleTroubleRL/status/1090986506905358336)
 -   [Servette sign Stocki, Cokaaa, Rizex, and Keever](https://twitter.com/ServetteEsports/status/1088840887143149568)
 -   [Team Secret drops roster](https://twitter.com/FreaKiiRL/status/1089674596620615682)
 
-### Shows
+#### Shows
 
 -   [Aftershock: Ep. 18](https://www.youtube.com/watch?v=autcMgVKg4E&feature=youtu.be)
 -   [Asap Weekly: Ep. 4](https://asapweekly.podbean.com/e/rocket-league-4-on-the-flipsid3-of-wsoe/)

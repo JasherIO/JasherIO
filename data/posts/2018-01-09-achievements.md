@@ -15,7 +15,7 @@ image: https://i.imgur.com/WKvjydB.png
 -   And, this week we found that Rocket League won the ["Suspension of Disbelief" Steam Award](http://store.steampowered.com/SteamAwards/).
 -   Lastly, Rocket League placed 7th in [PlayStation's Most Downloaded 2017 List](https://blog.us.playstation.com/2018/01/05/playstation-store-the-top-downloads-of-2017/).
 
-# /r/RocketLeagueEsports Subreddit Announced
+## /r/RocketLeagueEsports Subreddit Announced
 
 > Enter /r/RocketLeagueEsports, the brainchild of a team of dedicated esports fans and longtime Rocket League community members (Scheist, Esports_Cory, the RLCSNews team, and myself). Like many of you, we too have had to peruse twitter, discord, skype, various websites, users' post history, and reddit pages galore simply to stay afloat in this ocean of seemingly never-ending esports news and information. Wouldn't it be much easier if all of this information was in one location, ripe for the picking, all at the edge of your fingertips? That's exactly what /r/RocketLeagueEsports aims to do. The goal of our team is to provide a homebase on reddit for everything relating to Rocket League Esports (results posting, event promotion, player/team/event discussion, etc.), while maintaining a presence on the primary subreddit (/r/RocketLeague) for top level / significant posts. - CloudFuel
 
@@ -55,7 +55,7 @@ Rocket League Coaching Discord (RLCD) is hosting an Ask-me-Anything (AMA) with 2
 
 ---
 
-### Roster News
+#### Roster News
 
 -   [Jacob leaves NRG](https://twitter.com/NRGgg/status/950466891230756864)
 -   [Paschy, FreaKii, and Fairy Peak!'s contract ends with MockIt](https://twitter.com/Paschy90/status/950790574365437952)
@@ -84,7 +84,7 @@ Rocket League Coaching Discord (RLCD) is hosting an Ask-me-Anything (AMA) with 2
 -   [Mad City: Chicago Gaming Coalition - Chicago, March 9-11](https://www.lanreg.org/madcitygg/chicagogamingco1)
 -   [LANified! 28: Rebound - Calgary, April 21-22](https://www.lanified.com/events/details/28)
 
-### Recent Articles
+#### Recent Articles
 
 -   [8 Best Rocket League Plays of December 2017](https://www.redbull.com/us-en/rocket-league-best-plays-december-2017)
 -   [RLCS Season 5 Survey #1 Results](https://www.reddit.com/r/RocketLeagueEsports/comments/7ofubt/rlcs_s5_survey_1_results/)

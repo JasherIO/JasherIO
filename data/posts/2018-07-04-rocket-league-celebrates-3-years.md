@@ -13,7 +13,7 @@ image: https://i.imgur.com/WKvjydB.png
 
 Rocket League reaches its 3 year anniversary on July 7th. To celebrate, Psyonix is hosting a [birthday party](https://www.rocketleague.com/news/rocket-league-third-birthday-party/) on July 19th at Petco Park and releasing the [Anniversary Event](https://www.rocketleague.com/news/rocket-league-anniversary-event-july-9/) on July 9th. The next event includes a casual playlist with the new Stadium arena (a remaster arena from SARPBC), keyless 'Golden Egg' crates, and event cosmetics.
 
-# RIVAL Unveil The Climb
+## RIVAL Unveil The Climb
 
 RIVAL Esports announced The Climb, an open and multiple-stage progression event, last Thursday. Starting tomorrow night, the North American event should provide teams from across the region with a chance to compete with the best over four days. For more information, see the [Reddit thread](https://www.reddit.com/r/RocketLeague/comments/8umdme/the_climb_presented_by_rival_esports_july_5th_8th/).
 
@@ -33,13 +33,13 @@ The [Summer Series](https://www.reddit.com/r/RocketLeagueEsports/comments/8vwc9k
 
 ---
 
-### Articles
+#### Articles
 
 -   [Chicago: “I have never been more excited to compete”](https://rocketeers.gg/interview-evil-geniuses-chicago-rocket-league-roster/)
 -   [The Car Meta in Rocket League - A Guide to Picking the Right Car for You](http://team-dignitas.net/articles/blogs/rocket-league/12542/the-car-meta-in-rocket-league-a-guide-to-picking-the-right-car-for-you-)
 -   [Why G2’s new contract is a strong sign for Rocket League esports](https://rocketeers.gg/g2-rocket-league-contract-kronovi-jknaps-rizzo/)
 
-### News
+#### News
 
 -   [G2 sign multi-year contracts](https://twitter.com/G2esports/status/1013860751105314816)
 -   [GEXcon hosts Virginia LAN in late August](https://twitter.com/GEXConvention/status/1013248324634173442)
@@ -50,7 +50,7 @@ The [Summer Series](https://www.reddit.com/r/RocketLeagueEsports/comments/8vwc9k
 -   [The Talk Back shuts down](https://twitter.com/JorbyPls/status/1012132091918802946)
 -   [Universal Open qualifiers continue](https://universalopen.gg/phases/northeast-closed-qualifier/)
 
-### Shows
+#### Shows
 
 -   [Casual Talk: Freakii](https://www.youtube.com/watch?time_continue=3&v=M8lVDxN2M5Y)
 -   [Discussions with Dazerin: Miztik](https://www.youtube.com/watch?v=0pggt0ZbB64)

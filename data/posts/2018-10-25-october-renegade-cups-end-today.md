@@ -23,7 +23,7 @@ The CRL [Conference Playoffs](https://compete.tespa.org/tournament/117) conclude
 
 ---
 
-### Articles
+#### Articles
 
 -   [1v1 with Tainted Minds’ Cameron “CJCJ” Johns](https://www.rocketleagueesports.com/news/1v1-with-tainted-minds--cameron--cjcj--johns/)
 -   [CCA Power Rankings: Week 5](https://www.reddit.com/r/RocketLeagueEsports/comments/9qhj8v/collegiate_rocket_league_week_5_cca_power_rankings/)
@@ -31,11 +31,11 @@ The CRL [Conference Playoffs](https://compete.tespa.org/tournament/117) conclude
 -   [More Than a Job - TyNotTyler](https://www.theplayerslobby.com/2897/more-than-a-job-ty-tynottyler-helewa-allegiance-rlcs-rocket-league/#.x1DU6y1Lyq)
 -   [Rocket League veteran Deevo: “We’ve only scratched the surface”](https://rocketeers.gg/interview-rocket-league-player-deevo-savage-rlrs/)
 
-### News
+#### News
 
 -   [Patch v1.54 Addresses Bugs, Optimizations](https://www.rocketleague.com/news/patch-notes-v1-54/)
 
-### Shows
+#### Shows
 
 -   [Live from Mannfield: Ep. 128 “boost Is Legal!” Crl Championships, Patch Notes V1.54 & Age Difference in Games](http://www.lfmannfield.com/episodes/2018/10/23/ep-128-boost-is-legal-crl-championships-patch-notes-v154-amp-age-difference-in-games)
 -   [Renegade Rewind: RBG Esports](https://www.youtube.com/watch?v=V5RgoqpX4Eg&feature=youtu.be)

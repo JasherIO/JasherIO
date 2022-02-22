@@ -43,7 +43,7 @@ Teams and organizations announced their official squads for the upcoming season 
 
 Expect to see more roster announcements before the [August 6th](https://twitter.com/RLEsports/status/1024376653814755328) roster lock deadline. In preparation, bookmark Liquipedia's [transfer page](https://liquipedia.net/rocketleague/Transfers) and Octane's [RLCS roster tracker](https://octane.gg/news/rlcs-season-6-roster-tracker#rlcs-eu) to follow all of the latest roster moves.
 
-# Zephyr Update Releases
+## Zephyr Update Releases
 
 The [Zephyr Update](https://www.rocketleague.com/news/patch-notes-v1-49/), named after the new crate, released Monday and includes:
 
@@ -55,7 +55,7 @@ The [Zephyr Update](https://www.rocketleague.com/news/patch-notes-v1-49/), named
 
 ---
 
-### Articles
+#### Articles
 
 -   [Interview with Mousesports’ Alex161: “Our goal is to make Top 6 in the RLCS”](https://rocketeers.gg/interview-alex161-mousesports-enters-rocket-league-esports/)
 -   [Interview with Freakii: “We couldn’t solve our problems”](https://rocketeers.gg/interview-with-freakii-split-vitality-paschy-fairy-peak/)
@@ -63,13 +63,13 @@ The [Zephyr Update](https://www.rocketleague.com/news/patch-notes-v1-49/), named
 -   [Post NARLI 2 interview with Violentpanda](http://team-dignitas.net/articles/news/rocket-league/12800/post-narli-2-interview-with-violentpanda)
 -   [Rising Star: The Story of Satthew](https://octane.gg/news/rising-star-the-story-of-satthew)
 
-### News
+#### News
 
 -   [Rocket League: Ultimate Edition drops August 28](https://www.rocketleague.com/news/rocket-league-ultimate-edition-august-28/)
 -   [SAM Championship concludes with Finals in Sao Paulo](https://www.reddit.com/r/RocketLeagueEsports/comments/92mm15/sam_championship_lan_finals_live_discussion/)
 -   [Universal Open Central Regional takes place Sunday](https://liquipedia.net/rocketleague/FACEIT/Universal_Open/Season_2/US_Central/Regional)
 
-### Shows
+#### Shows
 
 -   [Classic Talk: Rizzo](https://www.youtube.com/watch?v=HspDabAOCGA)
 -   [Live from Mannfield: Ep.118 “putin Made Us” Ft. Vdkaice. Drop Rates, Rlcs Season 6, New Crate, Patch Notes and Ultimate Edition](http://www.lfmannfield.com/episodes/2018/7/31/ep118-putin-made-us-ft-vdkaice-drop-rates-rlcs-season-6-new-crate-patch-notes-and-ultimate-edition)

@@ -36,13 +36,13 @@ Finally, the World Championship concludes RLCS Season 5. Here is a look at the t
 
 ---
 
-### Articles
+#### Articles
 
 -   [GarrettG on NRG's 7-0 Season and RLCS Resurgence](https://www.redbull.com/us-en/nrg-garrettg-rlcs-season-5-interview)
 -   [Interview with Ghost’s Lethamyr: “The fact we made top 6 was amazing at that point”](http://rocketeers.gg/interview-ghost-gaming-lethamyr-rlcs-s5/)
 -   [Rookies Drove This Season's Biggest RLCS Turnarounds](https://www.redbull.com/us-en/rlcs-season-5-rookie-standouts)
 
-### News
+#### News
 
 -   [Asia Pro League 2.0 begins in May](http://1neesports.com/articles/news/rocket-league/16/asia-pro-league-2.0)
 -   [League of Rockets is not planning a World Cup event for this summer](https://twitter.com/LeagueOfRockets/status/988478378096451586)
@@ -51,7 +51,7 @@ Finally, the World Championship concludes RLCS Season 5. Here is a look at the t
 -   [Replays for League Play Released](https://www.reddit.com/r/RocketLeagueEsports/comments/8ef94p/all_replays_for_league_play_rlcs_eunaoce_rival/)
 -   [The D00ds disband](https://octane.gg/news/the-d00ds-disband/)
 
-### Shows
+#### Shows
 
 -   [Live from Mannfield: “The Curse of Questions,” Double Drop Rate Weekend, Nitro Circus, and Update on Server Performance](http://www.lfmannfield.com/episodes/2018/4/24/ep-108-the-curse-of-questions-double-drop-rate-weekend-nitro-circus-and-update-on-server-performance)
 -   [Vitality’s Freakii recalls how he and Paschy90 became teammates](http://rocketeers.gg/interview-gfinity-elite-series-vitality-freakii-paschy/)

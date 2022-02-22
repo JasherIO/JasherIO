@@ -34,7 +34,7 @@ The top 2 teams from each conference moved on to the double-elimination Conferen
 
 ---
 
-### Articles
+#### Articles
 
 -   [1v1 with Gabriel "CorruptedG" Vallozzi](https://www.rocketleagueesports.com/news/1v1-with-gabriel--corruptedg--vallozzi/)
 -   [Comic Con Africa 2018: Vs Gaming Championship Rocket League Winners – Exdee Gaming Interview](https://www.rocketleaguexpress.co.za/rocket-league-comic-con-vs-championship-lan-winners-exdee-gaming/)
@@ -43,11 +43,11 @@ The top 2 teams from each conference moved on to the double-elimination Conferen
 -   [Rocket Baguette’s Boyan: “France has the best players in the world”](https://rocketeers.gg/interview-rocket-baguette-boyan-grand-prix/)
 -   [The Lifestyle Of A Rocket League Professional - A Guide With ViolentPanda](http://team-dignitas.net/articles/news/rocket-league/13053/the-lifestyle-of-a-rocket-league-professional-a-guide-with-violentpanda)
 
-### News
+#### News
 
 -   [MLD Playoffs Continue](https://www.mldoubles.com/single-post/2018/10/22/Season-7-Playoffs)
 
-### Shows
+#### Shows
 
 -   [Aftershock: Ep. 6](https://www.youtube.com/watch?v=E_BqcniwhUc)
 -   [FlipSid3 Tactics AMA](https://www.youtube.com/watch?v=2HM585D1xrU)

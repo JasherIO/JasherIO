@@ -26,7 +26,7 @@ As the new year begins, expect to see a firm [RocketID](https://www.rocketleague
 
 ---
 
-# Around the Community
+## Around the Community
 
 The December **Renegade Cups** finished up yesterday, with [Method (EU)](https://liquipedia.net/rocketleague/Renegade_Cup/Europe/Rewind_Gaming/Neon_Dream) and [Afterthought (NA)](https://liquipedia.net/rocketleague/Renegade_Cup/North_America/Boost_Legacy/Whiteout) claiming spots in the finals. Organizers for the January events are to-be-announced.
 
@@ -38,16 +38,16 @@ The **Gfinity Elite Series Australia** finished up on Saturday with a match-up b
 
 ---
 
-### Articles
+#### Articles
 
 -   [Community Spotlight: Best of 2018](https://www.rocketleague.com/news/community-spotlight--best-of-2018/)
 -   [Interview With We Dem Girlz Rocket League Player - EyeIgnite](http://dignitas.gg/articles/blogs/rocket-league/13260/interview-with-we-dem-girlz-rocket-league-player-eyeignite)
 
-### News
+#### News
 
 -   [FlyQuest exits Rocket League, Rogue buys roster, and PrimeThunder released](https://twitter.com/FlyQuestSports/status/1075873632180731906?s=19)
 
-### Shows
+#### Shows
 
 -   [Aftershock: Ep. 13](https://www.youtube.com/watch?v=A-eTG8o_aiQ)
 -   [Gfinity: Kassio](https://twitter.com/Gfinity/status/1075365320393674752)

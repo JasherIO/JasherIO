@@ -27,12 +27,12 @@ Sources: [Rocket Street](https://www.rocketstreet.gg/), [Liquipedia](https://liq
 
 ---
 
-### Articles
+#### Articles
 
 -   [Liga sul-americana de Rocket League terá US\$ 3 mil em premiação e final em São Paulo](http://www.espn.com.br/esports/artigo/_/id/4559904/liga-sul-americana-de-rocket-league-tera-us-3-mil-em-premiacao-e-final-em-sao-paulo)
 -   [MLD: Week 2 Review](https://www.mldoubles.com/single-post/2018/07/23/Season-7-Week-2-Review)
 
-### News
+#### News
 
 -   [Collegiate Summer Series in the middle of Week 2](https://twitter.com/CollegeCarball/status/1016928985115025408)
 -   [Dignitas takes the Rival 1K Cup](https://www.reddit.com/r/RocketLeagueEsports/comments/90ows3/rival_eu_1k_cup_july_21st_22nd_discussion/)
@@ -42,7 +42,7 @@ Sources: [Rocket Street](https://www.rocketstreet.gg/), [Liquipedia](https://liq
 -   [Psyonix details drop rates for crate items](https://www.rocketleague.com/news/drop-rates-in-rocket-league-crates/)
 -   [Universal Open Progress: Central Closed Qualifier](https://universalopen.gg/phases/central-closed-qualifier/)
 
-### Shows
+#### Shows
 
 -   [Casual Talk: CloudFuel](https://www.youtube.com/watch?v=7cVUlbzVrbw)
 -   [Champions | RLCS S5 World Championship Montage](https://www.youtube.com/watch?v=WS2ny_3F-z4)

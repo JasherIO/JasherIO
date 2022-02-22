@@ -20,7 +20,7 @@ After 4 Renegade Cup monthlies, the finals have arrived. Europe begins today and
 
 ---
 
-# Around the Community
+## Around the Community
 
 **Collegiate Rocket League** returns with a \$50,000 prize pool and its first even Spring Season. For each of the 4 conferences, 8 [Season 2](https://liquipedia.net/rocketleague/Collegiate_Rocket_League/Season_2) League Play teams and 8 qualifier teams are invited to the Conference Championship. Any Season 2 teams that do not retain 50% of their roster are replaced with a qualifier team.
 
@@ -34,7 +34,7 @@ The collegiate **CStarLeague** Spring Season is in Week 5 of group play. [Learn 
 
 ---
 
-### Articles
+#### Articles
 
 -   [A Story about Speed](https://octane.gg/news/a-story-about-speed/)
 -   [Collegiate Rocket League's First Spring Season](https://thegamehaus.com/collegiate-rocket-leagues-first-spring-season/2019/02/05/)
@@ -48,14 +48,14 @@ The collegiate **CStarLeague** Spring Season is in Week 5 of group play. [Learn 
 -   [Nius Cup Season 2 Review](https://www.reddit.com/r/RocketLeagueEsports/comments/ani5il/the_end_of_the_second_season_of_brazilians_league/)
 -   [Pro-File: SquishyMuffinz](https://www.rocketleagueesports.com/news/rle-pro-files--vol--3--squishymuffinz/)
 
-### News
+#### News
 
 -   [Celebrating 10 Years of Supersonic Acrobatic Rocket-Powered Battle Cars](https://rocket-league.com/news/celebrating-10-years-of-supersonic-acrobatic-rocket-powered-battle-cars)
 -   [Compadres drop Moses, Rapid joins](https://twitter.com/aeonrl/status/1092626221706477569?s=21)
 -   [Paschy returns, teams with Killerno7](https://twitter.com/Paschy90/status/1093495664670060544)
 -   [Speed leaves Triple Trouble](https://twitter.com/TripleTroubleRL/status/1091660351068925952?s=19)
 
-### Shows
+#### Shows
 
 -   [5 Reasons 2019 Will be the Biggest Year EVER for Rocket Leauge Esports](https://www.youtube.com/watch?v=GaNfyP9rM4A&feature=youtu.be)
 -   [Aftershock: Ep. 19](https://www.youtube.com/watch?v=0SgeWs_jzMQ)

@@ -20,7 +20,7 @@ Teams from Europe and North America have battled over the past month for 128 spo
 -   [The Colosseum](https://liquipedia.net/rocketleague/Rewind_Gaming/The_Colosseum) progressed through the qualifiers over the past week. The finals take place this Saturday, September 1st.
 -   [Throwdown Championship talent](https://twitter.com/ThrowdownTV/status/1034699709007323137) announced. Jake, formerly of Chiefs, is on the card.
 
-# Progression Update Releases Today
+## Progression Update Releases Today
 
 The Progression Update drops at [10AM PT today](https://twitter.com/RocketLeague/status/1034830883562221568) and includes Progression 2.0 and Clubs. Rocket Pass goes live the week after.
 
@@ -34,7 +34,7 @@ For a detailed description of everything included in today's update, read the [p
 
 ---
 
-### Articles
+#### Articles
 
 -   [A New Passion](https://www.theplayerslobby.com/2292/a-new-passion-by-gabriel-corruptedg-vallozzi-evil-geniuses/#.u75K3I4ikc)
 -   [Common Rotation Mistakes to Avoid in Rocket League](http://team-dignitas.net/articles/blogs/rocket-league/12849/common-rotation-mistakes-to-avoid-in-rocket-league)
@@ -43,11 +43,11 @@ For a detailed description of everything included in today's update, read the [p
 -   [Rising Star: Sypical](https://octane.gg/news/rising-star-the-story-of-sypical/)
 -   [Roster Outlook for RLCS Season 6](https://armchairallamericans.com/roster-outlook-rlcs-season-6/)
 
-### News
+#### News
 
 -   [GEXCon hosts local 3v3 in Virginia](https://www.reddit.com/r/RocketLeague/comments/97j1b4/lan_gexcon_presents_1000_rocket_league_3v3/)
 
-### Shows
+#### Shows
 
 -   [Casual Talks: Turtle](https://www.youtube.com/watch?v=rr4fNUn5FgY)
 -   [Live from Mannfield: Ep. 121 "Cat Hair in My Vent!" Progression Update, Clubs, Universal Open 2 Results and More!](http://www.lfmannfield.com/episodes/2018/8/28/ep-121-luke-i-am-your-father-progression-update-clubs-universal-open-2-results-and-more)

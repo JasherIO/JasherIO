@@ -18,7 +18,7 @@ The 2nd ELEAGUE Cup begins tomorrow in Atlanta, Georgia. The top eight [#LANVega
 
 [Shuichi](https://www.reddit.com/user/ShuichiRL) wrote an excellent [guide](https://www.reddit.com/r/RocketLeague/comments/a0xpvg/a_guide_to_watch_the_eleague_cup_rocket_league/) in preparation for this weekend's event.
 
-# DreamHack Circuit
+## DreamHack Circuit
 
 DreamHack announced the DreamHack Pro Circuit yesterday in partnership with Psyonix. The circuit sees DreamHack hosting four \$100,000 tournaments over 2019. Each event includes a minimum of 32 entrants and "a combination of online qualifiers, direct invitations and an onsite open bracket."
 
@@ -26,7 +26,7 @@ DreamHack Leipzig takes place February 15-17 and Dallas runs May 31-June 2. Both
 
 ---
 
-# Around the Community
+## Around the Community
 
 The **CRL National Championship** takes place December 8th in [Arlington, Texas](https://crl18tickets.squadup.com). Akron, Arizona, North Texas, and Penn State compete for \$25,000 in scholarship prizing.
 
@@ -38,19 +38,19 @@ Last, but not least, the December **Renegade Cups** began yesterday with the fir
 
 ---
 
-### Articles
+#### Articles
 
 -   [Dynasty or Distant Memory](https://www.eleague.com/rocketleague-2018/news/dynasty-or-distant-memory)
 -   [French Fries player AztraL: “We felt like we had nothing to lose”](https://rocketeers.gg/interview-french-fries-pizza-rugbrod-aztral-rocketeers-thunderdome/)
 -   [Interview with Team Secret’s Tylacto: “We tend to be our own biggest enemy”](https://rocketeers.gg/interview-team-secret-player-tylacto-rocketeers-thunderdome/)
 
-### News
+#### News
 
 -   [3 Billion Matches Have been Played](https://twitter.com/RocketLeague/status/1067885846878027776)
 -   [Beyond Announces December 1v1, 2v2, and 3v3 Tournaments](https://twitter.com/TeamBeyondnet/status/1067862911316561920)
 -   [The December Update launches December 3rd](https://www.rocketleague.com/news/enhanced-xbox-one-x-support-december/)
 
-### Shows
+#### Shows
 
 -   [Aftershock: Ep. 10](https://www.youtube.com/watch?v=ey2bKHDuKGI)
 -   [Discussions with Dazerin: Karma](https://www.youtube.com/watch?v=IzP2BMUeMSc)

@@ -13,13 +13,13 @@ image: https://i.imgur.com/WKvjydB.png
 
 Yesterday, Psyonix added the Velocity Crate to Rocket League. The Velocity Crate features 1980s pop culture themed items, including the new battle-car, the Imperator DT5. For more information on the new crate, visit the [official blog post](https://www.rocketleague.com/news/velocity-crate-december-4/) and the [detailed item post by /u/masterpie102](https://nm.reddit.com/r/RocketLeague/comments/7hlo0c/every_painted_velocity_crate_item/).
 
-# US Central Servers
+## US Central Servers
 
 Player from across the North American Rocket League community have been begging for a US Central server region option for months. Psyonix, via Game Director [Corey Davis](https://twitter.com/mrcoreydavis), have acknowledged the requests and have stated that it is being looked into but they do not want to implement a change until they know it will not affect US West and US East players. [Source](https://twitter.com/mrcoreydavis/status/937461933778747392)
 
 ---
 
-# ELEAGUE
+## ELEAGUE
 
 The _ELEAGUE Cup: Rocket League_ \$150,000 8 team invitational was held this weekend. For more information on the weekend’s events, see the table below and the [/r/RLCSnews event recap](https://www.reddit.com/r/RLCSnews/comments/7g5hys/the_rl_eleague_cup_150000_invitational_dec_13/).
 
@@ -29,7 +29,7 @@ The _ELEAGUE Cup: Rocket League_ \$150,000 8 team invitational was held this wee
 |  2  | [Day 2](https://www.twitch.tv/videos/206142061) | [Recap](https://www.reddit.com/r/RLCSnews/comments/7h2gt7/the_rl_eleague_cup_day_2_group_stage/) | [Link](https://www.reddit.com/r/RocketLeague/comments/7h3w4x/eleague_cup_2017_150000_day_23/) | [Recap](http://octane.gg/news/eleague-cup-group-stage-recap)            |
 |  3  | [Day 3](https://www.twitch.tv/videos/206445848) |  [Recap](https://www.reddit.com/r/RLCSnews/comments/7h9ciw/the_rl_eleague_cup_day_3_playoffs/)   | [Link](https://www.reddit.com/r/RocketLeague/comments/7hbbwt/eleague_cup_2017_150000_day_33/) | [Recap](http://octane.gg/news/g2-esports-are-the-eleague-cup-champions) |
 
-# CRL National Championship
+## CRL National Championship
 
 Universities around North America have been competing in the Collegiate Rocket League for a chance at the title of National Champion. In the recent CRL playoffs, participating teams were whittled down to a top 8, which will compete for the National Championship this weekend on [twitch.tv/RLesports](https://twitch.tv/RLesports).
 
@@ -37,7 +37,7 @@ With the championship approaching, the CCA has released their latest [Power Rank
 
 ---
 
-### Roster News
+#### Roster News
 
 [Tainted Minds acquires the Pale Horse Roster](http://octane.gg/news/tainted-minds-acquire-the-pale-horse-roster)
 
@@ -68,7 +68,7 @@ Out of the OCE region, shadey and others have organized a collection of 6Mans co
 
 ---
 
-### Recent Articles
+#### Recent Articles
 
 [Can Rocket League pros still win on Nintendo Switch? We asked them](https://www.redbull.com/us-en/rocket-league-switch-esports-interview)
 

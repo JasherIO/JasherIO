@@ -9,7 +9,7 @@ keywords:
 image: https://i.imgur.com/WKvjydB.png
 ---
 
-# Anniversary Celebrations Wrap Up
+## Anniversary Celebrations Wrap Up
 
 The official Rocket League [birthday party](http://www.rocketleague.com/news/rocket-league-third-birthday-party/) takes place tomorrow, July 19th, at Petco Park in San Diego. Then, the in-game Anniversary Event ends July 23rd. Make sure you have earned enough balloons to unlock the cosmetics while they are available.
 
@@ -29,7 +29,7 @@ The Asian, Oceanian, and South American leagues were brought to a close over the
 
 ---
 
-### Articles
+#### Articles
 
 -   [Asia Power Rankings | June 21, 2018 – July 7, 2018](https://rocketleagueasia.com/asia-power-rankings-june-21-2018-july-7-2018/)
 -   [Flyquest: “We always do well under pressure”](https://rocketeers.gg/interview-flyquest-narli-2-primethunder-wonder-ayyjayy/)
@@ -40,7 +40,7 @@ The Asian, Oceanian, and South American leagues were brought to a close over the
 -   [The Long Game](https://www.theplayerslobby.com/2004/the-long-game-kronovi-g2-rocket-league/#.ZRjwo8fd5n)
 -   [Would 5v5 Rocket League Work on a Larger Pitch? We Asked Pros](https://www.redbull.com/us-en/rocket-league-pros-discuss-5v5-mode)
 
-### News
+#### News
 
 -   [gReazy replaces Metsanauris on compLexity](https://octane.gg/news/greazy-replaces-metsanauris-on-complexity/)
 -   [Mccluvin departs from Placebo](https://octane.gg/news/mccluvin-and-placebo-part-ways-with-each-other)
@@ -50,7 +50,7 @@ The Asian, Oceanian, and South American leagues were brought to a close over the
 -   [TexasRL opens merchandise store](https://twitter.com/TexasRL/status/1019366629828972550)
 -   [The Universal Open slogs through qualifiers](https://universalopen.gg/phases/europe-open-qualifier-4/)
 
-### Shows
+#### Shows
 
 -   [Boost: Lots of Work to Do](https://www.youtube.com/watch?v=2QWfIRNlfKw)
 -   [Casual Talk: SunlessKhan](https://youtu.be/zzuaDVyFSAA)

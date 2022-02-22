@@ -18,13 +18,13 @@ Steam users are eligible participate in a [beta](https://www.rocketleague.com/ne
 
 > For those wondering why the beta is "PC-only," it's because Steam allows us to make changes and collect performance feedback more rapidly than any other platform. - [Devin Connors](https://www.rocketleague.com/news/roadmap-after-autumn-update/)
 
-# DC Comics
+## DC Comics
 
 [March 8th, 2016](https://www.rocketleague.com/news/official-batmobile-dlc-coming-march-8/) - _Psyonix_ begins their partnership with _DC Comics_ by introducing the _Batman vs Superman: Dawn of Justice_ batmobile to Rocket League.
 
 Almost exactly two years later, _Psyonix_ and _DC Comics_ will continue their partnership with the release of the [_DC Super Heroes DLC Pack_](https://www.rocketleague.com/news/dc-super-heroes-dlc-coming-in-march/) on March 5th. Players will be able to purchase _The Dark Knight Rises Tumbler_, the _'89 Batmobile_, and DC superhero decals and banners for \$3.99.
 
-# RLCS
+## RLCS
 
 RLCS continues with the 2nd qualifier on Saturday and Sunday.
 
@@ -61,7 +61,7 @@ Over the past 2 weeks, 8 of Oceania's best competed in league play of the Throwd
 
 ---
 
-### Articles
+#### Articles
 
 -   [6 Roster Moves That Could Shake Up RLCS Season 5](https://www.redbull.com/us-en/rlcs-season-5-biggest-roster-moves)
 -   [Arrow League's 10th DOTA 2 Season and Inaugral Rocket League Season Get Underway](http://www.esports-news.co.uk/2018/02/15/arrow-league-gets-underway/)
@@ -72,7 +72,7 @@ Over the past 2 weeks, 8 of Oceania's best competed in league play of the Throwd
 
 ---
 
-### News
+#### News
 
 -   [/r/RLEsports is Hosting a 2v2 Tournament This Week!](https://www.reddit.com/r/RocketLeagueEsports/comments/7yqkcv/rrlesports_is_hosting_a_2v2_tournament_this_week/)
 -   [CyberGamer's \$3,000 pool Open Ladder opens](https://twitter.com/CyberGamerAUS/status/963967423903760386)
@@ -88,7 +88,7 @@ Over the past 2 weeks, 8 of Oceania's best competed in league play of the Throwd
 
 ---
 
-### Shows
+#### Shows
 
 -   [Can They Agree? With G2 Rocket League: Rizzo, JKnaps and Kronovi](https://www.youtube.com/watch?v=UDJjzao-7hc)
 -   [Digital Hero: Rocket League](https://www.youtube.com/watch?v=ijdXIA6q9_s)

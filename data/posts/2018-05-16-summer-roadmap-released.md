@@ -22,7 +22,7 @@ Octane.gg has added team rankings, player ratings (per match), and advanced repl
 
 ---
 
-### Articles
+#### Articles
 
 -   [Asia Pro League Preview](https://octane.gg/news/asia-pro-league-season-2-preview/)
 -   [Calculated: Chiefs Esports](https://www.rocketleagueesports.com/news/calculated--8--chiefs-esports/)
@@ -32,7 +32,7 @@ Octane.gg has added team rankings, player ratings (per match), and advanced repl
 
 ---
 
-### News
+#### News
 
 -   [16 Teams Qualified for _Spring Open_ Swiss stage](https://twitter.com/RivalEsportsGG/status/996186246039810049)
 -   [Latest _Humble Bundle_ includes _Rocket League_](https://twitter.com/humble/status/996452302587383808)
@@ -43,7 +43,7 @@ Octane.gg has added team rankings, player ratings (per match), and advanced repl
 
 ---
 
-### Shows
+#### Shows
 
 -   [20 Questions with CLG Dappur](https://www.youtube.com/watch?v=5_5JFkFGUI8&feature=share)
 -   [Discussions with Dazerin: Andy Miller](https://youtu.be/KcOAsiedlNU)

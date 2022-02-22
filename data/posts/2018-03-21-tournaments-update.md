@@ -17,7 +17,7 @@ image: https://i.imgur.com/WKvjydB.png
 
 Today, _Psyonix_ announced that the [_Tournaments Update_](https://www.rocketleague.com/news/tournaments-update-coming-april-3/) releases April 3rd. In addition to the new tournaments mode, the update includes _Rocket League Radio_ and several quality-of-life features. [Read more...](https://www.rocketleague.com/news/tournaments-update-coming-april-3/)
 
-# Spring Fever
+## Spring Fever
 
 The [_Spring Fever_](https://www.reddit.com/r/RocketLeague/comments/85lh7v/event_spring_fever_is_live_ends_april_9th/) event introduces new spring themed decals, wheels, boost, banners, etc. to _Rocket League_. [Read more...](https://www.reddit.com/r/RocketLeague/comments/85lh7v/event_spring_fever_is_live_ends_april_9th/)
 
@@ -26,7 +26,7 @@ The [_Spring Fever_](https://www.reddit.com/r/RocketLeague/comments/85lh7v/event
 
 ---
 
-# Leagues
+## Leagues
 
 |    Event     | Region |                                                         Results                                                          |                                             Schedule                                              |                                                           Liquipedia                                                           |                               Octane                               |
 | :----------: | :----: | :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
@@ -45,7 +45,7 @@ The [_Spring Fever_](https://www.reddit.com/r/RocketLeague/comments/85lh7v/event
 
 ---
 
-### Articles
+#### Articles
 
 -   [4 storylines to watch heading into Season 5 of the RLCS](https://www.redbull.com/us-en/rocket-league-championship-series-rlcs-season-5-preview)
 -   [CompLexity’s Mognus: “I can’t wait to see where it goes from here”](http://rocketeers.gg/complexity-mognus-interview-rlcs-season-5/)
@@ -59,7 +59,7 @@ The [_Spring Fever_](https://www.reddit.com/r/RocketLeague/comments/85lh7v/event
 -   [RLCS Season 5 preview: the biggest storylines to follow](http://rocketeers.gg/rlcs-season-5-preview/)
 -   [What is the state of the UK’s competitive Rocket League scene?](https://www.redbull.com/gb-en/rocket-league-uk-esports-scene)
 
-### News
+#### News
 
 -   [/r/GreyYuz releases the RLCS Predictor Game](https://www.reddit.com/r/RocketLeagueEsports/comments/84qmmt/the_rlcs_predictions_game_is_now_live/)
 -   [Counter Logic Gaming acquires Momentum](https://twitter.com/clgaming/status/974042486715727873)
@@ -72,7 +72,7 @@ The [_Spring Fever_](https://www.reddit.com/r/RocketLeague/comments/85lh7v/event
 -   [Servette Geneva eSports acquire ExRay](https://twitter.com/ServetteEsports/status/974683072280104960)
 -   [Slokh is announced as the offical RLCS statistician](https://twitter.com/Slokh_/status/974670538990907392)
 
-### Shows
+#### Shows
 
 -   [Discussions with Dazerin: DudeWithTheNose](https://www.youtube.com/watch?v=QNhot3qKcxM)
 -   [Full Throttle #4 - RLRS Playins, RLRS/RLCS Predictions, Potential Format Changes](https://www.twitch.tv/videos/238352986)

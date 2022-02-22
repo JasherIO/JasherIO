@@ -30,7 +30,7 @@ Beyond the 1st quarter of 2018, Psyonix has plans for:
 
 [Read more...](https://www.reddit.com/r/RocketLeague/comments/7ubcxg/rocket_league_roadmap_spring_2018/)
 
-# DreamHack Leipzig
+## DreamHack Leipzig
 
 | Place |       Team       |    Prize    |
 | :---: | :--------------: | :---------: |
@@ -81,7 +81,7 @@ Huge props to the Octane team (Slokh, BShadowJ, dexzy, Paz, and Zeebo) for all o
 
 ---
 
-### Articles
+#### Articles
 
 -   [Rocket League's best mode is its least played](http://www.pcgamer.com/rocket-leagues-best-mode-is-its-least-played/)
 -   [Rocket League Open Ends In Clutch Overtime Goal](https://compete.kotaku.com/rocket-league-open-ends-in-clutch-overtime-goal-1822493317)
@@ -89,7 +89,7 @@ Huge props to the Octane team (Slokh, BShadowJ, dexzy, Paz, and Zeebo) for all o
 
 ---
 
-### News
+#### News
 
 -   [Announcing Throwdown Rocket League for 2018](https://throwdownesports.com/announcing-throwdown-rocket-league-for-2018/)
 -   [Asia Pro League presented by 1NE](https://smash.gg/tournament/apl-1-5-pre-sequel-qualifier/)

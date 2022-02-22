@@ -20,19 +20,19 @@ Invited teams have not been announced yet, but expect to see familiar faces from
 -   **Location**: Atlanta, GA
 -   **Tickets**: [Link](https://ev1.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=ELC&linkID=img-imgt&shopperContext=&caller=&appCode=&sf169079727=1)
 
-# Nintendo Switch
+## Nintendo Switch
 
 Today, Rocket League released on Nintendo Switch. Switch users will be able to unlock [Mario, Luigi, and Samus themed cars](https://kotaku.com/rocket-leagues-switch-version-is-getting-nintendo-cars-1798376199). Switch users will also be playing one of the first ever games with cross-platform play, which allows them to play with Xbox and PC users.
 
 [MEGATHREAD](https://www.reddit.com/r/RocketLeague/comments/7ctctp/nintendo_switch_megathread/) | [Issues](https://www.reddit.com/r/RocketLeague/comments/7cqo26/nintendo_switch_launch_issues_megathread_read/)
 
-# Patch Notes v1.39
+## Patch Notes v1.39
 
 Psyonix added a new [Batmobile goal explosion](https://www.rocketleague.com/news/batmobile-new-goal-explosion/) and added servers in South Africa, Singapore, and Taiwan in Thursday's v1.39 update. For a full list of changes, read the [patch notes](https://www.rocketleague.com/news/patch-notes-v1-39/).
 
 ---
 
-# Gale Force Wins the World Championship
+## Gale Force Wins the World Championship
 
 -   In 3 of their past 4 LAN events, Gale Force had placed 2nd. This was their 1st win together.
 -   Gale Force finished 3rd in European League Play, with a 5-2 record.
@@ -53,7 +53,7 @@ Psyonix added a new [Batmobile goal explosion](https://www.rocketleague.com/news
 
 ---
 
-# CRL Playoffs
+## CRL Playoffs
 
 |                                                     Day 1                                                     |                                                     Day 2                                                     |                                                    Day 3                                                    |    Day 4    |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :---------: |
@@ -61,7 +61,7 @@ Psyonix added a new [Batmobile goal explosion](https://www.rocketleague.com/news
 
 ---
 
-### Roster News
+#### Roster News
 
 [Fibeon](https://fibeoncomputers.com/index/2017/11/07/fibeon-esports-rocket-league-team-release/)
 
@@ -75,7 +75,7 @@ Psyonix added a new [Batmobile goal explosion](https://www.rocketleague.com/news
 
 ---
 
-### Recent Articles
+#### Recent Articles
 
 [6 Things to Look out for at the RLCS Finals](https://ginx.tv/esports/6-things-look-rlcs-finals/)
 

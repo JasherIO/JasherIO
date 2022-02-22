@@ -39,7 +39,7 @@ The University of Redlands (Western) and the University of Central Florida (Sout
 
 ---
 
-### Articles
+#### Articles
 
 -   [4 Under the Radar Teams That Could Make CSL Top 4](https://cstarleague.com/rl/news_articles/1007)
 -   [An in-depth interview with yumi_cheeseman: ‘There’s no way to truly earn a living here as a caster’](https://www.dailyesports.gg/interview-with-yumi-cant-earn-living-as-caster/)
@@ -49,7 +49,7 @@ The University of Redlands (Western) and the University of Central Florida (Sout
 -   [Rocket League Season 7 Preview: Bread](https://thegamehaus.com/rocket-league-season-7-previews-bread/2019/03/06/)
 -   [Rocket League Season 7 Preview: Savage!](https://thegamehaus.com/rocket-league-season-7-previews-savage/2019/03/03/)
 
-### News
+#### News
 
 -   [Akron Esports announces Collegiate Invitational](https://twitter.com/ZipsEsports/status/1104147362799325184)
 -   [GEX DC Area Esports hosts 2v2 LAN in Lorton, Virginia on March 24th](https://twitter.com/GEXDCAE/status/1104083908491165696)
@@ -59,7 +59,7 @@ The University of Redlands (Western) and the University of Central Florida (Sout
 -   [Saints Gaming hosts 3v3 LAN in Windsor, Ontario on May 11th](https://smash.gg/tournament/saints-gaming-live-2019/details)
 -   [UTK Esports hosts 3v3 LAN in Knoxville, Tennessee on March 30th](https://twitter.com/utkesports/status/1075138062030700544)
 
-### Shows
+#### Shows
 
 -   [Aftershock: Ep. 23](https://www.youtube.com/watch?v=MAk0porJTzo&feature=youtu.be)
 -   [Asap Weekly: Ep. 9](https://radiopublic.com/asap-artifact-and-rocket-league-p-WeymEZ/ep/s1!5c332)

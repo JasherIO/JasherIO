@@ -22,13 +22,13 @@ image: https://i.imgur.com/WKvjydB.png
 
 **Information:** [Link](https://open.dreamhack.com/2017/dreamhack-open-2018-kicks-off-at-dreamhack-leipzig-featuring-rocket-league/)
 
-#### Qualifiers
+### Qualifiers
 
 In the [European Qualifier](https://smash.gg/tournament/dreamhack-open-leipzig-rocket-league/events/eu-qualifiers/overview), **Flipsid3 Tactics** and **Guess Who?** acquired expenses paid trips to DreamHack Leipzig by winning the upper and lower brackets respectively. Surprising many, Veritas eliminated exceL, Fnatic, and Team Secret before taking a heart-breaking loss to Guess Who? in the lower finals.
 
 In the [**North American Qualifier**](https://smash.gg/tournament/dreamhack-open-leipzig-rocket-league/events/na-qualifier/overview), **NRG** and **The D00ds** won trips to DreamHack Leipzig by winning the upper and lower brackets respectively. Unfortunately Ralph is unable to attend, so Allegiance's [Allushin will fill in for Ralph](https://twitter.com/JorolelinRL/status/952934849152679937) in Leipzig.
 
-#### [Talent](https://twitter.com/DreamHackRL/status/951867311153086465)
+### [Talent](https://twitter.com/DreamHackRL/status/951867311153086465)
 
 |  **Talent**   | **Role** |
 | :-----------: | :------: |
@@ -40,7 +40,7 @@ In the [**North American Qualifier**](https://smash.gg/tournament/dreamhack-open
 |    Shogun     |  Caster  |
 |    Gregan     |  Caster  |
 
-# From Psyonix
+## From Psyonix
 
 -   ["Breathing Underwater"](https://twitter.com/RocketLeague/status/951521897610600448) is being added to the main menu playlist.
 -   [Community Spotlight: In the Year to Come](https://www.rocketleague.com/news/community-spotlight--in-the-year-to-come/)
@@ -88,7 +88,7 @@ The next 2 Tuesdays European teams will play for final 4 Grand Final spots. Make
 
 ---
 
-### Roster News
+#### Roster News
 
 -   [ENiGMA leaves Chiefs Esports](http://octane.gg/news/enigma-leaves-chiefs-esports/)
 -   [Flipsid3 Tactics: Markydooda out, Yukeo in](http://www.flipsidetactics.com/games/rocket-league/markydooda-departs-flipsid3-rocket-league/)
@@ -108,7 +108,7 @@ The next 2 Tuesdays European teams will play for final 4 Grand Final spots. Make
 
 ---
 
-### Recent Articles
+#### Recent Articles
 
 -   [A look at the current longest-standing duos](http://octane.gg/news/a-look-at-the-current-longest-standing-duos/)
 -   Elo Analysis by /u/Teddworth:

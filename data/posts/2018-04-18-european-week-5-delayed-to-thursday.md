@@ -22,7 +22,7 @@ The power to the RLCS studio went down after the first game of Envy and Fnatic's
 |  7   |      Fnatic       |  1 - 4  | 20.00% | 5 - 14  | 26.32% |
 |  8   |   exceL Esports   |  1 - 6  | 14.29% | 9 - 19  | 32.14% |
 
-# NRG Sweeps League Play
+## NRG Sweeps League Play
 
 NRG set a new record on Saturday, becoming the first team to go 7-0 in league play. Their performance has landed them a spot at the World Championship and the top seed in the North American Regional Championship. Garrett's league leading 1.25 goals-per-game puts him in a good position to win his first Most Valuable Player (MVP) award.
 
@@ -39,7 +39,7 @@ CLG swept Cloud9 early in the day, eliminating Cloud9 from top 2 contention and 
 | 7 (P)  |      CLG      |  2 - 5  | 28.57%  | 10 - 17 | 37.04% |
 | 8 (P)  | Out of Style  |  0 - 7  |  0.00%  | 7 - 21  | 25.00% |
 
-# Chiefs top Oceania
+## Chiefs top Oceania
 
 Similar to NRG in North America, the Chiefs have set a new Throwdown Championship record, by sweeping league play in Oceania for the first time.
 
@@ -58,13 +58,13 @@ Dark Sided, Tainted Minds, Retirement Home, and JAM Gaming have advanced to the 
 
 ---
 
-### Articles
+#### Articles
 
 -   [FlyQuest’s PrimeThunder: “We can handle the pressure”](http://rocketeers.gg/flyquest-primethunder-interview/)
 -   [The 5 must-see moments from the final week of RLCS S5 league play (so far)](http://rocketeers.gg/must-see-moments-from-the-final-week-of-rlcs-s5-league-play/)
 -   [Will the RLCS Finals take place in Europe or North America?](http://rocketeers.gg/rlcs-season5-lan-world-championship-date-and-location-europe-north-america/)
 
-### News
+#### News
 
 -   [AxB leaves The D00ds](https://octane.gg/news/axb-leaves-the-d00ds/)
 -   [Beyond returns with \$2,000 3v3 Monthlies](https://twitter.com/TeamBeyondnet/status/984566879451787264)
@@ -74,7 +74,7 @@ Dark Sided, Tainted Minds, Retirement Home, and JAM Gaming have advanced to the 
 -   [MLD launches merchandise store](https://twitter.com/MLDoubles/status/986003066808922112)
 -   [Octane releases ELO ratings for teams and players](https://www.reddit.com/r/RocketLeagueEsports/comments/8c8fel/competitive_elo_ratings_for_players_and_teams/)
 
-### Shows
+#### Shows
 
 -   [Discussions with Dazerin: StumpyGoblin](https://www.youtube.com/watch?v=hPDl_CyapkM&feature=youtu.be)
 -   [F3 Miztik Interview: Rebuilding F3, RLCS Season 5 & NA vs EU](https://www.youtube.com/watch?v=AtLTBO_bhRg)

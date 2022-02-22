@@ -75,20 +75,20 @@ image: https://i.imgur.com/WKvjydB.png
 
 ---
 
-### Articles
+#### Articles
 
 -   [1v1 with Cameron “Kronovi” Bills](https://www.rocketleagueesports.com/news/1v1-with-cameron--kronovi--bills/)
 -   [Flipsid3 Tactics’ Yukeo talks about “the best moment of my life”](https://rocketeers.gg/interview-flipsid3-tactics-yukeo-rlcs-lan-vegas/)
 -   [Interview With FlipSid3 Tactics RL Captain - Miztik](http://team-dignitas.net/articles/blogs/rocket-league/13025/interview-with-flipsid3-tactics-rl-captain-miztik)
 -   [Report: UNILAD withdraw from Gfinity Elite Series](https://octane.gg/news/report-unilad-withdraw-from-gfinity-elite-series/)
 
-### News
+#### News
 
 -   [Community Meetup This Saturday](https://www.rocketleague.com/news/fall-community-meet-up-october-13/)
 -   [Double XP Weekend in celebration of SARPBC's 10th Anniversary](https://www.rocketleague.com/news/sarpbc-10th-anniversary-double-xp-weekend/)
 -   [Haunted Hallows Returns October 15th](https://www.rocketleague.com/news/haunted-hallows-returns-october-15/)
 
-### Shows
+#### Shows
 
 -   [101: Rocket League by Ginx TV](https://www.youtube.com/playlist?list=PLWyIDkO2XeYmnau32D_QGNC-4muJIQ-4p)
 -   [Aftershock Ep. 4](https://www.youtube.com/watch?v=_89nes_i05Q)

@@ -20,7 +20,7 @@ image: https://i.imgur.com/WKvjydB.png
 -   Psyonix introduced a [new website](https://www.rocketleague.com/news/new-rocket-league-esports-website/) for Rocket League Esports.
 -   Psyonix are now the [primary managers and operators](https://twitter.com/CloudFuel/status/954055352764567552) of RLCS.
 
-# DreamHack Leipzig
+## DreamHack Leipzig
 
 [DreamHack Leipzig](http://www.rocketleagueesports.com/news/dreamhack-leipzig-preview/) begins Friday and runs through Sunday night in Leipzig, Germany. It is the 1st major international tournament of 2018 and features the most competitive field of teams since DreamHack Atlanta 2017.
 
@@ -28,7 +28,7 @@ image: https://i.imgur.com/WKvjydB.png
 **Brackets:** [Link](https://smash.gg/tournament/dreamhack-open-leipzig-rocket-league)  
 **Survival Guide:** [Link](https://open.dreamhack.com/2018/leipzig-survivalguide/)
 
-# Competitive Season 7
+## Competitive Season 7
 
 Season 6 of competitive matchmaking will end and Season 7 will begin in the first half of February. With the transition to the new season, players will receive a set of wheels according to their reward level. [Read more...](https://www.rocketleague.com/news/competitive-season-7-starts-in-february/)
 
@@ -40,14 +40,14 @@ Fnatic and EnVyUs claimed spots for Ting Open Grand Finals after finishing 1st a
 
 ---
 
-### Articles
+#### Articles
 
 -   [Do Rocket League Results Really Change That Much From A Bo3 To A Bo5? Well, I Did The Math!](https://www.youtube.com/watch?v=1hATs48GpAQ)
 -   [RLCS S2-4 Kickoff Analysis: Part 5](https://www.reddit.com/r/RocketLeagueEsports/comments/7rmbfx/kickoff_analysis_season_twofour_part_5_of_5/)
 
 ---
 
-### News
+#### News
 
 -   [Ares Esports replace Endpoint in Gfinity Elite Series](https://www.reddit.com/r/RocketLeagueEsports/comments/7rhl3j/ares_esports_will_replace_endpoint_in_the_gfinity/)
 -   [AFKgg LAN on Jan 28th - San Jose, California](https://www.facebook.com/events/1922722364711684/)
@@ -63,7 +63,7 @@ Fnatic and EnVyUs claimed spots for Ting Open Grand Finals after finishing 1st a
 
 ---
 
-### Rosters
+#### Rosters
 
 -   [Halcyon, Memory, and Vince leave Hollywood Hammers](https://twitter.com/byHalcyon/status/953817941065306113)
 -   [jstn joins NRG](https://twitter.com/NRGgg/status/954077306896748546)

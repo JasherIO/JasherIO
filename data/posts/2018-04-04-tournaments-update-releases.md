@@ -16,7 +16,7 @@ keywords:
 image: https://i.imgur.com/WKvjydB.png
 ---
 
-# Tournaments Update Releases
+## Tournaments Update Releases
 
 Yesterday, the long awaited _Tournaments_ mode released across all platforms with the newest update, the [_Tournaments Update_](https://www.rocketleague.com/game-info/tournaments/). Alongside the _Tournaments_ mode, the update also included numerous quality-of-life features and an expanded _Rocket League Radio_ playlist.
 
@@ -24,7 +24,7 @@ For more information, checkout the [patch notes](https://www.reddit.com/r/Rocket
 
 The Tournaments Update concludes the list of features with due dates announced in the [Spring Roadmap](https://www.rocketleague.com/news/rocket-league-roadmap-spring-2018/). Throughtout the rest of the year, we can look forward to the introduction of cross-platform parties, a more robust progression (leveling) system, [WWE items](https://www.rocketleague.com/news/wwe-items-coming-to-rocket-league-this-spring/), and arenas.
 
-# Esports Leagues
+## Esports Leagues
 
 |        Event        | Region |                                                         Results                                                         |                                             Schedule                                              |                                                           Liquipedia                                                           |                               Octane                               |
 | :-----------------: | :----: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------: |
@@ -55,14 +55,14 @@ For more information, checkout the [tournament page](https://smash.gg/tournament
 
 ---
 
-### Articles
+#### Articles
 
 -   [Calculated #2: Ghost Gaming](https://www.rocketleagueesports.com/news/calculated--2--ghost-gaming/)
 -   [EU Power Rankings - Weeks of 03/12 - 03/25](https://www.reddit.com/r/RocketLeagueEsports/comments/88jxdb/eu_power_rankings_weeks_of_0312_0325/)
 -   [Evil Geniuses’ Klassux: “I love to prove people wrong every time”](http://rocketeers.gg/evil-geniuses-klassux-interview/)
 -   [Method’s Shakahron explains how to master Powershots in Rocket League](http://rocketeers.gg/training-powershots-method-player-shakahron/)
 
-### News
+#### News
 
 -   [CCA and Ranked Hoops partner on Collegiate Hoops event: April Anarchy](https://smash.gg/tournament/college-hoops-april-anarchy/events)
 -   [LANDiego State 3v3 on Sunday](https://smash.gg/tournament/landiego-state-8-3v3-rocket-league-tournament-byoc/details)
@@ -71,7 +71,7 @@ For more information, checkout the [tournament page](https://smash.gg/tournament
 -   [Replays for RLCS/Rival Series Weeks 2 and 3 Released](https://www.reddit.com/r/RocketLeagueEsports/comments/8914o5/replays_for_rlcsrival_series_weeks_2_3/)
 -   [Tampa 2v2 LAN - May 5th](https://www.facebook.com/events/2075266619426839/)
 
-### Shows
+#### Shows
 
 -   [Is Fnatic’s Snaski the best Rocket League player from Denmark?](http://rocketeers.gg/interview-fnatic-rocket-league-player-snaski-youtube/)
 -   [Markydooda is happy, but misses his old Flipsid3 teammates](http://rocketeers.gg/interview-youtube-excel-esports-markydooda/)

@@ -13,7 +13,7 @@ image: https://i.imgur.com/WKvjydB.png
 
 **Frosty Fest**, the [winter seasonal event](https://www.rocketleague.com/news/frosty-fest-2018-begins-december-17/), goes from December 17th to January 7th. With the event going during [**Rocket Pass**](https://www.rocketleague.com/game-info/rocketpass/rocket-pass-2/), players will be able to unlock a plethora of new items over the holidays.
 
-# Around the Community
+## Around the Community
 
 The **DreamHack Pro Circuit**, [announced at the end of November](https://company.dreamhack.com/2018/11/28/dreamhack-partnership-psyonix-launches-dreamhack-pro-circuit-featuring-4-major-rocket-league-tournaments-2019/), dates have been finalized.
 
@@ -32,7 +32,7 @@ Arizona defeated North Texas in the **Collegiate Rocket League** Season 2 Finals
 
 ---
 
-### Articles
+#### Articles
 
 -   [Mousesports’ Team Manager S1moN: “Esports is full of daydreamers”](https://rocketeers.gg/mousesports-team-manager-s1mon-interview-rocket-league/)
 -   [Passing Plays: A Rocket League Guide](http://dignitas.gg/articles/blogs/rocket-league/13169/passing-plays-a-rocket-league-guide)
@@ -40,7 +40,7 @@ Arizona defeated North Texas in the **Collegiate Rocket League** Season 2 Finals
 -   [Take Your Rocket League Gameplay to the Next Level: Powershots](http://dignitas.gg/articles/blogs/rocket-league/13229/take-your-rocket-league-gameplay-to-the-next-level-powershots)
 -   [WavePunk's Top 6 Moments of RLCS Season 6](https://www.rocketleagueesports.com/news/wavepunks-top-6-moments-of-rlcs-season-6/)
 
-### Shows
+#### Shows
 
 -   [Aftershock: Ep. 12](https://www.youtube.com/watch?v=ZiNWPjbY-Wc)
 -   [RLCS - Season 6 World Championship Aftermovie](https://www.youtube.com/watch?v=_EDutH_G1E8)

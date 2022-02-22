@@ -15,7 +15,7 @@ After 4 community-driven qualifiers, 128 teams from Europe and 128 teams from No
 
 In Oceania, 16 teams qualified for the last 6 league play spots.
 
-#### North America
+### North America
 
 Expectations were met for Cloud9 and G2 Esports, as both qualified for RLCS through the upper bracket. Incognito goes on a hot streak, puts Splyce and Hollywood Hammers in the lower bracket, and qualifies for RLRS after losses to G2 Esports and Premature Superhero Cops. Emotion qualifies for RLCS by eliminating Hollywood Hammers from RLCS / RLRS qualification and putting their former sponsor, Fibeon, into the RLRS. Cypher eliminated Splyce and The D00ds from RLCS / RLRS qualification before qualifying for RLRS themselves. The former North American heavyweights, Gambit and Genocop, qualify for RLRS under Premature Superhero Cops with Prem.
 
@@ -42,7 +42,7 @@ Expectations were met for Cloud9 and G2 Esports, as both qualified for RLCS thro
 
 For a more in-depth review, check out [The Half Flip’s](https://twitter.com/thehalfflip) North American [recap](http://thehalfflip.com/rlcs-season-4-north-american-play-in-recap/).
 
-#### Europe
+### Europe
 
 Frontline, the hottest team on the planet, swept The Leftovers, Season 3 LAN contenders, and made themselves eligible for RLCS. In arguably the most entertaining match of the weekend, Aeriality defeated The Leftovers in a 5 minute Game 5 overtime, qualifying themselves for RLCS and placing The Leftovers in RLRS. In the Cinderella story of the weekend, the #43 seed, eHawkers, claimed their RLRS eligibility by defeating the #15 seeded Ascendance.
 
@@ -69,7 +69,7 @@ Frontline, the hottest team on the planet, swept The Leftovers, Season 3 LAN con
 
 For a more in-depth review, check out [The Half Flip’s](https://twitter.com/thehalfflip) European [recap](http://thehalfflip.com/rlcs-season-4-european-play-in-recap/).
 
-#### Oceania
+### Oceania
 
 Having been the top 2 teams in Oceania last RLCS, Chiefs, formerly Alpha Sydney, and Jam Gaming have auto-qualified for league play in Throwdown this season. Of the other qualified teams, look out for Pale Horse eSports, they have been climbing the [Oceanic Power Rankings](https://rocket-league.com/news/the-oce-power-rankings-2108-2708).
 

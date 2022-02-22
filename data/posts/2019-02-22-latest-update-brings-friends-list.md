@@ -16,7 +16,7 @@ The Friends List Update dropped on Tuesday, bringing cross-platform parties and 
 
 The **Ferocity Crate** [releases next Monday](https://www.rocketleague.com/news/ferocity-crate-arrives-february-25/) and comes with a new [Dominus hitbox](https://twitter.com/RocketLeague/status/1098648578002538496) battle-car, the Diestro.
 
-# Around the Community
+## Around the Community
 
 Psyonix has partnered with Rocket Street for the **Grand Series**, the premier league for South America. [Learn more...](https://www.rocketleagueesports.com/news/introducing-the-south-american-grand-series/)
 
@@ -28,13 +28,13 @@ The North American **Renegade Cup** Final runs through this weekend. For a previ
 
 Speaking of collegiate esports, **CStarLeague** holds the final week of conference play this weekend. [Learn more...](https://cstarleague.com/rl/schedules)
 
-### Articles
+#### Articles
 
 -   [NA Contender Rankings: Jan 27 - Feb 17](https://www.reddit.com/r/RocketLeagueEsports/comments/asy9zr/na_contender_rankings_weeks_0127_0217/)
 -   [NA Renegade Cup Finals: Teams to Watch](https://www.rocketleagueesports.com/news/na-renegade-cup-finals-teams-to-watch/)
 -   [The Starts of SAM: Region on the Rise](https://octane.gg/news/the-stars-of-sam-region-on-the-rise)
 
-### News
+#### News
 
 -   [Florida Poly Hosts LAN Saturday](https://twitter.com/FPUEsports/status/1091339435017490432)
 -   Rosters
@@ -47,7 +47,7 @@ Speaking of collegiate esports, **CStarLeague** holds the final week of conferen
     -   [Zolhay, Ayjacks, Tmon form Avocado, Raze to sub](https://twitter.com/Zolhay/status/1098068458435010560)
     -   [Tainted Minds rebrands to Team ICON](https://twitter.com/TeamICON/status/1098373735155884032)
 
-### Shows
+#### Shows
 
 -   [Aftershock: Ep. 21](https://www.youtube.com/watch?v=8dA_tawIn1Y&feature=youtu.be)
 -   [Asap Weekly: Ep. 7](https://asapweekly.podbean.com/e/rocket-league-7-dreamhack-afterthoughts/)

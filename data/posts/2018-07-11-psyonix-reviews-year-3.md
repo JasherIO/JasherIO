@@ -20,7 +20,7 @@ Last Friday Psyonix released their [review](https://www.rocketleague.com/news/ro
     -   Opportunities for all skill levels
     -   And, a "more holistic approach to our Worldwide esports program"
 
-# Northern Arena 2 This Weekend
+## Northern Arena 2 This Weekend
 
 [Northern Arena 2](https://www.rocketleagueesports.com/news/northern-arena-takes-over-canada-this-weekend-/) begins Saturday on [.tv/NorthernArena](https://twitch.tv/NorthernArena) with 8 of the best teams from North America and Europe. For more information, see the [Reddit post](https://www.reddit.com/r/RocketLeagueEsports/comments/8xs1s8/northern_arena_rocket_league_invitational_2_50000/).
 
@@ -47,12 +47,12 @@ Last Friday Psyonix released their [review](https://www.rocketleague.com/news/ro
 
 ---
 
-### Articles
+#### Articles
 
 -   [Scrub confirms: “I already have a spot on an RLCS team”](https://rocketeers.gg/interview-scrub-killa-rocket-league-player-rlcs-team-season-6/)
 -   [Take Your Rocket League Gameplay to the Next Level: Kickoffs](http://team-dignitas.net/articles/blogs/rocket-league/12642/take-your-rocket-league-gameplay-to-the-next-level-kickoffs)
 
-### News
+#### News
 
 -   [32 collegiate teams qualified for the Summer Series](https://smash.gg/tournament/cca-summer-series-2018/events/qualifier-2/brackets/267973)
 -   [Alex161 and Skyline depart Servette, drop MummiSnow](https://twitter.com/xAlex161/status/1017032138535985152)
@@ -61,7 +61,7 @@ Last Friday Psyonix released their [review](https://www.rocketleague.com/news/ro
 -   [Rocket Street announces Psyonix sponsorship](https://twitter.com/RocketStreet/status/1015722718107521027)
 -   [Unthink retires from Rocket League casting](https://twitter.com/UnthinkTV/status/1015369903413526528)
 
-### Shows
+#### Shows
 
 -   Casual Talk: [Fluump](https://www.youtube.com/watch?v=8NNSpqLsU9k), [Freakii](https://youtu.be/M8lVDxN2M5Y), [Gibbs](https://www.youtube.com/watch?v=-PTORpIt8j4), [Tylacto](https://www.youtube.com/watch?v=rsO1NRPXCqM)
 -   [Discussions with Dazerin: Strangest Stranger and Quent](https://www.youtube.com/watch?v=3wa1nUYr1NQ)

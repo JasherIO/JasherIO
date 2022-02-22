@@ -17,17 +17,17 @@ image: https://i.imgur.com/WKvjydB.png
 
 Today, Psyonix announced that Rocket League would be available on [Nintendo Switch November 14th](https://twitter.com/RocketLeague/status/925044836033445888) for \$19.99.
 
-#### Warner Bros Retail Partnership
+### Warner Bros Retail Partnership
 
 Thursday, news came out that [Warner Bros and Psyonix](http://www.ign.com/articles/2017/10/25/warner-bros-to-publish-rocket-league-physical-edition) would be partnering on a [global retail distribution agreement](https://www.gamasutra.com/view/pressreleases/308290/Warner_Bros_Interactive_Entertainment_and_Psyonix_Enter_Worldwide_Retail_Distribution_Agreement_forRocket_League_.php). In other words, we are likely to see an edition of Rocket League in stores with all of the latest DLC in-time for the holidays. Expect to see more information in the coming weeks.
 
-#### Esports at the Olympics
+### Esports at the Olympics
 
 A little over a month ago, Jeremy Dunham, VP of Psyonix, sent out a [feeler](https://twitter.com/DunhamSmash/status/908042087672668160) from Psyonix to the official Olympics account, presumably about including Rocket League in the Olympics in the future. Yesterday, the [International Olympic Committee (IOC) released details](https://www.polygon.com/platform/amp/2017/10/29/16566528/olympics-ioc-statement-esports) about the inclusion of esports in the Olympics. Namely, that “esports would need a worldwide governing federation for the IOC to work with, and the events should comport with the values of the Olympic movement.” Currently, no such governing body exists for esports.
 
-# Esports News
+## Esports News
 
-#### Throwdown Championship
+### Throwdown Championship
 
 Oceania’s finest 4 assembled at PAX Austrialia for the [Throwdown Championship](https://nm.reddit.com/r/RocketLeague/comments/79ddiq/rlcs_s4_throwdown_oce_finals_megathread/) this weekend at [PAX Australia](http://aus.paxsite.com/). In the [double-elimination bracket](http://wiki.teamliquid.net/rocketleague/Rocket_League_Championship_Series/Season_4/Oceania), JAM Gaming immediately put Scylla in the lower bracket with a 3-0 sweep. Similarly, Chiefs ESC cleaned house with Pale Horse. In the lower bracket, Pale Horse edged out Scylla with a 3-2 victory. Then, Chiefs ESC mashed JAM Gaming (4-2) in the upper bracket finals. In the lower bracket finals, Pale Horse stamped to a 4-1 victory over a reeling JAM Gaming team, putting them in a rematch with Chiefs ESC. In the grand finals, Chiefs ESC again proved their dominance over Pale Horse, sweeping 4-0 and claiming the Oceania Champion title.
 
@@ -35,7 +35,7 @@ For the 2nd season in a row, Chiefs ESC come into the World Championship as the 
 
 TL;DR - Chiefs ESC (1) and Pale Horse Esports (2) advanced to the World Championship in Washington D.C.
 
-#### RLCS Promotional Playoffs
+### RLCS Promotional Playoffs
 
 [**Europe**](https://www.reddit.com/r/RocketLeague/comments/79f3l0/rlcs_s4_eu_promotion_tournament/)
 
@@ -47,7 +47,7 @@ TL;DR - Chiefs ESC (1) and Pale Horse Esports (2) advanced to the World Champion
 -   RLCS: Renegades and Out of Style
 -   RLRS: Fibeon and Allegiance
 
-#### RLCS World Championship
+### RLCS World Championship
 
 **Dates**:
 
@@ -67,7 +67,7 @@ TL;DR - Chiefs ESC (1) and Pale Horse Esports (2) advanced to the World Champion
 -   Europe: Gale Force Esports (1), Method (2), MockIt Esports (3), and PSG eSports (4)
 -   Oceania: Chiefs ESC (1) and Pale Horse Esports (2)
 
-#### Collegiate Rocket League
+### Collegiate Rocket League
 
 TESPA began streaming this season of Collegiate Rocket League (CRL) last [Monday](https://www.reddit.com/r/RocketLeague/comments/78b5tk/collegiate_rocket_league_50000_in_scholarships/) and [Tuesday](https://www.reddit.com/r/RocketLeague/comments/78j7sy/collegiate_rocket_league_50000_in_scholarships/). They will be streaming the final week of league play this week and beginning playoffs next week. Make sure to tune in tonight and tomorrow for more collegiate carball action with [Achieves](https://twitter.com/AchievesRL) and [Corelli](https://twitter.com/CorelliTV) on [twitch.tv/RLEsports](https://twitch.tv/RLEsports)!
 
@@ -77,9 +77,9 @@ For up-to-date statistics on CRL, make sure to keep [/u/PaTcHiZzEl7397 Stats She
 
 N/A
 
-# Around the Community
+## Around the Community
 
-#### The Gauntlet (sponsored by Psyonix)
+### The Gauntlet (sponsored by Psyonix)
 
 **Format**:
 
@@ -100,13 +100,13 @@ N/A
 **Twitch**: [twitch.tv/ShiftProLeague](https://twitch.tv/ShiftProLeague)  
 **More Information**: [Link](https://nm.reddit.com/r/RocketLeague/comments/795hy8/shift_pro_league_presents_the_gauntlet_sponsored/)
 
-#### October #Astronauts by Beyond Entertainment
+### October #Astronauts by Beyond Entertainment
 
 Beyond’s monthly \$1000 3v3 tournament, which regularly features the top teams from North America, is tonight at 7 PM ET. Tune at [twitch.tv/TeamBeyondNet](https://twitch.tv/teambeyondnet)!
 
 For more information, see [Saucey’s post](https://www.reddit.com/r/RocketLeague/comments/78xlan/sign_up_for_the_1000_astronauts_3v3_october/).
 
-# Recent Articles
+## Recent Articles
 
 [A History of Competitive Rocket League: Evolution](https://rocket-league.com/news/comp-rl-a-history-3)
 
