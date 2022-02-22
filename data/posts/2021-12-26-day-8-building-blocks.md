@@ -1,6 +1,6 @@
 ---
 title: "Day 8: Building Blocks"
-description:
+description: 
 date: 2021-12-26 
 category: Daily Design
 keywords: 

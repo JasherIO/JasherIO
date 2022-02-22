@@ -1,6 +1,6 @@
 ---
 title: "Day 3: Scoreboard"
-description:
+description: 
 date: 2021-12-19 
 category: Daily Design
 keywords: 

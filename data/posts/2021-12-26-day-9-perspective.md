@@ -1,6 +1,6 @@
 ---
 title: "Day 9: Perspective"
-description:
+description: 
 date: 2021-12-28 
 category: Daily Design
 keywords: 
