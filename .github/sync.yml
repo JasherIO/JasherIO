@@ -1,4 +1,4 @@
 JasherIO/jasher.io-remix-netlify:
   - source: data/
-    dest: data/
+    dest: netlify/functions/data/
     deleteOrphaned: true
