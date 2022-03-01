@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "Jasher",
+    "description": "A web developer, tournament operator, and soccar enthusiast.",
+    "image": "",
+    "keywords": "Jasher, Portfolio, Software, Web Developer, React, Remix, TypeScript, Git, Esports, Rocket League, Epic, Tournament, Referee, Statistician"
+  },
+  "platforms": [
+    {
+      "name": "Battlefy",
+      "id": "JasherRL",
+      "href": "https://battlefy.com/users/jasherrl", 
+      "tournaments_href": "https://battlefy.com/shift-pro-league"
+    },
+    {
+      "name": "Discord",
+      "id": "Jasher#1111"
+    },
+    {
+      "name": "GitHub",
+      "id": "JasherIO",
+      "href": "https://github.com/JasherIO",
+      "navbar": true,
+      "footer": true
+    },
+    {
+      "name": "LinkedIn",
+      "id": "JasherIO",
+      "href": "https://www.linkedin.com/in/JasherIO/",
+      "footer": true
+    },
+    {
+      "name": "SmashGG",
+      "id": "Jasher",
+      "href": "https://smash.gg/user/3cba5634"
+    },
+    {
+      "name": "Twitch",
+      "id": "JasherIO",
+      "href": "https://twitch.tv/JasherIO",
+      "footer": true
+    },
+    {
+      "name": "Twitter",
+      "id": "JasherIO",
+      "href": "https://twitter.com/JasherIO",
+      "navbar": true,
+      "footer": true
+    }
+  ]
+}
