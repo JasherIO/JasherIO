@@ -9,5 +9,5 @@ JasherIO/jasher.io-svelte-kit:
     dest: src/routes/blog
     deleteOrphaned: true
   - source: data/site.json
-    dest: src/lib
+    dest: src/lib/site.json
     
