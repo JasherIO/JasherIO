@@ -3,7 +3,8 @@
     "title": "Jasher",
     "description": "A web developer, tournament operator, and soccar enthusiast.",
     "image": "",
-    "keywords": "Jasher, Portfolio, Software, Web Developer, React, Remix, TypeScript, Git, Esports, Rocket League, Epic, Tournament, Referee, Statistician"
+    "keywords": "Jasher, Portfolio, Software, Web Developer, React, Remix, TypeScript, Git, Esports, Rocket League, Epic, Tournament, Referee, Statistician",
+    "theme_color": "#22c55e"
   },
   "platforms": [
     {
