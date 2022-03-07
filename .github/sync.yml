@@ -5,5 +5,5 @@ JasherIO/jasher.io-remix-netlify:
     
 JasherIO/jasher.io-svelte-kit:
   - source: data/posts
-    dest: src/blog
+    dest: src/routes/blog
     deleteOrphaned: true
