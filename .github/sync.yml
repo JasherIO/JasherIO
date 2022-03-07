@@ -2,3 +2,8 @@ JasherIO/jasher.io-remix-netlify:
   - source: data/
     dest: netlify/functions/server/data/
     deleteOrphaned: true
+    
+JasherIO/jasher.io-svelte-kit:
+  - source: data/posts
+    dest: src/blog
+    deleteOrphaned: true
