@@ -1,3 +1,4 @@
+# https://github.com/BetaHuhn/repo-file-sync-action
 JasherIO/jasher.io-remix-netlify:
   - source: data/
     dest: netlify/functions/server/data/
@@ -7,3 +8,6 @@ JasherIO/jasher.io-svelte-kit:
   - source: data/posts
     dest: src/routes/blog
     deleteOrphaned: true
+  - source: data/site.json
+    dest: src/
+    
