@@ -1,5 +1,5 @@
 name: Watch Files
-on:
+on: 
   # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#push
   push: 
     branches:
@@ -8,6 +8,7 @@ on:
       - '**/*.md'
       - '**/*.json'
       - '!**/package.json'
+  workflow_dispatch:
 jobs:
   watch:
     runs-on: ubuntu-latest
