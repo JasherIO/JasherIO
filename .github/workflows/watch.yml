@@ -24,6 +24,6 @@ jobs:
           cache: 'npm'
       - run: npm install
       - name: Get Changed Files
-        uses: ./github/actions/files
+        uses: ./.github/actions/files
         with:
           GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
