@@ -22,9 +22,9 @@ function hasValidFrontmatter(attributes) {
 };
 
 function parse(file) {
-  const slug = file.path.replace('.md', '');
-  const { attributes, body } = parse_frontmatter(file.contents);
-  invariant(hasValidFrontmatter(attributes), `${file.path} has bad frontmatter`);
+  const slug = file.data.path.replace('.md', '');
+  const { attributes, body } = parse_frontmatter(file.data.contents);
+  invariant(hasValidFrontmatter(attributes), `${file.data.path} has bad frontmatter`);
 
   const date_object = new Date(attributes.date);
   const date = {
