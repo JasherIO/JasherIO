@@ -24,7 +24,7 @@ async function get_files() {
 
 (async () => {
   const files = await get_files();
-  core.setOutput("files", JSON.stringify(files));
-
-  console.log(files);
+  const output = JSON.stringify(files);
+  core.setOutput("files", output);
+  console.log(output);
 })();
