@@ -15,9 +15,9 @@
     "@actions/core": "^1.6.0",
     "@actions/github": "^5.0.0",
     "front-matter": "^4.0.2",
-    "invariant": "^2.2.4",
     "marked": "^4.0.12",
     "multimatch": "^6.0.0",
-    "reading-time": "^1.5.0"
+    "reading-time": "^1.5.0",
+    "tiny-invariant": "^1.2.0"
   }
 }

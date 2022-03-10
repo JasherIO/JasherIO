@@ -1,9 +1,9 @@
 import core from '@actions/core';
 import github from '@actions/github';
-import parse_frontmatter from "front-matter";
-import { marked } from "marked";
+import parse_frontmatter from 'front-matter';
+import { marked } from 'marked';
 import reading_time from 'reading-time';
-import invariant from "tiny-invariant";
+import invariant from 'tiny-invariant';
 
 const GH_PERSONAL_ACCESS_TOKEN = core.getInput('GH_PERSONAL_ACCESS_TOKEN');
 const filenames = JSON.parse(core.getInput('files'));
@@ -28,7 +28,7 @@ function parse(file) {
   const date_object = new Date(attributes.date);
   const date = {
     raw: attributes.date,
-    text: date_object.toLocaleDateString('en-US', { year: "numeric", month: "short", day: "numeric" }),
+    text: date_object.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }),
     ISO: date_object.toISOString(),
   };
   const frontmatter = { ...attributes, date };
@@ -52,6 +52,6 @@ async function get_parsed_files() {
 (async () => {
   const parsed = await get_parsed_files();
   const output = JSON.stringify(parsed);
-  core.setOutput("files", output);
+  core.setOutput('files', output);
   console.log(output);
 })();
