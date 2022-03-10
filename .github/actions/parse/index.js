@@ -23,7 +23,8 @@ function hasValidFrontmatter(attributes) {
 
 function parse(file) {
   const slug = file.data.path.replace('.md', '');
-  const { attributes, body } = parse_frontmatter(file.data.contents);
+  const decoded = Buffer.from(file.data.contents, 'base64');
+  const { attributes, body } = parse_frontmatter(decoded);
   invariant(hasValidFrontmatter(attributes), `${file.data.path} has bad frontmatter`);
 
   const date_object = new Date(attributes.date);
