@@ -3,10 +3,11 @@ import github from '@actions/github';
 
 const GH_PERSONAL_ACCESS_TOKEN = core.getInput('GH_PERSONAL_ACCESS_TOKEN');
 const commit_refs = core.getInput('commit_refs');
-const octokit = github.getOctokit(GH_PERSONAL_ACCESS_TOKEN);
+// const octokit = github.getOctokit(GH_PERSONAL_ACCESS_TOKEN);
 
 const repository = github.context.repository;
-console.log(repository, commit_refs);
+console.log('repository: ', repository);
+console.log('commit_refs: ', commit_refs);
 
 // function get_commit({ repository, ref }) {
 //   return octokit.request('GET /repos/{repository}/commits/{ref}', { repository, ref });
