@@ -27,4 +27,3 @@ jobs:
         uses: ./.github/actions/files
         with:
           GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-          commits: ${{ toJSON(github.event.commits) }}
