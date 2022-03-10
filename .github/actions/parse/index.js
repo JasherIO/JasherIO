@@ -2,7 +2,7 @@ import core from '@actions/core';
 import github from '@actions/github';
 
 const GH_PERSONAL_ACCESS_TOKEN = core.getInput('GH_PERSONAL_ACCESS_TOKEN');
-const files = core.getInput('files');
+const files = JSON.parse(core.getInput('files'));
 const octokit = github.getOctokit(GH_PERSONAL_ACCESS_TOKEN);
 
 const repo = github.context.payload.repository.name;
