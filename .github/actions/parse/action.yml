@@ -1,0 +1,10 @@
+vname: 'Parse Files'
+description: 'Parse Files'
+inputs:
+  GH_PERSONAL_ACCESS_TOKEN:
+    required: true
+  files:
+    required: true
+runs:
+  using: 'node16'
+  main: 'index.js'
