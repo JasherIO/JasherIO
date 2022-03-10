@@ -1,35 +1,57 @@
 import core from '@actions/core';
 import github from '@actions/github';
+import parse_frontmatter from "front-matter";
+import { marked } from "marked";
+import reading_time from 'reading-time';
+import invariant from "tiny-invariant";
 
 const GH_PERSONAL_ACCESS_TOKEN = core.getInput('GH_PERSONAL_ACCESS_TOKEN');
-const files = JSON.parse(core.getInput('files'));
+const filenames = JSON.parse(core.getInput('files'));
 const octokit = github.getOctokit(GH_PERSONAL_ACCESS_TOKEN);
 
 const repo = github.context.payload.repository.name;
 const owner = github.context.payload.repository.owner.name;
 
-console.log(files);
+function get_file(path) {
+  return octokit.request('GET /repos/{owner}/{repo}/contents/{path}', { owner, repo, path });
+};
 
-// function get_file(path) {
-//   return octokit.request('GET /repos/{owner}/{repo}/contents/{path}', { owner, repo, path });
-// };
+function hasValidFrontmatter(attributes) {
+  return attributes?.title && attributes?.description && attributes?.keywords && attributes?.date && attributes?.category;
+};
 
-// function hasValidFrontmatter(attributes) {
-//   return attributes?.title && attributes?.description && attributes?.keywords && attributes?.date && attributes?.category;
-// };
+function parse(file) {
+  const slug = file.path.replace('.md', '');
+  const { attributes, body } = parse_frontmatter(file.contents);
+  invariant(hasValidFrontmatter(attributes), `${file.path} has bad frontmatter`);
 
-// function parse(content) {
+  const date_object = new Date(attributes.date);
+  const date = {
+    raw: attributes.date,
+    text: date_object.toLocaleDateString('en-US', { year: "numeric", month: "short", day: "numeric" }),
+    ISO: date_object.toISOString(),
+  };
+  const frontmatter = { ...attributes, date };
 
-// };
+  const html = marked(body);
+  const stats = reading_time(stats);
 
-// async function get_parsed_files() {
-//   const responses = await Promise.all(files.map(get_file));
+  return {
+    slug,
+    frontmatter,
+    html,
+    stats
+  }
+};
 
-// }
+async function get_parsed_files() {
+  const responses = await Promise.all(filenames.map(get_file));
+  return responses.map(parse);
+}
 
-// (async () => {
-//   const files = await get_files();
-//   core.setOutput("files", files.toString());
-
-//   console.log(files);
-// })();
+(async () => {
+  const parsed = await get_parsed_files();
+  const output = JSON.stringify(parsed);
+  core.setOutput("files", output);
+  console.log(output);
+})();
