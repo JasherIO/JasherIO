@@ -5,6 +5,8 @@ inputs:
     required: true
   patterns:
     required: true
+outputs:
+  files:
 runs:
   using: 'node16'
   main: 'index.js'

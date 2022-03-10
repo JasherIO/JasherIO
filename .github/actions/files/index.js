@@ -24,5 +24,7 @@ async function get_files() {
 
 (async () => {
   const files = await get_files();
+  core.setOutput("files", files.toString());
+
   console.log(files);
 })();
