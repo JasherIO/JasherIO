@@ -16,25 +16,11 @@ function get_file(path) {
   return octokit.request('GET /repos/{owner}/{repo}/contents/{path}', { owner, repo, path });
 };
 
-function hasValidFrontmatter(attributes) {
-  return attributes?.title && attributes?.description && attributes?.keywords && attributes?.date && attributes?.category;
-};
-
 function parse(file) {
   const slug = file.data.path.replace('.md', '');
+  
   const decoded = Buffer.from(file.data.content, 'base64').toString();
-  console.log('content: ', file.data.content);
-  console.log('decoded: ', decoded);
-  const { attributes, body } = parse_frontmatter(decoded);
-  invariant(hasValidFrontmatter(attributes), `${file.data.path} has bad frontmatter`);
-
-  const date_object = new Date(attributes.date);
-  const date = {
-    raw: attributes.date,
-    text: date_object.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }),
-    ISO: date_object.toISOString(),
-  };
-  const frontmatter = { ...attributes, date };
+  const { attributes: frontmatter, body } = parse_frontmatter(decoded);
 
   const html = marked(body);
   const stats = reading_time(stats);
