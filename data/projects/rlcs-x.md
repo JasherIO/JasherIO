@@ -10,8 +10,3 @@ end_date: ""
 prize_pool: 0
 tier: S
 ---
-
-blah
-blah
-blah
-blah
