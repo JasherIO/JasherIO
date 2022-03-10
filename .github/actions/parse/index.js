@@ -13,6 +13,7 @@ const repo = github.context.payload.repository.name;
 const owner = github.context.payload.repository.owner.name;
 
 function get_file(path) {
+  console.log('path: ', path);
   return octokit.request('GET /repos/{owner}/{repo}/contents/{path}', { owner, repo, path });
 };
 
@@ -46,6 +47,7 @@ function parse(file) {
 
 async function get_parsed_files() {
   const responses = await Promise.all(filenames.map(get_file));
+  console.log('responses: ', responses);
   return responses.map(parse);
 }
 
