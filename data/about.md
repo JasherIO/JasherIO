@@ -20,3 +20,5 @@ My team developed applications for a nearby Keurig warehouse. I was tasked with 
 Since graduation, I have continued to invest time into learning new web frameworks and related concepts, partially by reading documentation and partially by developing projects for esports. I enjoy reading well-written documentation (shout-out to [React](https://reactjs.org/), [GatsbyJS](https://www.gatsbyjs.com/), [NextJS](https://nextjs.org/), [Remix](https://remix.run/), [Svelte](https://svelte.dev/), [SvelteKit](https://kit.svelte.dev/), [TailwindCSS](https://tailwindcss.com/), [FaunaDB](https://fauna.com/), and more). I have probably spent more time than I should reading documentation, but hey, not the worst habit to have.
 
 I am currently working on the Rocket League Championship Series (RLCS) as a referee and statistician.
+
+blah
