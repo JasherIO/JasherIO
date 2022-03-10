@@ -2,7 +2,7 @@ import core from '@actions/core';
 import github from '@actions/github';
 
 const GH_PERSONAL_ACCESS_TOKEN = core.getInput('GH_PERSONAL_ACCESS_TOKEN');
-const commits = core.getInput('commits');
+const commits = JSON.parse(core.getInput('commits'));
 const refs = commits.map(commit => commit.id);
 const octokit = github.getOctokit(GH_PERSONAL_ACCESS_TOKEN);
 
