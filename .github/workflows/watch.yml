@@ -26,11 +26,13 @@ jobs:
       - run: npm install
       - name: Get Changed Files
         uses: ./.github/actions/files
+        id: files
         with:
           GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
           patterns: '[ "**/*.md", "**/*.json", "!**/package.json", "!**/package-lock.json" ]'
       - name: Parse Files
         uses: ./.github/actions/parse
+        id: parsed
         with:
           GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
           files: ${{ steps.files.outputs.files }}
