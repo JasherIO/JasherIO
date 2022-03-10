@@ -3,7 +3,7 @@ description: 'Watch Files'
 inputs:
   GH_PERSONAL_ACCESS_TOKEN:
     required: true
-  commit_refs:
+  commits:
     required: true
 runs:
   using: 'node16'
