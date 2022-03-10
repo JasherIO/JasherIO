@@ -7,4 +7,4 @@ outputs:
   file-names
 runs:
   using: 'node16'
-  main: 'files.js'
+  main: 'index.js'
