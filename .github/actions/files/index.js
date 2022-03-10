@@ -2,13 +2,14 @@ import core from '@actions/core';
 import github from '@actions/github';
 
 const GH_PERSONAL_ACCESS_TOKEN = core.getInput('GH_PERSONAL_ACCESS_TOKEN');
+const commit_refs = core.getInput('commit_refs');
 const octokit = github.getOctokit(GH_PERSONAL_ACCESS_TOKEN);
+
 const repository = github.context.repository;
-const commits = github.context.event.commits;
-console.log(repository, commits);
+console.log(repository, commit_refs);
 
 // function get_commit({ repository, ref }) {
-//   return octokit.request('GET /repos/{owner}/{repo}/commits/{ref}', { repository, ref });
+//   return octokit.request('GET /repos/{repository}/commits/{ref}', { repository, ref });
 // };
 
 // async function get_files({ repository, refs }) {
