@@ -31,7 +31,6 @@ jobs:
           patterns: '[ "**/*.md", "**/*.json", "!**/package.json", "!**/package-lock.json" ]'
       - name: Parse Files
         uses: ./.github/actions/parse
-        needs: files
         with:
           GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-          files: ${{ needs.files.outputs.files }}
+          files: ${{ steps.files.outputs.files }}
