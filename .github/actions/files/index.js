@@ -2,26 +2,24 @@ import core from '@actions/core';
 import github from '@actions/github';
 
 const GH_PERSONAL_ACCESS_TOKEN = core.getInput('GH_PERSONAL_ACCESS_TOKEN');
-const commits = JSON.parse(core.getInput('commits'));
-const refs = commits.map(commit => commit.id);
 const octokit = github.getOctokit(GH_PERSONAL_ACCESS_TOKEN);
 
-const repository = '';
-console.log('repository: ', github.context.payload.repository);
-console.log('commits: ', github.context.payload.commits);
+const repo = github.context.payload.repository.name;
+const owner = github.context.payload.repository.owner.name;
+const refs = github.context.payload.commits.map(commit => commit.id);
 
-function get_commit({ repository, ref }) {
-  return octokit.request('GET /repos/{repository}/commits/{ref}', { repository: 'JasherIO/JasherIO', ref });
+function get_commit(ref) {
+  return octokit.request('GET /repos/{owner}/{repo}/commits/{ref}', { owner, repo, ref });
 };
 
-async function get_files({ repository, refs }) {
-  const responses = await Promise.all(refs.map(ref => get_commit({ repository, ref })));
+async function get_files() {
+  const responses = await Promise.all(refs.map(get_commit));
   const files = responses.flatMap(response => response.data.files);
   const filenames = files.flatMap(file => file.filename);
   return Array.from(new Set(filenames));
 }
 
 (async () => {
-  const files = await get_files({ repository, refs });
+  const files = await get_files();
   console.log(files);
 })();
