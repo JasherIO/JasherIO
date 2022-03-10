@@ -3,6 +3,8 @@ description: 'Watch Files'
 inputs:
   GH_PERSONAL_ACCESS_TOKEN:
     required: true
+  patterns:
+    required: true
 runs:
   using: 'node16'
   main: 'index.js'
