@@ -22,7 +22,7 @@ function hasValidFrontmatter(attributes) {
 
 function parse(file) {
   const slug = file.data.path.replace('.md', '');
-  const decoded = Buffer.from(file.data.content, 'base64');
+  const decoded = Buffer.from(file.data.content, 'base64').toString();
   console.log('content: ', file.data.content);
   console.log('decoded: ', decoded);
   const { attributes, body } = parse_frontmatter(decoded);
