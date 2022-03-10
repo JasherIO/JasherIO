@@ -6,9 +6,9 @@ const commits = JSON.parse(core.getInput('commits'));
 const refs = commits.map(commit => commit.id);
 const octokit = github.getOctokit(GH_PERSONAL_ACCESS_TOKEN);
 
-// const repository = github.context;
-console.log('context: ', github.context);
-console.log('commits: ', commits);
+const repository = '';
+console.log('repository: ', github.context.payload.repository);
+console.log('commits: ', github.context.payload.commits);
 
 function get_commit({ repository, ref }) {
   return octokit.request('GET /repos/{repository}/commits/{ref}', { repository: 'JasherIO/JasherIO', ref });
