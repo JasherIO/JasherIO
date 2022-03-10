@@ -6,8 +6,8 @@ const commits = JSON.parse(core.getInput('commits'));
 const refs = commits.map(commit => commit.id);
 const octokit = github.getOctokit(GH_PERSONAL_ACCESS_TOKEN);
 
-const repository = github.context;
-console.log('context: ', context);
+// const repository = github.context;
+console.log('context: ', github.context);
 console.log('commits: ', commits);
 
 function get_commit({ repository, ref }) {
