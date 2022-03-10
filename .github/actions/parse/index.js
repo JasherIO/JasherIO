@@ -13,7 +13,6 @@ const repo = github.context.payload.repository.name;
 const owner = github.context.payload.repository.owner.name;
 
 function get_file(path) {
-  console.log('path: ', path);
   return octokit.request('GET /repos/{owner}/{repo}/contents/{path}', { owner, repo, path });
 };
 
@@ -24,6 +23,8 @@ function hasValidFrontmatter(attributes) {
 function parse(file) {
   const slug = file.data.path.replace('.md', '');
   const decoded = Buffer.from(file.data.content, 'base64');
+  console.log('content: ', file.data.content);
+  console.log('decoded: ', decoded);
   const { attributes, body } = parse_frontmatter(decoded);
   invariant(hasValidFrontmatter(attributes), `${file.data.path} has bad frontmatter`);
 
@@ -48,7 +49,6 @@ function parse(file) {
 
 async function get_parsed_files() {
   const responses = await Promise.all(filenames.map(get_file));
-  console.log('responses: ', responses);
   return responses.map(parse);
 }
 
