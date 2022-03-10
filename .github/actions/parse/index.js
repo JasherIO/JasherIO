@@ -23,7 +23,7 @@ function parse(file) {
   const { attributes: frontmatter, body } = parse_frontmatter(decoded);
 
   const html = marked(body);
-  const stats = reading_time(stats);
+  const stats = reading_time(body);
 
   return {
     slug,
