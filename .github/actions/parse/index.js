@@ -3,7 +3,6 @@ import github from '@actions/github';
 import parse_frontmatter from 'front-matter';
 import { marked } from 'marked';
 import reading_time from 'reading-time';
-import invariant from 'tiny-invariant';
 
 const GH_PERSONAL_ACCESS_TOKEN = core.getInput('GH_PERSONAL_ACCESS_TOKEN');
 const filenames = JSON.parse(core.getInput('files'));
