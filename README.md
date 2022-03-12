@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the [RLCS](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series) as a tournament referee and statistican
 - 🌱 I’m learning [Remix](https://remix.run/) and [TypeScript](https://www.typescriptlang.org/)
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/JasherIO/) or [Twitter](https://twitter.com/JasherIO)
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/JasherIO/), [Twitter](https://twitter.com/JasherIO), or at business@jasher.io
 - 😄 Pronouns: He/Him
 
 <!-- SourcE: https://github.com/suhailkakar/suhailkakar/blob/main/README.md -->
