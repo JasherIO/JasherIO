@@ -1,4 +1,4 @@
-name: Watch Files
+name: Upsert Files
 on: 
   # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#push
   push: 
@@ -24,16 +24,10 @@ jobs:
           node-version: '16'
           cache: 'npm'
       - run: npm install
-      - name: Get Changed Files
-        uses: ./.github/actions/files
+      - name: Upsert Changed files
+        uses: ./.github/actions/upsert
         id: files
         with:
           GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
           # patterns: '[ "**/*.md", "**/*.json", "!**/package.json", "!**/package-lock.json" ]'
           patterns: '[ "**/*.md" ]'
-      - name: Parse Files
-        uses: ./.github/actions/parse
-        id: parsed
-        with:
-          GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-          files: ${{ steps.files.outputs.files }}
