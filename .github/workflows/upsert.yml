@@ -6,9 +6,6 @@ on:
       - main
     paths:
       - '**/*.md'
-      # - '**/*.json'
-      # - '!**/package.json'
-      # - '!**/package-lock.json'
   workflow_dispatch:
 jobs:
   upsert:
@@ -29,5 +26,3 @@ jobs:
         id: files
         with:
           GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-          # patterns: '[ "**/*.md", "**/*.json", "!**/package.json", "!**/package-lock.json" ]'
-          patterns: '[ "**/*.md" ]'

@@ -6,7 +6,7 @@ import { marked } from 'marked';
 import reading_time from 'reading-time';
 
 const GH_PERSONAL_ACCESS_TOKEN = core.getInput('GH_PERSONAL_ACCESS_TOKEN');
-const patterns = JSON.parse(core.getInput('patterns'));
+const patterns = ['**/*.md'];
 
 const octokit = github.getOctokit(GH_PERSONAL_ACCESS_TOKEN);
 
