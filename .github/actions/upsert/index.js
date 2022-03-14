@@ -1,7 +1,9 @@
 import core from '@actions/core';
 import github from '@actions/github';
 import multimatch from 'multimatch';
-import { parse } from './markdown';
+import parse_frontmatter from 'front-matter';
+import { marked } from 'marked';
+import reading_time from 'reading-time';
 
 const GH_PERSONAL_ACCESS_TOKEN = core.getInput('GH_PERSONAL_ACCESS_TOKEN');
 const patterns = JSON.parse(core.getInput('patterns'));
@@ -24,6 +26,23 @@ async function get_changed_filenames(refs) {
 
 function get_contents(path) {
   return octokit.request('GET /repos/{owner}/{repo}/contents/{path}', { owner, repo, path });
+};
+
+function parse(file) {
+  const slug = file.data.path.replace('.md', '');
+  
+  const decoded = Buffer.from(file.data.content, 'base64').toString();
+  const { attributes: frontmatter, body } = parse_frontmatter(decoded);
+
+  const html = marked(body);
+  const stats = reading_time(body);
+
+  return {
+    slug,
+    frontmatter,
+    html,
+    stats
+  };
 };
 
 async function get_parsed_contents(paths) {
