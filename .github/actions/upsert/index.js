@@ -29,7 +29,7 @@ function get_contents(path) {
 };
 
 function parse(file) {
-  const slug = file.data.path.replace('.md', '');
+  const slug = file.data.path.replace('data/', '').replace('.md', '');
   
   const decoded = Buffer.from(file.data.content, 'base64').toString();
   const { attributes: frontmatter, body: markdown } = parse_frontmatter(decoded);
