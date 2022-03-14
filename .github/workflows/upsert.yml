@@ -11,7 +11,7 @@ on:
       # - '!**/package-lock.json'
   workflow_dispatch:
 jobs:
-  watch:
+  upsert:
     runs-on: ubuntu-latest
     steps:
       # https://github.com/actions/checkout
