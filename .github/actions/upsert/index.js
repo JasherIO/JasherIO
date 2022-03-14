@@ -56,6 +56,11 @@ async function main() {
   const matched = multimatch(unique, patterns);
   const parsed = get_parsed_contents(matched);
 
+  console.log('changed: ', changed);
+  console.log('unique: ', unique);
+  console.log('matched: ', matched);
+  console.log('parsed: ', parsed);
+
   const output = JSON.stringify(parsed);
   core.setOutput('files: ', output);
   console.log(output);
