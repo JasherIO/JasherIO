@@ -80,8 +80,6 @@ async function main() {
   const contents = await get_contents({ files });
   const parsed = contents.map(parse);
 
-  const output = JSON.stringify(parsed);
-  core.setOutput('Output: ', output);
   console.debug(`Output:\n${JSON.stringify(parsed[0])}`);
 };
 

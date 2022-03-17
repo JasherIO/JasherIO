@@ -3,9 +3,6 @@ description: 'Watch Files'
 inputs:
   GH_PERSONAL_ACCESS_TOKEN:
     required: true
-outputs:
-  files:
-    description: 'list of changed files'
 runs:
   using: 'node16'
   main: 'index.js'
