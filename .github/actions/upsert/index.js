@@ -27,7 +27,7 @@ async function get_contents({ files }) {
   const read_promises = files.map(async (file) => {
     return {
       name: file,
-      content: await fs.readFile(file, { encoding: 'ascii' })
+      content: await fs.readFile(file, { encoding: 'utf8' })
     }
   });
 
@@ -37,8 +37,7 @@ async function get_contents({ files }) {
 function parse({ name, content }) {
   const slug = name.replace('data/', '').replace('.md', '');
   
-  const decoded = Buffer.from(content, 'base64').toString();
-  const { attributes: frontmatter, body: markdown } = parse_frontmatter(decoded);
+  const { attributes: frontmatter, body: markdown } = parse_frontmatter(content);
 
   const html = marked(markdown);
   const stats = reading_time(markdown);
