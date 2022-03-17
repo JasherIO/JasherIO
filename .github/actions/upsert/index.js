@@ -28,23 +28,19 @@ async function get_contents({ files }) {
     return {
       name: file,
       content: await fs.readFile(file, { encoding: 'utf8' })
-    }
+    };
   });
 
   return Promise.all(read_promises);
 };
 
-function parse({ name, content }) {
+async function parse({ name, content }) {
   const slug = name.replace('data/', '').replace('.md', '');
   
   const { attributes: frontmatter, body: markdown } = parse_frontmatter(content);
 
   const html = marked(markdown);
   const stats = reading_time(markdown);
-
-  console.debug('content: ', content);
-  console.debug('markdown: ', markdown);
-  console.debug('html: ', html);
 
   return {
     slug,
@@ -82,11 +78,11 @@ async function main() {
 
   console.log(`Updating:\n${files.join('\n')}`);
   const contents = await get_contents({ files });
-  const parsed = contents.map(parse);
+  const parsed = await contents.map(parse);
 
   const output = JSON.stringify(parsed);
   core.setOutput('Output: ', output);
-  // console.log(output);
+  console.log(`Output:\n${output}`);
 };
 
 main();
