@@ -24,13 +24,15 @@ async function get_all_filenames({ patterns }) {
 };
 
 async function get_contents({ files }) {
-  return Promise.all(files.map(file => {
+  const read_promises = files.map(async (file) => {
     return {
       name: file,
-      content: fs.readFile(file, { encoding: 'utf8' })
+      content: await fs.readFile(file, { encoding: 'utf8' })
     }
-  }));
-}
+  });
+
+  return Promise.all(read_promises);
+};
 
 function parse({ name, content }) {
   const slug = name.replace('data/', '').replace('.md', '');
