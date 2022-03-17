@@ -41,6 +41,7 @@ function parse(file) {
 };
 
 async function main() {
+  console.log('github.context.eventName: ', github.context.eventName);
   if (!(github.context.eventName in ['push', 'workflow_dispatch']))
     return;
 
