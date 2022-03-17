@@ -40,10 +40,6 @@ function parse(file) {
   };
 };
 
-async function get_contents(paths) {
-  return await Promise.all(paths.map(get_contents));
-};
-
 async function main() {
   if (!(github.context.eventName in ['push', 'workflow_dispatch']))
     return;
