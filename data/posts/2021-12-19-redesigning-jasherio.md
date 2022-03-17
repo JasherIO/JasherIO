@@ -1,8 +1,8 @@
 ---
 title: Redesigning JasherIO
-description: Redesigning JasherIO
+description: From GatsbyJS to SvelteKit
 date: 2021-12-19 
-category: Jasher.io
+category: Personal Website
 keywords: 
   - remix
   - portfolio
