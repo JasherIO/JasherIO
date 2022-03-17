@@ -70,7 +70,7 @@ async function main() {
   console.log('files: ', files);
 
   // get file contents and parse
-  const contents = Promise.all(files.map(file => fs.readFile(file, { encoding: 'utf8' })))
+  const contents = await Promise.all(files.map(file => fs.readFile(file, { encoding: 'utf8' })))
   console.log('contents: ', contents);
   const parsed = contents.map(parse);
 
