@@ -34,7 +34,7 @@ async function get_contents({ files }) {
   return Promise.all(read_promises);
 };
 
-async function parse({ name, content }) {
+function parse({ name, content }) {
   const slug = name.replace('data/', '').replace('.md', '');
   
   const { attributes: frontmatter, body: markdown } = parse_frontmatter(content);
@@ -78,7 +78,7 @@ async function main() {
 
   console.log(`Updating:\n${files.join('\n')}`);
   const contents = await get_contents({ files });
-  const parsed = await contents.map(parse);
+  const parsed = contents.map(parse);
 
   const output = JSON.stringify(parsed);
   core.setOutput('Output: ', output);
