@@ -51,11 +51,13 @@ async function main() {
 
   const octokit = github.getOctokit(GH_PERSONAL_ACCESS_TOKEN);
 
+  console.log(github.context);
+
   const repo = github.context.payload.repository.name;
   const owner = github.context.payload.repository.owner.name;
   const refs = github.context.payload.commits.map(commit => commit.id);
   
-  console.log(github.context);
+  
 
   // let files = [];
 
