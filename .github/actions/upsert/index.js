@@ -45,7 +45,7 @@ async function get_contents(paths) {
 };
 
 async function main() {
-  if (!(content.eventName in ['push', 'workflow_dispatch']))
+  if (!(github.content.eventName in ['push', 'workflow_dispatch']))
     return;
 
   const GH_PERSONAL_ACCESS_TOKEN = core.getInput('GH_PERSONAL_ACCESS_TOKEN');
@@ -58,7 +58,7 @@ async function main() {
 
   let files = [];
 
-  if (context.eventName === 'push') {
+  if (github.context.eventName === 'push') {
     const refs = github.context.payload.commits.map(commit => commit.id);
     const changed = await get_changed_filenames({ octokit, owner, repo, refs });
     const unique = Array.from(new Set(changed));
