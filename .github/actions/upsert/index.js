@@ -18,15 +18,24 @@ async function get_changed_filenames({ octokit, owner, repo, refs }) {
   return files.flatMap(file => file.filename);
 };
 
-async function get_all_filesnames({ patterns }) {
+async function get_all_filenames({ patterns }) {
   const globber = await glob.create(patterns.join('\n'));
   return await globber.glob();
 };
 
-function parse(file) {
-  const slug = file.data.path.replace('data/', '').replace('.md', '');
+async function get_contents({ files }) {
+  return Promise.all(files.map(file => {
+    return {
+      name: file,
+      content: fs.readFile(file, { encoding: 'utf8' })
+    }
+  }));
+}
+
+function parse({ name, content }) {
+  const slug = name.replace('data/', '').replace('.md', '');
   
-  const decoded = Buffer.from(file.data.content, 'base64').toString();
+  const decoded = Buffer.from(content, 'base64').toString();
   const { attributes: frontmatter, body: markdown } = parse_frontmatter(decoded);
 
   const html = marked(markdown);
@@ -62,20 +71,17 @@ async function main() {
     const unique = Array.from(new Set(changed));
     files = multimatch(unique, patterns);
   } else {
-    const globbed_files = await get_all_filesnames({ patterns });
+    const globbed_files = await get_all_filenames({ patterns });
     files = globbed_files.map(file => path.relative('.', file));
   }
 
-  console.log('files: ', files);
+  console.log(`Updating: ${files.join('\n')}`);
+  const contents = await get_contents({ files });
+  const parsed = contents.map(parse);
 
-  // get file contents and parse
-  // const contents = await Promise.all(files.map(file => fs.readFile(file, { encoding: 'utf8' })))
-  // console.log('contents: ', contents);
-  // const parsed = contents.map(parse);
-
-  // const output = JSON.stringify(parsed);
-  // core.setOutput('files: ', output);
-  // console.log(output);
+  const output = JSON.stringify(parsed);
+  core.setOutput('Output: ', output);
+  console.log(output);
 };
 
 main();
