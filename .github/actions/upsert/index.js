@@ -42,7 +42,8 @@ function parse(file) {
 
 async function main() {
   console.log('github.context.eventName: ', github.context.eventName);
-  if (!(github.context.eventName in ['push', 'workflow_dispatch'])) {
+  const events = ['push', 'workflow_dispatch'];
+  if (!(events.includes(github.context.eventName))) {
     console.log('unused event: ', github.context.eventName);
     return;
   }
