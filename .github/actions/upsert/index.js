@@ -82,7 +82,7 @@ async function main() {
 
   const output = JSON.stringify(parsed);
   core.setOutput('Output: ', output);
-  console.debug(`Output:\n${parsed[0]}`);
+  console.debug(`Output:\n${JSON.stringify(parsed[0])}`);
 };
 
 main();
