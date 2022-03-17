@@ -42,6 +42,10 @@ function parse({ name, content }) {
   const html = marked(markdown);
   const stats = reading_time(markdown);
 
+  console.debug('content: ', content);
+  console.debug('markdown: ', markdown);
+  console.debug('html: ', html);
+
   return {
     slug,
     frontmatter,
@@ -76,13 +80,13 @@ async function main() {
     files = globbed_files.map(file => path.relative('.', file));
   }
 
-  console.log(`Updating: ${files.join('\n')}`);
+  console.log(`Updating:\n${files.join('\n')}`);
   const contents = await get_contents({ files });
   const parsed = contents.map(parse);
 
   const output = JSON.stringify(parsed);
   core.setOutput('Output: ', output);
-  console.log(output);
+  // console.log(output);
 };
 
 main();
