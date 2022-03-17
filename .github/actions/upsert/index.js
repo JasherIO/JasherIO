@@ -1,11 +1,12 @@
 import core from '@actions/core';
-import github, { context } from '@actions/github';
+import github from '@actions/github';
 import glob from '@actions/glob';
 import multimatch from 'multimatch';
 import parse_frontmatter from 'front-matter';
 import { marked } from 'marked';
 import reading_time from 'reading-time';
 import { promises as fs } from 'fs';
+import path from 'path';
 
 function get_commit({ octokit, owner, repo, ref }) {
   return octokit.request('GET /repos/{owner}/{repo}/commits/{ref}', { owner, repo, ref });
@@ -61,19 +62,20 @@ async function main() {
     const unique = Array.from(new Set(changed));
     files = multimatch(unique, patterns);
   } else {
-    files = await get_all_filesnames({ patterns });
+    const globbed_files = await get_all_filesnames({ patterns });
+    files = globbed_files.map(file => path.relative(file, '.'));
   }
 
   console.log('files: ', files);
 
   // get file contents and parse
-  const contents = await Promise.all(files.map(file => fs.readFile(file, { encoding: 'utf8' })))
-  console.log('contents: ', contents);
-  const parsed = contents.map(parse);
+  // const contents = await Promise.all(files.map(file => fs.readFile(file, { encoding: 'utf8' })))
+  // console.log('contents: ', contents);
+  // const parsed = contents.map(parse);
 
-  const output = JSON.stringify(parsed);
-  core.setOutput('files: ', output);
-  console.log(output);
+  // const output = JSON.stringify(parsed);
+  // core.setOutput('files: ', output);
+  // console.log(output);
 };
 
 main();
