@@ -17,7 +17,7 @@ async function get_changed_filenames({ octokit, owner, repo, refs }) {
   return files.flatMap(file => file.filename);
 };
 
-async function get_all_filesnames() {
+async function get_all_filesnames({ patterns }) {
   const globber = await glob.create(patterns.join('\n'));
   return await globber.glob();
 };
@@ -64,7 +64,7 @@ async function main() {
     const unique = Array.from(new Set(changed));
     files = multimatch(unique, patterns);
   } else {
-    files = await get_all_filesnames();
+    files = await get_all_filesnames({ patterns });
   }
 
   console.log('files: ', files);
