@@ -12,7 +12,7 @@ function get_commit({ octokit, owner, repo, ref }) {
 };
 
 async function get_changed_filenames({ octokit, owner, repo, refs }) {
-  const responses = await Promise.all(refs.map(get_commit({ octokit, owner, repo, ref })));
+  const responses = await Promise.all(refs.map(ref => get_commit({ octokit, owner, repo, ref })));
   const files = responses.flatMap(response => response.data.files);
   return files.flatMap(file => file.filename);
 };
