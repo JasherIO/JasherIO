@@ -16,3 +16,5 @@ My eyes were locked onto Svelte. It reminded me of Vue, in the sense that code w
 At some point, I stumbled upon Remix. It seemed to solve most of the issues I had with Svelte frameworks. It was simpler than Next.js / Gatsby, but was still a React framework, so it had the benefit a developed ecosystem. However, it was pay-to-use, with a steep (as a sole developer), $200 price tag. Something I wasn't ready to invest in at the time. Thankfully, it's recently gone open source and I can experiment with it!
 
 So, that's my plan. Develop my personal site using Remix and see what it can do. 
+
+blah
