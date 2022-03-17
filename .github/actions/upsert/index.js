@@ -11,8 +11,8 @@ function get_commit({ octokit, owner, repo, ref }) {
   return octokit.request('GET /repos/{owner}/{repo}/commits/{ref}', { owner, repo, ref });
 };
 
-async function get_changed_filenames({ owner, repo, refs }) {
-  const responses = await Promise.all(refs.map(get_commit));
+async function get_changed_filenames({ octokit, owner, repo, refs }) {
+  const responses = await Promise.all(refs.map(get_commit({ octokit, owner, repo, ref })));
   const files = responses.flatMap(response => response.data.files);
   return files.flatMap(file => file.filename);
 };
