@@ -45,7 +45,7 @@ async function get_contents(paths) {
 };
 
 async function main() {
-  if (!(github.content.eventName in ['push', 'workflow_dispatch']))
+  if (!(github.context.eventName in ['push', 'workflow_dispatch']))
     return;
 
   const GH_PERSONAL_ACCESS_TOKEN = core.getInput('GH_PERSONAL_ACCESS_TOKEN');
