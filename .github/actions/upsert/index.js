@@ -5,7 +5,7 @@ import multimatch from 'multimatch';
 import parse_frontmatter from 'front-matter';
 import { marked } from 'marked';
 import reading_time from 'reading-time';
-import { promises as fs } from 'fs/promises';
+import { promises as fs } from 'fs';
 
 function get_commit({ octokit, owner, repo, ref }) {
   return octokit.request('GET /repos/{owner}/{repo}/commits/{ref}', { owner, repo, ref });
