@@ -27,7 +27,7 @@ async function get_contents({ files }) {
   const read_promises = files.map(async (file) => {
     return {
       name: file,
-      content: await fs.readFile(file, { encoding: 'utf8' })
+      content: await fs.readFile(file, { encoding: 'ascii' })
     }
   });
 
