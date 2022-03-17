@@ -42,8 +42,10 @@ function parse(file) {
 
 async function main() {
   console.log('github.context.eventName: ', github.context.eventName);
-  if (!(github.context.eventName in ['push', 'workflow_dispatch']))
+  if (!(github.context.eventName in ['push', 'workflow_dispatch'])) {
+    console.log('unused event: ', github.context.eventName);
     return;
+  }
 
   const GH_PERSONAL_ACCESS_TOKEN = core.getInput('GH_PERSONAL_ACCESS_TOKEN');
   const patterns = ['data/posts/*.md'];
