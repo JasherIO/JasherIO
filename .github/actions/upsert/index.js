@@ -63,7 +63,7 @@ async function main() {
     files = multimatch(unique, patterns);
   } else {
     const globbed_files = await get_all_filesnames({ patterns });
-    files = globbed_files.map(file => path.relative(file, '.'));
+    files = globbed_files.map(file => path.relative('.', file));
   }
 
   console.log('files: ', files);
