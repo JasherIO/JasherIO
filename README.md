@@ -1,8 +1,8 @@
 ## Hello, I'm Josh!
 
-- 🔭 I’m currently working on the [RLCS](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series) as a tournament referee and statistican
-- 🌱 I’m learning [Remix](https://remix.run/) and [TypeScript](https://www.typescriptlang.org/)
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/JasherIO/), [Twitter](https://twitter.com/JasherIO), or at business@jasher.io
+- 🔭 I’m currently working on the [RLCS](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series) as a tournament referee and statistician
+- 🌱 I’m learning [Svelte Kit](https://kit.svelte.dev/) and [TypeScript](https://www.typescriptlang.org/)
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/JasherIO/) or at business@jasher.io
 - 😄 Pronouns: He/Him
 
 <!-- SourcE: https://github.com/suhailkakar/suhailkakar/blob/main/README.md -->
@@ -42,27 +42,14 @@
       </a>
       <br>Node JS
     </td>
-    <td align="center" width="96">
-      <a href="#jasher-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
   </tr>
   
   <tr>
     <td align="center" width="96">
       <a href="#jasher-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
-      <br>React JS
-    </td>
-    <td align="center" width="96">
-      <a href="#jasher-tech">
-        <!-- Source: https://drive.google.com/drive/u/0/folders/1pbHnJqg8Y1ATs0Oi8gARH7wccJGv4I2c / https://imgur.com/5u9iyzx -->
-        <img src="https://i.imgur.com/5u9iyzx.png" width="48" height="48" alt="Remix" />
-      </a>
-      <br>Remix
+      <br>Python
     </td>
      <td align="center" width="96">
       <a href="#jasher-tech">
@@ -79,9 +66,9 @@
     </td>
     <td align="center" width="96">
       <a href="#jasher-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" width="48" height="48" alt="TailWind" />
+        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" width="48" height="48" alt="Tailwind" />
       </a>
-      <br>TailWind
+      <br>Tailwind
     </td>
     <td align="center" width="96">
       <a href="#jasher-tech">
