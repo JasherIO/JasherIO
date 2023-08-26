@@ -1,12 +1,13 @@
 {
   "metadata": {
     "title": "Jasher",
-    "description": "A web developer, tournament operator, and soccar enthusiast.",
+    "tagline": "Esport Ops & Dev",
+    "description": "I work in esports operations and related software solutions remotely from Nashville. I am currently a tournament referee and statistician for the Rocket League Championship Series (RLCS).",
     "image": "",
-    "keywords": "Jasher, Portfolio, Software, Web Developer, React, Remix, TypeScript, Git, Esports, Rocket League, Epic, Tournament, Referee, Statistician",
+    "keywords": "Jasher, Portfolio, Software, Web Developer, Svelte, SvelteKit, TypeScript, Git, Esports, Rocket League, Epic Games, Tournament, Referee, Statistician",
     "theme_color": "#22c55e"
   },
-  "platforms": [
+  "socials": [
     {
       "name": "Battlefy",
       "id": "JasherRL",
@@ -15,7 +16,7 @@
     },
     {
       "name": "Discord",
-      "id": "Jasher#1111"
+      "id": "Jasher"
     },
     {
       "name": "Email",
@@ -38,23 +39,23 @@
       "contact": true
     },
     {
-      "name": "SmashGG",
+      "name": "StartGG",
       "id": "Jasher",
-      "href": "https://smash.gg/user/3cba5634"
+      "href": "https://start.gg/user/3cba5634"
     },
     {
       "name": "Twitch",
       "id": "JasherIO",
       "href": "https://twitch.tv/JasherIO",
-      "footer": true
+      "footer": false
     },
     {
-      "name": "Twitter",
+      "name": "X",
       "id": "JasherIO",
-      "href": "https://twitter.com/JasherIO",
-      "navbar": true,
-      "footer": true,
-      "contact": true
+      "href": "https://x.com/JasherIO",
+      "navbar": false,
+      "footer": false,
+      "contact": false
     }
   ]
 }
