@@ -1,7 +1,7 @@
 ## Hello, I'm Josh!
 
 - 🔭 I’m currently working on the [RLCS](https://liquipedia.net/rocketleague/Rocket_League_Championship_Series) as a tournament referee and statistician
-- 🌱 I’m learning [Svelte Kit](https://kit.svelte.dev/) and [TypeScript](https://www.typescriptlang.org/)
+- 🌱 I’m learning [SvelteKit](https://kit.svelte.dev/) and [TypeScript](https://www.typescriptlang.org/)
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/JasherIO/) or at business@jasher.io
 - 😄 Pronouns: He/Him
 
